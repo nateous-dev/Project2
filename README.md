@@ -1,13 +1,12 @@
-# Project2 고객 이탈 예측부터 상담 준비까지, 고객 상담 지원
-
-[README.md](https://github.com/user-attachments/files/34253767/README.md)
 # 은행 고객 이탈 상담 지원 모델
+
+**고객 이탈 예측부터 상담 준비까지, 텔레마케터를 위한 고객 상담 지원 AI**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/ML-XGBoost-148A80)
 ![Gemini](https://img.shields.io/badge/AI-Gemini-4285F4)
-![Version](https://img.shields.io/badge/version-v007-18314A)
+![Version](https://img.shields.io/badge/version-v008-18314A)
 
 ## 프로젝트 개요
 
@@ -17,7 +16,7 @@
 
 ## 프로젝트 기간
 
-**2026.10.30 ~ 2026.11.02 · 총 2일**
+**2026.10.30 ~ 2026.11.02 · 실제 작업 2일**
 
 ## 프로젝트 구성원 및 역할
 
@@ -37,7 +36,7 @@
 2. 머신러닝과 신경망을 비교하고 검증 지표로 운영 모델을 선정합니다.
 3. 단일·대량 신규 고객을 예측하고 검토 후 원본 고객 자료에 추가합니다.
 4. 고객 정보·확인 사유·문서 근거를 바탕으로 상담 질문과 초안을 생성합니다.
-5. 고객별 상담 기록을 보관·검색·요약하고 다음 상담에 활용합니다.
+5. 고객별 상담 기록을 보관·검색·요약하고 다음 상담에 활용합니다. 상담자가 기록한 고객별 중요 사항을 상담 메모에 입력하면 AI가 기존 상담 이력과 함께 검토하여 후속 질문과 답변 준비를 돕습니다.
 
 ## 주요 기능
 
@@ -49,7 +48,7 @@
 | 모델 성능 검증 | XGBoost·MLP 비교, 선정 결과, 임계값별 지표, 혼동행렬·확률 구간 비교 |
 | 고객 상담 지원 AI | 사유·메모 입력, 1차 상담 초안·후속 답변, 문서 출처, 고객별 기록·요약 |
 
-입력은 연한 파란색 영역, 결과는 흰색 카드로 구분합니다. 관리 임계값을 사이드바에서 조절할 수 있으며 페이지별 스크롤 위치를 기억합니다.
+입력은 연한 파란색 영역, 결과는 흰색 카드로 구분합니다. 관리 임계값을 사이드바에서 조절할 수 있으며 메뉴를 선택하면 해당 페이지의 맨 위로 이동합니다.
 
 ## 데이터 및 전처리
 
@@ -140,7 +139,7 @@ LLM_MODEL=gemini-3.1-flash-lite
 LLM_API_KEY=발급받은_키
 ```
 
-[Google AI Studio](https://aistudio.google.com/api-keys)에서 키를 발급해 입력합니다. 화면의 **연결 설정 파일 열기 · 메모장 → 키 입력·저장 → 연결 상태 확인** 순서로도 사용할 수 있습니다. 메모장은 앱 서버가 실행 중인 Windows PC에서 열립니다. 연결 확인은 실제 샘플 생성을 수행하며 API 이용 한도를 사용합니다.
+[Google AI Studio](https://aistudio.google.com/api-keys)에서 키를 발급해 프로젝트 폴더의 `.env`에 입력합니다. 상담 페이지에서 고객을 선택하고 상담 제안을 생성해 연결을 확인합니다.
 
 무료 대상·한도·자료 이용 조건은 계정과 프로젝트에서 확인하세요. 앱은 결제 설정을 변경하지 않습니다. 무료 테스트에는 개인정보 없는 샘플을 사용하세요. [Gemini 요금 안내](https://ai.google.dev/gemini-api/docs/pricing)
 
@@ -203,4 +202,12 @@ reports/training_audit.json
 
 ## 버전
 
-현재 제출 버전은 **v007**입니다. 이전 v006을 보존하며 다음 명시적 저장 요청 때 새 번호의 폴더를 만듭니다. GitHub 원격 업로드는 수행하지 않았습니다.
+현재 제출 버전은 **v008**입니다. 이전 v006을 보존하며 다음 명시적 저장 요청 때 새 번호의 폴더를 만듭니다. GitHub 원격 업로드는 수행하지 않았습니다.
+
+## 화면 확인 안내
+
+1. 프로젝트 폴더에서 `python -m pip install -r requirements.txt`를 실행합니다.
+2. `.env`의 LLM_API_KEY에 본인의 키를 넣고 저장합니다. 샘플 설정에는 실제 키가 없습니다.
+3. `python -m streamlit run app.py`를 실행하고 터미널에 표시되는 주소를 브라우저에서 엽니다.
+4. 사이드바에서 다섯 메뉴를 선택하고, 고객 상담 지원 AI에서 고객·사유·상담 메모를 입력해 제안을 생성합니다.
+5. 상담 보관을 선택하면 이후 질문에서 해당 고객의 최근 기록을 참고합니다. 고객별 중요 사항은 상담 메모에 입력하세요.
