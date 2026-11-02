@@ -1,4 +1,4 @@
-# Project2 고객 이탈 예측부터 상담 준비까지, 텔레마케터를 위한 고객 상담 지원 AI
+# Project2 고객 이탈 예측부터 상담 준비까지, 고객 상담 지원
 
 [README.md](https://github.com/user-attachments/files/34253767/README.md)
 # 은행 고객 이탈 상담 지원 모델
