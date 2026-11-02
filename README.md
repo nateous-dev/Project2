@@ -271,6 +271,12 @@ reports/training_audit.json
 
 상담자가 고객 특징과 확인 질문을 빠르게 검토하고, 이전 기록을 다음 상담에 참고하도록 지원합니다. 향후 국내 업무 규정 기반 자료 확충, 검색·답변 품질 평가, 장기 이력 요약, 접근 통제, 독립 시험 자료와 실제 상담 성과 검증을 진행할 수 있습니다.
 
+## 프로젝트 시연 영상
+
+[▶ 1부 영상 보기](은행고객_상담AI_1부.mp4)
+
+[▶ 2부 영상 보기](은행고객_상담AI_2부.mp4)
+
 ## 참고 자료
 
 - [Baringa 은행 고객 경험 조사](https://www.baringa.com/en/insights/architecting-loyalty-in-financial-services/retail-banking-survey/)
