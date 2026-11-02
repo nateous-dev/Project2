@@ -1,5 +1,3 @@
-
-
 # 은행 고객 이탈 상담 지원 모델
 
 **고객 이탈 예측부터 상담 준비까지, 텔레마케터를 위한 고객 상담 지원 AI**
@@ -9,13 +7,6 @@
 ![XGBoost](https://img.shields.io/badge/ML-XGBoost-148A80)
 ![Gemini](https://img.shields.io/badge/AI-Gemini-4285F4)
 ![Version](https://img.shields.io/badge/version-v009-18314A)
-
-## 프로젝트 시연 영상
-
-아래 링크를 누르면 GitHub의 영상 파일 페이지가 열립니다. 파일 페이지에서 미리보기가 보이지 않으면 **View raw**를 눌러 내려받아 재생하세요.
-
-- [▶ 프로젝트 시연 영상 1부](https://github.com/nateous-dev/Project2/blob/main/%EC%9D%80%ED%96%89%EA%B3%A0%EA%B0%9D_%EC%83%81%EB%8B%B4AI_1%EB%B6%80.mp4)
-- [▶ 프로젝트 시연 영상 2부](https://github.com/nateous-dev/Project2/blob/main/%EC%9D%80%ED%96%89%EA%B3%A0%EA%B0%9D_%EC%83%81%EB%8B%B4AI_2%EB%B6%80.mp4)
 
 ## 프로젝트 개요
 
@@ -277,6 +268,16 @@ reports/training_audit.json
 ## 기대 효과 및 향후 개선
 
 상담자가 고객 특징과 확인 질문을 빠르게 검토하고, 이전 기록을 다음 상담에 참고하도록 지원합니다. 향후 국내 업무 규정 기반 자료 확충, 검색·답변 품질 평가, 장기 이력 요약, 접근 통제, 독립 시험 자료와 실제 상담 성과 검증을 진행할 수 있습니다.
+
+## 프로젝트 시연 영상
+
+### 1부
+
+https://github.com/user-attachments/assets/a469bf78-1e87-4e82-9bc6-099e122d9be1
+
+### 2부
+
+https://github.com/user-attachments/assets/6d1505e9-0031-46b0-82f5-278238aae9fa
 
 ## 참고 자료
 
