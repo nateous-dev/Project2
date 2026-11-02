@@ -1,7 +1,7 @@
-# Project2[README.md](https://github.com/user-attachments/files/34253767/README.md)
-# 은행 고객 이탈 상담 지원 모델
+# Project2 고객 이탈 예측부터 상담 준비까지, 텔레마케터를 위한 고객 상담 지원 AI
 
-**고객 이탈 예측부터 상담 준비까지, 텔레마케터를 위한 고객 상담 지원 AI**
+[README.md](https://github.com/user-attachments/files/34253767/README.md)
+# 은행 고객 이탈 상담 지원 모델
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
