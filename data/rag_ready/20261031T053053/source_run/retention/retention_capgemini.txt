@@ -1,0 +1,4197 @@
+--- PAGE 1 ---
+World Report Series 2024
+Retail Banking
+Take an efficiency leap with frictionless, personalized banking
+Intelligent banks
+do more with less
+
+--- PAGE 2 ---
+2 World Retail Banking Report 2024
+Foreword                                                                                     3   
+                                                                                                         
+E
+xecutive steering committee    5
+E
+xecutive summary   
+ 6
+Shifting sands: banks prepare for turbulent  
+macroeconomic headwinds    
+ 8
+Banks take a leap forward in efficiency and 
+customer experience with generative AI
+ 
+ 1
+6
+Pursue an enterprise-wide approach  
+to scale AI capabilities and value
+  3
+4
+Conclusion  5
+0
+Methodology  5
+1
+Partner with Capgemini
+  5
+2
+Contents
+
+
+--- PAGE 3 ---
+Foreword
+As we celebrate the 20th anniversary of our World Retail Banking Report, it's remarkable 
+to reflect on the journey since its launch in 2004. The first decade of the report, from 
+2004 to 2013, saw significant events such as the adoption of the euro currency; the 
+introduction of Single Euro Payments Area (SEPA) that standardized cross-border euro 
+transactions within Europe; the infamous 2008 financial crisis; and the emergence of 
+the "Great Recession" following the end of "Great Moderation" in the US. Additionally, 
+blockchain made its debut in 2009, when Satoshi Nakamoto, invented Bitcoin and 
+brought blockchain technology to the world. In 2010, the Dodd-Frank Act defined a 
+series of federal regulations to prevent future financial crises.
+Between 2014 and 2023 there was a transformative shift in the banking sector. The 
+Payment Services Directive 2 (PSD2) regulation was released by the EU in 2016. This 
+initiated the transition from proprietary data to the open banking era, empowering the 
+rise of FinTechs. Digital transformation, which was already in progress, was accelerated 
+by the 2020 pandemic. Notably, this period marked a significant move towards API and 
+cloud technology, enhancing agility and efficiency for financial institutions.
+As we look back on these two decades, our World Retail Banking Report has observed, 
+documented, and analyzed the retail banking evolution. It has provided valuable insights 
+into the challenges and opportunities presented by customer behavior evolution, 
+economic shifts, and technological advancements.
+In 2024, retail banks worldwide face a volatile and uncertain landscape marked by 
+inflationary pressure, potential rate cuts, declining net interest income, the real 
+impact of new-age banks toward younger clients, and major geopolitical uncertainties. 
+Navigating this complex terrain will not be easy and will require intelligent solutions 
+to help banks maintain profitability while delivering superior customer experiences 
+through frictionless, personalized banking.
+Capgemini’s World Retail Banking Report 2024 explores today’s challenging banking 
+environment and looks at how embracing AI-driven strategies can optimize operational 
+efficiencies while improving customer experience. The potential for enhanced customer 
+engagement and increased revenue generation opportunity is undeniable. Competitive 
+advantage in the marketplace will follow.  
+ 
+Our 2024 report demonstrates how the seamless adoption of generative AI-powered 
+copilots can augment human expertise and revitalize retail banking. It also offers 
+recommendations for a robust bottom-up strategy to help scale intelligent 
+transformation for banks.
+We hope to take some of the guesswork out of the transformative potential of 
+generative AI and help build a roadmap on how it can empower banks to navigate the 
+uncertainties of 2024 and beyond. The potential benefits for both banks and customers 
+are significant, paving the way for a more innovative and customer-centric future of 
+retail banking.
+Anirban Bose 
+Financial Services Strate gic Business Unit CEO 
+& Group Executive Board Member, Capgemini
+3World Retail Banking Report 2024
+
+--- PAGE 4 ---
+2004/05 2006/07 2008/09 2010/11 2012/13 2014/15 2016/17 2018/19 2020/21 2022/24
+244 272 277281 271 244 237 224 211 158
+Bank 
+branches (k)1
+•  Facebook launches in 
+2004, the iPhone in 
+2007
+•  EU: The euro gains 
+acceptance across 
+12 European countries
+•  US: End of the Great 
+Moderation Era 
+(mid-1980s—2008) of 
+low inﬂation and 
+economic growth: 
+housing prices peak 
+triggering subprime 
+mortgage crisis
+•  Bitcoin launched
+•  EU: SEPA (Single Euro 
+Payments Area) 
+launched
+•  EU: Sovereign debt 
+crisis. Concerns about 
+Eurozone stability
+•  US: The Great 
+Recession triggered 
+by Lehman Brothers 
+bankruptcy 
+•  GDP down by 4.3% 
+•  Unemployment 
+doubles to over 10%
+•  US: Dodd-Frank Act 
+enacted to avoid 
+future ﬁnancial crises 
+•  Bitcoin's record surge 
+sparks interest and 
+debate about its impact 
+on banking
+•  FinTechs emerge to 
+challenge incumbents: 
+Revolut, Chime, Monzo, 
+Starling Bank, etc.
+•  EU: First open banking 
+regulations introduced 
+in 2015 
+•  US: Apple Pay gains 
+scale in mobile 
+payments
+•  FinTech disruption 
+accelerates: PayPal, 
+Square, Stripe dominate 
+growth in online and 
+in-store payments 
+without traditional 
+banks
+•  Bank/FinTech 
+collaboration increases
+•  EU: Brexit-UK leaves EU
+•  EU: Revised PSD2 
+oﬃcially launched in 
+2018
+•  EU: GDPR imposes strict 
+rules on banks and 
+companies handling 
+consumer data
+•  Covid-19 forces a halt 
+to global activities
+•  CBDC pilots across 
+the globe to measure 
+feasibility/
+implications
+•  ChatGPT debuts 
+Q4 2022
+•  US: JPMorgan Chase 
+launches JPM Coin 
+for instant settlement
+KEY FINANCIAL SERVICES EVENTS
+•  From product centricity 
+to relationship banking 
+as competition for 
+customer wallets 
+intensiﬁes
+•  Target mass-aﬄuent 
+customers to boost 
+wallet share
+•  Multichannel 
+engagement  with 
+focus on online
+•  Branches need to 
+evolve from 
+transactional services 
+to advisory sales
+•  Back to basics amid 
+global crisis: 
+preserving core 
+functions essential for 
+sustaining client 
+relationships
+•  Strengthen SME 
+business 
+•  Enhance customer 
+experience with focus 
+on customer 
+demographics, 
+regional norms, and 
+channel preferences
+•  Customers report poor 
+experiences with banks    
+ • Build loyalty through    
+    customer experience
+•  Mobile banking:  the 
+new engagement 
+channel
+•  Banking NPS 
+deteriorates signaling a 
+change in customer 
+expectations
+•  CX and proﬁtability 
+aﬀected by years of 
+limited investments in 
+back-end operations
+KEY WORLD REPORT THEMES
+•  APIs critical to digitally 
+connected ecosystems
+•  Era of FinTech 
+partnerships and open 
+banking
+•  Smart Bank/FinTech 
+collaboration in the 
+Open X era
+•  Composable 
+platforms enable 
+agile scalability and 
+Open X partnerships
+•  Time for embedded 
+ﬁnance through 
+Banking-as-a-Service
+•  CMOs become 
+customer strategists 
+through data-driven 
+insights
+•  AI and Gen AI can 
+unlock capabilities for 
+autonomous and 
+intelligent banking
+Note: Branch and new-age bank customer numbers represent totals for alternate years starting from 2004 and 2016, respectively.
+                  1  Across 14 key markets: Australia, Brazil, Canada, France, Germany, Hong Kong, Netherlands, Portugal, Singapore, Spain, Sweden, UAE, UK, and US
+                  2 New-age players considered: Chime, Monzo, N26, Nubank, Revolut, Starling Bank
+The World Retail Banking Report Series
+ Capturing 21st century retail banking evolution
+New-age bank 
+customers (millions)2 1.6 15.4 67.3 ~161.0
+4
+4 World Retail Banking Report 2024
+
+--- PAGE 5 ---
+Executive steering 
+committee
+The Executive Steering Committee participants for our World Retail Banking Report 2024 
+included top executives from leading banks and industry partners. We are grateful for their time, 
+experience, and vision as they helped guide our report’s content.
+Gurbhej Dhillon
+CTO 
+F
+lutterwave
+Frédéric Tardy 
+General Manager, FSI
+Microsoft
+Greg Jacobi
+VP & GM, Banking and Lending 
+Salesforce
+Cormac Flanagan
+Global Head of Product 
+Management  
+Temenos
+Technology and business partners
+Steven Cooper
+CEO 
+A
+ldermore bank
+Pierre Ruhlmann
+COO, Retail Banking
+BNP Paribas
+Vincent Kolijn
+Head of Strategy and  
+Transformation, Retail Bank  
+Rabobank
+Sweta Mehra
+MD, Everyday Banking  
+A
+NZ
+Rafael Cavalcanti
+Head of Data, Analytics, and AI 
+Banco Bradesco
+Arun Mehta
+Head of Data Analytics and AI   
+F
+irst Abu Dhabi Bank (FAB)
+Banks
+5World Retail Banking Report 2024
+
+--- PAGE 6 ---
+Shifting sands: banks prepare 
+for turbulent macroeconomic 
+headwinds
+The year 2023 showcased strong global 
+bank performance, marked by substantial 
+revenue growth and improved net  
+profit margins. High interest rates, low 
+credit defaults, and robust consumer 
+spending were a recipe for success. 
+However, as banks transition into 
+2024, they face a volatile and uncertain 
+landscape characterized by persistent 
+inflationary pressures, potential rate cuts, 
+declining net interest income,  
+and geopolitical uncertainties.
+The persisting cost-of-living crisis has 
+impacted the financial well-being of 
+customers. Financial stress triggered a 
+customer spending a contraction, evident 
+in falling demand for credit and bank 
+deposit outflows across key markets in 
+Europe, Asia Pacific, and North America. 
+In response, banks seek to identify 
+and engage with profitable customer 
+segments, which requires a personalized 
+approach. While banks struggle to 
+deliver adequate digital experience 
+and mobile banking, new-age banks are 
+gaining ground, especially with the youth 
+segment.
+As banks anticipate a challenging 2024, 
+including rising funding costs and reduced 
+lending volumes, they are reassessing 
+their cost base. Reassessment involves 
+closing unprofitable business lines and 
+exiting non-core markets; streamlining 
+operations through workforce 
+optimization is also high on the banks’ 
+agenda. 
+ 
+The time has come to go back to 
+the basics, focusing on productivity, 
+expanding the customer base, retaining 
+profitable segments, and increasing 
+d i v e r s i fi c a t i o n  i n t o  n o n - i n t e r e s t  i n c o m e .                                     
+At the same time, banks will have to 
+accelerate their digital transformation, 
+leveraging the power of generative AI 
+at scale. As a testament to the need 
+to digitalize and despite required cost 
+discipline, 70% of bank CXOs plan 
+to increase digital transformation 
+investments by up to 10% in 2024.
+Banks take a leap forward 
+in efficiency and customer 
+experience with generative AI
+Generative AI's impact on democratizing 
+artificial intelligence has been profound. 
+The 2024 World Retail Banking Report 
+survey of bank CXOs found that 80% of 
+bank executives believe generative AI 
+represents a significant leap in advancing 
+AI technology. As applications multiply, 
+scalable benefits will require balancing 
+customer experience enhancements 
+and optimizing operational efficiency. 
+Our survey of bank employees indicates 
+they focus nearly 70% of their time on 
+operational activities, leaving only 30% 
+for customer interactions. Banks can 
+strike a new, more results-driven balance 
+by unlocking the full potential of AI and 
+generative AI across diverse use cases.
+Three pivotal processes emerge as prime 
+candidates for intelligent transformation:
+• Workforce productivity tools  
+through copilots
+• Document gathering, processing,  
+and validating
+• Call center customer centricity  
+and efficiency.
+Executive summary
+80%
+of bank executives 
+believe generative 
+AI represents a 
+significant leap 
+in advancing AI 
+technology.
+6
+World Retail Banking Report 2024
+
+--- PAGE 7 ---
+Pursue an enterprise-
+wide approach to scale AI 
+capabilities and value
+Only 4% of surveyed bank are ready to 
+take advantage of generative AI-driven 
+intelligent transformation. To adopt AI at 
+scale, a bottom-up strategy encompassing 
+three enabling layers is necessary:
+• First, develop a modern data estate.
+Establish a robust infrastructure for 
+enterprise-wide data management to 
+serve as the foundational framework for 
+handling diverse data sets efficiently.
+• Then, leverage advanced data 
+processing. Harness the potential of 
+data by implementing a robust model 
+layer equipped with large language 
+models (LLMs) and sophisticated 
+algorithms. This integration facilitates the 
+conversion of raw data into actionable  
+insights, translating these insights into 
+tangible impacts.
+• Finally, implement guardrails and 
+frameworks.  Set up comprehensive 
+guardrails and frameworks aligned with 
+business priorities and practices. This 
+responsible approach demonstrates the 
+ROI of AI and generative AI initiatives 
+and ensures ethical and accountable AI 
+deployment and maintenance.
+7
+World Retail Banking Report 2024
+
+--- PAGE 8 ---
+Shifting sands: banks 
+prepare for turbulent 
+macroeconomic 
+headwinds
+8
+
+
+--- PAGE 9 ---
+Much of 2023 was marked by robust global bank 
+performance, with significant revenue growth and long-
+awaited improvement in net profit margins. High interest 
+rates, low credit defaults fueled by post-COVID public 
+funding, and resilient economic conditions were all 
+catalysts for exceptional results in 2022-2023 in the retail 
+banking sector.
+Following the unparalleled profitability of European 
+banks in 2023, the impending peak in interest rates 
+hints at a plateau in earnings for 2024. European 
+financial institutions might contend with a 4-5% 
+downturn in earnings-per-share throughout 2024–
+2025.
+1 Simultaneously, these banks may grapple with 
+a deterioration in asset quality, attributed to weaker 
+growth, sustained inflation, and heightened borrowing 
+costs.
+2 Across the Atlantic, US banks are bracing for a  
+dip in interest income. The convergence of deposit bet  
+as with elevated interest rates, coupled with factors  
+like sluggish loan growth and potentially stringent  
+capital requirements, poses additional challenges  
+to business volumes.
+3
+The 250 banking CXOs surveyed in the World Retail 
+Banking Report 2024 ranked the high cost of capital,  
+a decline in deposit volumes, rising provisions for non-
+performing loans, falling lending volumes, and increasing 
+cost-to-income ratios as their top concerns. Bank CXOs  
+in 2024 will be navigating an anxiety-inducing triad of 
+cost, competition, and customer churn. 
+As financial stress mounts, customer 
+spending contracts
+As part of the World Retail Banking Report 2024 
+survey of 4,500 customers across 14 markets, 72% of 
+participants said inflation had a moderate to high impact 
+on their financial well-being, while 16% said it drove 
+them to paycheck-to-paycheck living. The result? We are 
+observing early signs of falling demand for credit and an 
+outflow of bank deposits as consumers depleted savings 
+accumulated during the pandemic.
+This trend was most noticeable in the United States, 
+where household savings as a percentage of disposable 
+income dropped to nearly 4% in October 2023 as 
+compared to approximately 13% in 2020-2021 and around 
+6% from 2015 to 2019.
+4
+World Retail Banking Report 2024
+9
+
+
+--- PAGE 10 ---
+As customers exhausted their savings, 
+revolving credit – notably credit card debt 
+– surged to a historic high. In November 
+2023, US credit card debt peaked at USD 
+1.08 trillion. Bloomberg reported a rise in 
+credit card delinquencies, surpassing pre-
+2020 levels, followed by historic pandemic 
+lows.
+5 Additionally, non-revolving credit in 
+the United States, encompassing student 
+and auto loans, declined approximately 
+10% from October 2022 to October  
+2023. Demand for mortgage lending 
+similarly dipped.
+6
+Across Europe, the average savings 
+ratio stood at 12.6% of disposable 
+income between 2012 and 2019. Amid 
+the pandemic, this ratio surged to an 
+unprecedented 25.4% in Q2 2021. Yet, 
+by 2023, a downward trend emerged, 
+steadily pulling the savings ratio to 
+the pre-pandemic average.
+7 In parallel, 
+European banks significantly tightened 
+credit standards for consumer loans, 
+particularly home loans, because of 
+heightened risk perception and low-
+risk tolerance prompted by the high 
+cost of capital, declining customer 
+creditworthiness, and an uncertain 
+economic outlook. The European 
+Commission forecasted that GDP  
+growth in Europe and the euro area  
+would reach a meager 0.6% in 2023  
+due to subdued economic activity. The 
+European Commission anticipates 1.2%  
+to 1.3% GDP growth in 2024.
+8
+Asia Pacific markets such as Singapore  
+and Australia mirrored the trend. 
+Australia’s persistent cost-of-living crunch 
+led to heavy reliance on unsecured credit, 
+keeping credit card debt elevated. Late 
+delinquency rates for cards in Australia 
+reached their highest point since 2021, 
+with the number of accounts 90+ days 
+past due up 19% year-over-year (YoY). 
+Demand for mortgages and auto loans 
+dipped nearly 5% YoY from September 
+2022 to 2023.
+9 Similarly, calls for  
+secured credit, including home and auto 
+loans, are anticipated to remain subdued 
+in Singapore.
+10
+Declining bank deposits and muted 
+credit demand are substantial challenges. 
+Despite the attractiveness of high  
+interest rates to customers, banks have 
+been slow to pass on the benefit to 
+depositors, sparking their redirection 
+of cash to lucrative term accounts and 
+money-market instruments. In the United 
+States, total bank deposits declined 4.8% 
+YoY by June 30, 2023, for the first time 
+since 1994.
+11
+In addition, concern over the stability of 
+small regional banks prompted a shift of 
+deposits to larger financial institutions. 
+Spooked by bank failures, customers 
+began draining their accounts from 
+regional and community banks and  
+credit unions.
+More than half of the respondents to 
+our customer survey indicated plans to 
+diversify their deposits across multiple 
+banks to mitigate potential losses in a 
+bank failure. Banks significantly increased 
+interest payouts to retain these deposits, 
+resulting in escalated interest expenses 
+and a decline in net interest margins. 
+Some regional banks resorted to high-
+cost brokered cash deposits (CDs) to 
+supplement organic deposit growth, 
+leading to elevated deposit costs. Facing 
+the balance of financial stability and 
+customer trust amid a shifting banking 
+landscape, other regional firms, such as 
+PacWest Bancorp, turned to strategic 
+asset sales to shore up funds.
+12 For 
+instance, PacWest Bancorp sold its USD 
+3.5 billion loan portfolio to an asset 
+management firm in June 2023 to 
+strengthen its balance sheet.
+13 
+World Retail Banking Report 2024
+10
+
+
+--- PAGE 11 ---
+Current customer profitability needs 
+careful management
+Given recent economic volatility, 
+identifying potentially profitable 
+customer segments is essential but poses 
+challenges. Each segment is characterized 
+by differing profitability and loyalty 
+levels, leaving banks with an unwieldy 
+customer landscape (figure 1). Consider 
+the following customer framework which 
+defines four key customer segments and 
+their potential impact on bottom lines:
+• Butterflies: Representing 22% of 
+customers, butterflies exhibit potential 
+profitability but lack consistent loyalty. 
+They frequently switch banks in pursuit 
+of better offers and experiences.
+• True friends: Comprising 37% of 
+customers, this group demonstrates high 
+loyalty to and profitability for their 
+primary bank. They actively engage with 
+a primary bank, using multiple products 
+and services. Ongoing patronage and 
+positive referrals make them pivotal to 
+bank growth.
+• Barnacles: These long-term customers 
+stick with the bank over time, taking 
+advantage of basic services or low-profit 
+products like checking accounts and 
+debit cards. Despite loyalty, their 
+revenue impact is marginal. Around 20% 
+of customers fall into this category.
+• Strangers: Making up about 21%, these 
+newly-acquired customers interact with 
+the bank only sporadically. They explore 
+products and services but rarely engage. 
+Strangers can potentially transition into 
+butterflies, true friends, or barnacles.
+Projected loyalty
+Potential proﬁtability
+HIGH
+LOW
+LOW
+HIGH
+Bank customers are not equally proﬁtable…
+BARNACLES
+TRUE FRIENDS
+BUTTERFLIES
+STRANGERS
+… but tailored segment approaches
+can improve overall value potential
+Degree of personalization HIGHLOW
+customers are customers are
+STRANGERS21% 20% BARNACLES
+Figure 1. Customer segments require diﬀerent strategies to boost proﬁtability
+customers are
+BUTTERFLIES22%
+•  Considered brand
+    ambassadors
+•  Contribute up to 150%
+    of proﬁts
+•  Consider the ﬁrm to
+    be their primary bank   
+customers are
+TRUE FRIENDS37%
+•  Banks are unable to      
+    realize relationship  
+    value
+•  Maintain a secondary  
+    bank account
+•  Newly acquired         
+    customers exploring    
+    the bank’s oﬀerings
+•  Unclear proﬁtability
+•  Maintain a secondary  
+    bank account 
+•  Erode up to 50% of
+proﬁts
+•  Maintain a minimum
+balance
+•  Maintain a secondary
+bank account
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024; World Retail Banking Report 2024 
+CXO survey, N=250. 
+The framework is from Werner Reinartz and V. Kumar’s article, “The Mismanagement of Customer Loyalty;” 
+recalibrated for retail banking customers based on the banking CXO survey.
+•  Nurture the relationships, driving 
+cross- and up-selling with 
+contextualized oﬀerings, preferred 
+pricing (exclusive discounts), and 
+rewards to boost client lifetime value
+•  Communicate value, personalize 
+products and services to improve 
+customer journeys
+•  Deliver frictionless and consistent 
+service, reinforcing trust and improving 
+engagement across channels
+•  Optimize cost of service by driving 
+the segment to digital channels with 
+self-service options
+World Retail Banking Report 2024
+11
+
+
+--- PAGE 12 ---
+Our CXO survey of 250 bank executives 
+across 14 markets revealed that the churn 
+rate of newly acquired customers was 
+5–10% for more than half of the banks 
+surveyed, with 24% reporting 15–20% 
+customer churn. In contrast, for the true 
+friends segment, 42% of banks noted 
+a 0–5% rate, with 36% reporting in the 
+6–10% range.
+By strategically allocating resources 
+and tailoring marketing efforts, banks 
+can optimize profit potential for each 
+customer segment and drive retention 
+as appropriate (figure 1). Proactive 
+moves are crucial now as the share of 
+unprofitable customers is poised to 
+increase, especially if the current cost-of-
+living crunch is prolonged into the future.
+Building a new, future-focused 
+customer pipeline is essential
+Generally speaking, today’s bank customer 
+profile skews older, which portends a 
+sparse credit-demand pipeline in the years 
+ahead. Older customers often correlate 
+with deposits because mature individuals 
+control relatively higher wealth, own 
+property and savings, and have less need 
+to borrow.
+Executives who participated in our CXO 
+survey said Gen Z individuals, aged 18–26 
+years, account for only 21% of their bank’s 
+total customer base; moreover, only 9% of 
+bank executives prioritize targeting and 
+acquiring Gen Z customers. 
+During interviews, banking executives 
+told us they aim to prioritize customers 
+who can swiftly contribute to the 
+bank’s economic margin. Within a 
+fiercely competitive market, investing in 
+younger demographics entails potential 
+risks. Should banks aim to target this 
+segment, the approach largely involves 
+open, collaborative, and white-label 
+partnerships with Gen Z-related brands, 
+rather than making direct investments in 
+the Gen Z segment.
+Gen Z is expanding and becoming more 
+influential. In the workforce, they will 
+soon supersede baby boomers aged 60 
+to 78 (in 2024).
+14 Gen Z banking habits, 
+preferences, and expectations for 
+personalization differ significantly from 
+previous generations. Therefore, banks 
+seeking a youthful business pipeline will 
+adapt services accordingly. The key is 
+capturing Gen Z customers early in their 
+financial journey, which requires a robust 
+technology and data foundation. While 
+banks are lagging, new-age payers are 
+increasingly enticing the Gen Z segment 
+to build up their customer base.
+In Italy, Milo Gusmeroli, Deputy General 
+Manager at Banca Popolare di Sondrio, 
+said, “Prioritizing the younger generation 
+is pivotal as they shape the future 
+of banking. Our approach isn’t just 
+theoretical; it’s pragmatic. We anticipate 
+Gen Z’s embrace of digital platforms and 
+physical branches, and our focus extends 
+beyond price wars or unsustainable 
+services.” He added that Banca Popolare 
+di Sondrio appeals directly to Gen Z via 
+unique products and approaches beyond 
+numbers-driven strategies.
+The shift to digital channels 
+helps keep new-age players 
+competitive
+The disparity between in-branch banking 
+and digital channels (such as mobile apps 
+and websites) continues to widen. Of 
+the bank customers we surveyed, 23% 
+said they prefer visiting branches for 
+most transactions, yet they are gradually 
+transitioning to digital channels like 
+mobile apps. Conversely, only 16% choose 
+to conduct all transactions at branches 
+and consider digital channels less critical.
+• 37% of customers told us they use digital 
+channels to interact with their banks and 
+are gradually decreasing reliance on 
+in-branch services.
+• 24% say they have shifted entirely to 
+digital channels, rendering physical 
+branches redundant in key geographies. 
+Despite the increasing digital shift, 
+online platforms have delivered relatively 
+lackluster customer experience (CX). 
+Among customers surveyed, 59% rated 
+their mobile banking app experience as 
+average, with only 35% expressing high 
+satisfaction.
+59%
+of banking 
+customers rated 
+their mobile 
+banking app 
+experience as 
+only average.
+12
+World Retail Banking Report 2024
+
+--- PAGE 13 ---
+The discrepancy in experience is 
+particularly noticeable between 
+transactional and advanced 
+functionalities. For instance, when using 
+advanced features – finance management 
+tools such as budgeting, advisory, or 
+rewards – more than 60% of customers 
+rated their experience as “average”. Yet, 
+almost half expressed “delight” with 
+transactional features, such as money 
+transfers. So, can conclusions be drawn 
+that banks have work to do when it 
+comes to making advanced features more 
+intuitive or convenient?
+As incumbent banks strive to adapt  
+to evolving digital experiences, 
+challengers gain traction and build 
+momentum. Nearly 87% of surveyed 
+incumbent bank CXOs considered new-
+age players their leading competitors.
+Despite significantly less venture capital 
+funding, 36 new-age banks entered 
+the market as 34 exited, resulting in 1% 
+overall growth from January 2022 to 
+July 2023, according to an October 2023 
+report from global consultancy Simon-
+Kucher.
+15 While the pace of new entries 
+has decelerated, growth indicators  
+remain robust:
+• New-age players expanded customer 
+reach by 30%, surpassing the one billion 
+mark in the 18 months ending July 
+2023.
+16 As one specific example, in Spain 
+Revolut, a London-based global 
+challenger, outpaced incumbents 
+Santander and CaixaBank in customer 
+acquisition in 2023, securing 12.8% of 
+customers compared with 12.6% for 
+Santander and 9.3% for CaixaBank.
+17 
+• Simon-Kucher reports that new-age 
+players are achieving top-line growth 
+while expanding customer reach, with 
+revenues up nearly 43% within a year  
+and a half.
+18  For instance, Revolut is 
+expected to nearly double its revenue 
+growth to USD 1.9 billion in 2023 from 
+USD 1 billion in 2022.
+19
+Our customer survey data found that 
+excellent customer service, advanced 
+payment capabilities, swift onboarding 
+and account setup, and personalized 
+attention were the ingredients that 
+persuaded convenience-hungry 
+consumers to explore and engage with 
+alternative financial firms.
+ 
+World Retail Banking Report 2024
+13
+
+
+--- PAGE 14 ---
+Customer and competitive 
+pressures prompt banks to 
+reassess their cost base
+Globally, banks are strategically preparing 
+for potential 2024 challenges amid 
+economic slowdown prognostication. 
+Rising funding costs, reduced lending 
+volumes, declining consumer confidence, 
+and the threat of non-performing assets 
+may fan the flames of the cost of doing 
+business. Bank CXOs are proactively 
+tightening their operational belts by 
+prioritizing these impending challenges.
+Marco Briata, Head of Marketing and 
+Digital at Italy’s Crédit Agricole, said, 
+“In 2024, banking profits will rely on 
+interest rate margins, yet rising costs 
+squeeze these margins, creating profit 
+pressure. Real estate – especially in critical 
+mortgage cross-selling – poses challenges. 
+With declining lending volumes and 
+heightened market volatility, 2024 
+presents considerable hurdles.” He added 
+that client liquidity remains constrained 
+and unprofitable.
+Our CXO survey participants demonstrate 
+cost discipline by closing unprofitable 
+business lines and exiting non-core 
+markets to mitigate losses. Branch 
+closures remain a significant part of this 
+strategy, spurred by industry mergers and 
+consolidations in developed markets in 
+North America and Europe.
+This aggressive approach to branch 
+closures aligns with the industry's focus 
+on enhancing digital platforms and 
+catering to customers’ increasing shift 
+to online channels. US bank branches 
+plummeted from 100,000 in 2009 to 
+79,000 in 2022.
+20 Notably, the pace of 
+closures nearly doubled in 2021-2022 
+(versus 2017-2021) because of customers’ 
+accelerated digital shift during the 
+pandemic. Similarly, in Europe, the 
+number of bank branches dropped from 
+around 240,000 in 2008 to about 140,000 
+in 2021, reflecting the global digital 
+banking trend.
+21
+Banks are also streamlining operations 
+and talent pools; workforce optimization 
+ranks among the top three priorities 
+for bank CXOs regarding cost discipline. 
+In the United States, major banks have 
+already implemented significant layoffs, 
+reaching nearly 20,000, with Wells Fargo 
+reducing almost 5% of its workforce in 
+2023. Since 2020, the bank has slashed its 
+workforce by 50,000, signaling impending 
+job losses.
+22 Meanwhile, Barclays plans 
+to eliminate 2,000 positions in the UK 
+as part of a USD 1.25 billion cost-cutting 
+initiative.
+23  Deutsche Bank is also 
+contemplating layoffs, aiming for a 62.5% 
+cost-income ratio by 2025, down from 
+72.4% in Q3 2023.
+24
+These strategic moves reflect the 
+industry’s commitment to cost 
+optimization and restructuring in 
+response to market challenges.
+Fortifying growth requires a 
+balanced focus on experience 
+and efficiency
+Banks will face strategic decisions in 
+the months ahead as they navigate 
+fundamental challenges to established 
+business models. The convergence of 
+multiple trends will significantly impact 
+how banks operate efficiently, serve 
+customers effectively, and stimulate 
+growth. While banks began 2024 with 
+a strong foundation, restricted organic 
+growth and withering interest margins 
+may hinder established revenue streams.
+14
+ World Retail Banking Report 2024
+
+--- PAGE 15 ---
+CUSTOMER
+Magnify experience
+COMPETITION
+Improve time to market
+and value realization
+for new products  
+COST
+Boost productivity
+and eﬃciency 
+Figure 2. AI can help banks navigate the cost, competition, and customer triad
+Source: Capgemini Research Institute for Financial Services Analysis, 2024.
+Productivity and efficiency top the 
+priority list of the bank leaders we 
+surveyed. They are determined to expand 
+their customer base and retain profitable 
+segments. They will strategically increase 
+non-interest income, such as fees and 
+commissions, to stimulate top-line growth 
+and reduce interest-income reliance. 
+Diversifying income sources is essential to 
+enhancing fee-based revenues.
+And when it comes to technology, 70%  
+of bank CXOs plan to increase investment 
+in digital transformation by up to 10% 
+in 2024, despite maintaining a strong 
+focus on cost discipline, as per our 
+banking executive survey. Enhancing data 
+management capabilities and modernizing 
+legacy data systems take precedence, 
+but concurrently, banks will migrate 
+core functions to the cloud to establish 
+a nimble, economical foundation. Cloud 
+and advanced data analytics are pivotal 
+for banks seeking to orchestrate value-
+added services within lucrative open 
+banking ecosystems. Artificial intelligence, 
+including generative AI, is the centerpiece 
+of intelligent transformation (figure 2).
+Bank executives we interviewed said 
+they are actively devising strategies to 
+scale AI deployment from back-end to 
+front-end applications while exploring the 
+transformative potential of generative AI.
+The prime focus for retail banks 
+will continue to revolve around  
+cost-to-serve and enhancing customer 
+journey excellence (measured by NPS). 
+The pivotal game-changer will be 
+artificial intelligence (AI), serving  
+as a crucial tool to achieve these 
+priorities.”
+Pierre Ruhlmann 
+Chief Operating Officer, BNP Paribas, France
+70%
+of bank CXOs plan 
+increased digital 
+transformation 
+investment of up 
+to 10%.
+World Retail Banking Report 2024
+15
+
+
+--- PAGE 16 ---
+Banks take a leap 
+forward in efficiency and 
+customer experience 
+with generative AI
+World Retail Banking Report 202416
+
+--- PAGE 17 ---
+Artificial intelligence transitioned toward data-driven 
+methodologies in the 1990s, employing machine learning 
+(ML) algorithms and neural networks, leveraging the 
+exponential growth in available data.
+As AI progressed through the 2000s, it expanded into 
+multifaceted domains, including natural language 
+processing (NLP), computer vision, and robotics. The 
+groundwork for generative AI was laid in 2014 with the 
+development of transformer architecture, which led to 
+the creation of large language models (LLMs).
+Google researchers developed one of the first LLMs in 
+2018, called BERT (Bidirectional Encoder Representations 
+from Transformers); it soon became a ubiquitous baseline 
+in NLP tasks. In 2020, Google integrated BERT within 
+Google Search in over 70 languages and now leverages it 
+to rank content and display featured snippets.
+25 
+In November 2022, US-based OpenAI launched 
+ChatGPT in what was to become an AI watershed that 
+quickly became the fastest-growing consumer internet 
+application, amassing 100 million users within two 
+months. A year later, ChatGPT’s user base had surged to 
+180 million, solidifying its impact on artificial intelligence 
+and consumer engagement.
+Generative AI's impact on democratizing artificial 
+intelligence has been profound. In the past, AI was 
+confined mainly to back-end operations and detached 
+from direct consumer engagement. However, generative 
+AI has bridged this gap remarkably, facilitating 
+its smooth integration into daily activities. Unlike 
+traditional AI models, generative AI models have been 
+developed and adapted to handle multimodal inputs. 
+These models are designed to process and understand 
+information from various modalities, such as text, 
+images, audio, and sometimes even video; allowing 
+for a more comprehensive understanding of data. This 
+transformation has brought AI closer to consumers, 
+seamlessly incorporating it into their routines and 
+interactions, accelerating value creation.
+The World Retail Banking Report 2024 survey of bank 
+CXOs found that 80% of bank executives believe 
+generative AI represents a significant leap in advancing 
+AI technology. Although stringent regulations have often 
+reined in the banking sector’s approach to technological 
+evolution, ChatGPT – and a growing list of competitors – 
+is catalyzing change. Generative AI illuminates potential 
+efficiency gains and is captivating previously AI-resistant 
+bank boardrooms. During our discussions with CXOs, 
+a consensus emerged: while generative AI might not 
+become an everyday business practice in the short term, 
+no one can ignore its significant potential. Generative 
+AI doesn't merely enhance existing AI use cases within 
+banks, but it also expedites the delivery of these 
+capabilities. Beyond functional augmentation, it can help 
+reshape back- and mid-office operations.
+17
+World Retail Banking Report 2024
+
+--- PAGE 18 ---
+As AI use cases multiply, banks 
+achieve customer experience/
+operational efficiency balance
+AI applications have become pivotal in 
+banking, transforming the value chain 
+from the front-end to the back office. On 
+the customer engagement front, AI can 
+support customer acquisition, retention, 
+and risk management. AI-powered 
+chatbots and virtual assistants are 
+redefining customer interactions, offering 
+personalized support, handling queries, 
+and boosting customer experience (CX) 
+while reducing operational strain.
+It streamlines back-office operations 
+by automating data entry, document 
+processing, and compliance checks 
+to beef up operational efficiency and 
+redeploy human resources to higher-value 
+tasks demanding critical thinking and 
+strategic decision-making.
+AI's predictive analytics strengthen 
+risk assessment and fraud detection 
+by leveraging vast data sets to identify 
+anomalies and mitigate potential risks in 
+real time, which fortifies customer trust.
+In marketing and sales, AI's 
+predictive algorithms enable tailored 
+recommendations and targeted 
+marketing campaigns to elevate cross-
+selling and upselling based on individual 
+customer behaviors and preferences.
+As AI applications multiply and mature, 
+scalable benefits will require a balance 
+between enhancing customer experience 
+and optimizing operational efficiency. 
+Generative AI can help the organizations 
+strike this balance, as a result banks can 
+unlock the full potential of intelligent 
+automation across diverse use cases.
+On a scale from one to 10,  
+I'd gauge the AI adoption in the 
+retail banking industry at around 
+a five. We've seen significant 
+adoption, especially in enhancing 
+customer engagement through 
+AI-powered chatbots, leading 
+to improved CX and increased 
+call center productivity. However, 
+there are numerous untapped 
+opportunities within the banking 
+value chain where AI's potential 
+remains underutilized.”
+Gurbhej Dhillon 
+Chief Technology Officer, Flutterwave, USA
+Sweta Mehra 
+Managing Director, Everyday Banking,  
+ANZ Bank, Australia
+AI holds immense profitability 
+potential, particularly given 
+generative AI's capacity to elevate 
+established processes. The pivotal 
+factor resides in our adept utilization 
+of AI, machine learning, and deep 
+learning. Areas like business process 
+automation, compliance, audit, and 
+governance stand to gain immensely 
+from the transformative impact of 
+AI. Furthermore, the emergence of 
+generative AI holds the promise of 
+unlocking substantial opportunities 
+in copilot, content creation, and 
+research and data aggregation."
+World Retail Banking Report 2024
+18
+
+
+--- PAGE 19 ---
+MEDIUM HIGH
+MEDIUM HIGH
+Intelligent call center automation
+Intelligent document automation
+Workforce copilot
+Intelligent risk assessment
+Automated coding and software development
+Intelligent decision engines Personalized
+ﬁnancial advisory 
+Regulatory compliance
+Potential impact on customer experience 
+Potential impact on eﬃciency 
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024;  World Retail Banking Report 2024 bank
+CXO survey, N=250
+Figure 3. Bank CXOs prioritized where Gen AI can make the most signiﬁcant impact
+Surveyed bank CXOs have identified  
+key areas where the power of generative 
+AI holds immense potential to elevate 
+efficiency and customer experience 
+across the retail banking value chain. Our 
+survey highlights three pivotal horizontal 
+processes that span the entire spectrum 
+of retail banking and emerge as prime 
+candidates for intelligent transformation 
+(figure 3):
+• Workforce productivity tools through  
+AI-copilot
+• Documentation gathering, processing, 
+and validating
+• Call center friendliness and efficiency
+A robust discussion of these three key 
+processes follows.
+World Retail Banking Report 2024
+19
+
+
+--- PAGE 20 ---
+Embracing copilot – not 
+autopilot – to elevate 
+workforce productivity
+Our survey of bank employees indicates 
+that staff allocates nearly 70%  
+of their time to operational activities, 
+leaving only 30% for customer 
+interactions (figure 4). The industry 
+faces persistent productivity challenges 
+from manual tasks that take employees 
+away from high-value assignments and 
+negatively impact team efficiency.
+More than 60% of survey bank employees 
+said they are frustrated by lengthy, 
+repetitive documentation processes. 
+Complex regulatory requirements 
+compound the issue, mandating meticulous 
+compliance checks, particularly evident in 
+Know Your Customer (KYC) procedures. This 
+scrutiny delays account openings and loan 
+approvals as employees identify and validate 
+documents. Most of those surveyed said 
+risk evaluation is time-consuming because 
+high false positives present a considerable 
+efficiency hurdle.
+Legacy systems and fragmented databases 
+exacerbate inefficiencies, impeding 
+comprehensive customer service. Hindered 
+by disparate data access, employees 
+struggle, leading to delayed responses and 
+prolonged transaction times and thereby 
+causing customer dissatisfaction. Despite 
+nearly 15 years of digital transformation 
+efforts, over 80% of bank employees 
+assigned only a moderate rating to 
+automation in their functions (onboarding, 
+lending, marketing, contact center), 
+identifying a significant gap between 
+aspirations and reality.
+Generative AI heralds the copilot era, 
+integrating AI-powered tools into the 
+quest for workforce efficiency. A copilot 
+is an intelligent assistant that seamlessly 
+collaborates with human operators to 
+boost their capabilities. It augments 
+human expertise by complementing 
+decision-making, offering insights and 
+recommendations, and aiding task 
+completion. Interactive and adaptive 
+copilots engage with humans and learn 
+from interactions, incorporating feedback, 
+and dynamically adapting their outputs to 
+refine their assistance continuously. This 
+ongoing process ensures a responsive and 
+evolving collaboration.
+25%
+15%
+11%11%
+10%
+29% Compliance related activities
+Build reports, contracts,
+and communications
+Documentation process
+Process information and
+query/update database
+Spend time with customer
+Team meetings
+Figure 4. CX suﬀers as bank employees struggle with mundane tasks
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024; World Retail Banking Report 2024 bank 
+employee survey, N=1,500.
+Note: Chart numbers and quoted percentages- may not total 100% due to rounding.
+70%
+of bank employee 
+time is allocated 
+to operational 
+activities.
+World Retail Banking Report 2024
+20
+
+
+--- PAGE 21 ---
+i GAN (generative adversarial network) is a machine learning model that uses deep learning to create new data from a training dataset.
+A July 2023 study by Massachusetts 
+Institute of Technology (MIT) researchers 
+explored generative AI copilot’s impact 
+on work tasks like email and cover letter 
+writing, closely resembling actual job 
+duties without factual accuracy needs. 
+The report said ChatGPT copilot users 
+reduced work time by 40% and with an 
+18% increase in quality.
+26 
+ 
+How can copilots support the banking 
+workforce?
+Generative AI copilot architecture in 
+banking blends advanced generative 
+models and data sources with banking 
+applications and user interfaces to 
+generate and share authentic data.
+Copilot components include:
+• Data input and pre-processing:  The 
+bank can create diverse copilot datasets 
+from sources, including internal 
+proprietary data, external publicly 
+available data, and third-party datasets 
+that undergo pre-processing to clean 
+and format the information.
+• Generative AI models: Advanced AI 
+models like generative adversarial 
+networks (GANs)
+i or transformer 
+architectures serve as a core framework. 
+These models create algorithms 
+designed to generate new data outputs 
+based on the learned patterns and 
+structures from the input data. These 
+algorithms facilitate the creation of text, 
+images, or simulations relevant to 
+banking scenarios.
+• Integration and deployment: 
+Architecture includes interfaces with 
+banking systems and applications. 
+Integration ensures employees can 
+leverage copilot output within various 
+processes or decision-making scenarios.
+• Human interaction interfaces: 
+Generative AI copilots have interfaces 
+designed for human interaction.  
+These interfaces allow seamless  
+user communication and present 
+synthesized user-friendly insights  
+and creative output.
+• Adaptive learning mechanisms: 
+Copilots continually learn and adapt 
+through feedback loops and exposure to 
+new data. Adaptive learning enhances 
+their generative capabilities over time, 
+improving quality and relevance.
+The transformative impact of 
+workforce copilots in banking could 
+yield a productivity surge between 
+20 to 70%, particularly evident in IT 
+and development activities. Copilots 
+revolutionize how bank employees 
+allocate their time, optimizing 
+once counterproductive tasks. To 
+harness this potential, banks need 
+to introduce their workforce to 
+copilots and commit resources to 
+comprehensive training programs, 
+maximizing the efficacy of these 
+invaluable tools."
+Frédéric Tardy 
+General Manager, FSI, Microsoft, France
+World Retail Banking Report 2024
+21
+
+
+--- PAGE 22 ---
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024; 
+World Retail Banking Report 2024 bank employee survey, N=1,500.
+4 Database querying to enable entering and fetching data from bank systems
+without using codes (like SQL)  
+5 Loan processing by analyzing customer data, ﬁnancial eligibility,
+and credit scores 
+3 Drafting and sending personalized content and messages to customers 
+6 Drafting of contracts and legal documents by structuring content,
+proofreading, and suggesting tailored information  
+1 Fraud detection by ﬂagging suspicious activities and drafting
+a report at the end of sessions
+ 
+2 Data visualization and analytics by creating actionable insights
+from expansive datasets for informed decision making  
+Operational eﬃciency Customer intimacyRegulatory compliance 
+Figure 5. Key features of generative AI copilot that unlock untapped workforce potential
+The bank employees we surveyed 
+identified critical copilot elements that 
+could amplify their productivity (figure 
+5). They were most enthusiastic about 
+copilots’ ability to automate fraud 
+detection, swiftly flag suspicious data or 
+activities, and generate comprehensive 
+reports. Copilots can analyze extensive 
+datasets, detect anomalies, and identify 
+potential risks in real time to support 
+regulatory compliance.
+The second most crucial feature  
+for employees is data visualization  
+and analytics automation. Copilots  
+distill actionable insights from expansive 
+datasets by harnessing the power of 
+AI algorithms. These insights serve as 
+invaluable aids for informed decision-
+making, be it discerning market trends, 
+optimizing investment strategies,  
+or tailoring bespoke financial solutions  
+for customers.
+Moreover, copilots leverage these 
+insights to craft personalized content 
+for customers, a feature of paramount 
+importance ranked third by bank 
+employees to be disseminated through 
+emails and messages, ensuring a 
+more tailored and engaging customer 
+experience.
+Surveyed bank employees ranked data 
+entry and querying as the fourth most 
+crucial copilot feature. Their natural 
+language interface understands and 
+processes queries in everyday language, 
+eliminating the need for specific 
+programming or query syntaxes. 
+Additionally, copilots advanced search 
+capabilities can navigate vast datasets 
+to retrieve pertinent information based 
+on specified criteria. Real-time updates 
+on queried data ensure up-to-date 
+information.
+22
+ World Retail Banking Report 2024
+
+--- PAGE 23 ---
+Subsequent employee priorities,  
+ranked fifth and sixth, encompass loan 
+processing and the creation of reports 
+and contracts. Copilots can analyze 
+large datasets to swiftly evaluate loan 
+applications – financial standings, credit 
+scores, and more – against established 
+criteria. This assessment allows for 
+the precise evaluation of eligibility, 
+creditworthiness, risk identification,  
+and the probability of repayment. 
+Furthermore, copilots streamline the 
+document creation process by structuring 
+content, proofreading, formatting, and 
+cross-verifying it with standardized 
+templates to draft comprehensive reports 
+and legal contracts.
+Italy-based Shivaji Dasgupta, Group Data 
+and Intelligence Officer at UniCredit, said, 
+“Generative AI signifies a transformative 
+leap, moving us beyond what we might 
+call 'traditional' AI applications and 
+opening up an expansive new frontier. 
+What lies ahead is a monumental 
+productivity shift, with generative AI 
+embedded into daily workflows and 
+applications. This new technology 
+will change the way we interact with 
+our customers, allowing for full, 
+conversational, and real-time dialogue  
+at all times.”
+In May 2023, OCBC in Singapore 
+introduced Wingman, a generative 
+AI-powered copilot. The bank reported 
+that Wingman’s ability to actively track 
+and generate code boosted developer 
+efficiency by about 20% to 30%. In 
+the OCBC contact center, Wingman 
+summarizes sales calls and streamlines 
+anomaly detection. Seamlessly integrated 
+across departments, it facilitates diverse 
+tasks including creating initial drafts of 
+letters that empower employees to save 
+time, refining content as opposed to 
+creating it from scratch.
+27 
+In Australia, Westpac’s IT team reported 
+a 46% productivity surge while retaining 
+code quality, attributing it to generative 
+AI assistance in a recent in-house study.
+28  
+In the United States, Goldman Sachs is 
+experimenting with generative AI for code 
+generation and testing. During the pilot, 
+Goldman Sachs developers have been 
+able to write as much as 40% of their code 
+automatically using generative AI.
+29 In the 
+UAE, Emirates NBD gave more than 1,000 
+developers access to GitHub’s Copilot X, a 
+Microsoft generative AI tool, to enhance 
+coding capabilities.
+30 
+Natascia Noveri, Head of Innovation and 
+Processes at Italy’s Intesa Sanpaolo, said, 
+“We're witnessing a remarkable surge in 
+productivity, across all areas of the bank, 
+with an overall average improvement 
+ranging from 15% to 30%, extending 
+beyond IT and coding. Moving into the 
+mid-office, generative AI stands as a 
+game-changer, automating manual tasks 
+from cover-note generation to customer 
+response repositories. This shift is poised 
+to reshape skill demands in the next five 
+to ten years, emphasizing technology-
+based expertise in recruitment.”
+World Retail Banking Report 2024
+23
+
+
+--- PAGE 24 ---
+Generative AI copilots can improve 
+the software development life cycle
+Software dictates business pace and quality, yet 
+software teams grapple with test coverage, defects, 
+vulnerabilities, and technical debt. Legacy code, 
+now a bottleneck in digital transformation, demands 
+migration to modern languages – a task laden with 
+risks and costs.
+Generative AI's prowess extends beyond coding 
+assistance; developers can articulate software 
+functionalities in plain language and are witnessing 
+AI's transformation of ideas into code across the 
+software development life cycle. Capgemini's A2B 
+translator, leveraging generative AI, redefines code 
+translation by extracting semantic meaning in blocks, 
+and ensures a more automated, accurate transition 
+than traditional line-by-line methods. With multiple 
+frameworks and accelerators, A2B achieves near-
+complete automation in code translation.
+31 
+In a proof-of-concept (POC) for a prominent  
+Asia-based financial services firm, Capgemini 
+utilized a generative AI copilot to suggest code fixes. 
+With a codebase surpassing 5,000 lines, manual 
+detection, resolution, and testing of vulnerabilities 
+consume a substantial portion of developers' 
+time. The POC targets enhancing code quality by 
+offering improvement suggestions and expediting 
+vulnerability resolution, boosting developer 
+productivity.
+In another example, Capgemini's collaboration 
+with a leading French bank involves modernizing 
+its codebase to reduce technical debt. A pilot was 
+launched, focusing on key criteria such as efficiency, 
+ease of initiation, code suggestions, translation, 
+optimization, tests, and review – aligning with the 
+bank's objectives of leveraging best-in-class tech 
+to secure business value with a streamlined and 
+efficient code transformation.
+24
+ World Retail Banking Report 2024
+
+--- PAGE 25 ---
+Documentation is the first 
+customer touchpoint, yet it’s 
+cumbersome
+Year after year, banks face more and more 
+physical and digital documents including, 
+applications, claim forms, checks,  and 
+bills, and in formats including JPG, PNG, 
+PDF, and HTML. Processing these items 
+and extracting the correct data is very 
+labor intensive and costly. Problems 
+with document processing, such as lost 
+documents and missing signatures, can 
+also lead to regulatory breaches, and 
+bring hefty fines.
+Let's dive into a common scenario, 
+a customer applies for a checking 
+account. They submit physical and 
+digital documents at a branch or via the 
+digital platform. These documents need 
+manual validation, review, classification, 
+and information extraction. A bank 
+employee must remind the customer of 
+missing details or documents. Finally,  the 
+information undergoes manual processing 
+for decision-making, and the account is 
+opened.
+Bank employees told us they dedicate 
+55% of their time to documentation 
+and operational tasks throughout the 
+onboarding, KYC, and account opening 
+processes – nearly a third (36%) of their 
+focus is spent on compliance and risk 
+assessment (figure 6). Surprisingly,  
+only 9% of their time is allocated to 
+customer interaction, and a large portion 
+of that time concerns addressing process-
+related questions.
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024; World Retail Banking Report 2024 bank
+onboarding/KYC employee survey, N=375.
+Note: Chart numbers and quoted percentages may not total 100% due to rounding.
+Figure 6. Customer onboarding team employees spend 91% of their time on operational 
+and compliance activities
+Team meetings and calls
+Collecting and validating 
+customer documents
+Setting up 
+customer accounts
+Sending reminders for 
+missing documents
+Other activities/tasks
+Processing the 
+documents
+Customer due 
+diligence
+Customer risk 
+scoring and analysis
+Preparing suspicious 
+activity reports
+Handling false
+positive alerts
+Customer interaction
+55% time spent on documentation
+and operational activities
+12% 10%
+9% 9% 8% 8%7%
+10%
+9% 9% 9%
+36% time spent on compliance 
+and risk assessment
+9%Only
+of client 
+onboarding team 
+time is allocated 
+to customer 
+interaction.
+World Retail Banking Report 2024
+25
+
+
+--- PAGE 26 ---
+According to 64% of bank employees, 
+completing the KYC process for a 
+customer can take up to three days. For 
+mid-size banks, the process might extend 
+longer. The KYC process costs banks 
+approximately USD 80 per customer, with 
+an average onboarding cost of USD 128 
+per customer, including the KYC expenses.
+As a result, a cumbersome documentation 
+process and subpar onboarding 
+experiences lead to prospects abandoning 
+their applications: an estimated 18% of 
+customers leave the application process, 
+as our bank employee survey revealed. 
+Over 70% of prospects who abandoned 
+their account applications cite inadequate 
+support and guidance as primary 
+reasons. Half of the prospects said the 
+documentation process was lengthy, time-
+consuming, repetitive, and lacked progress 
+clarity. Merely 4% claim to be able open 
+an account within a day, while 34% require 
+up to five days. The survey found that the 
+journey extends to 6–10 days for 44% of 
+customers and reaches 10–15 days for the 
+remaining 18%.
+Frictionless banking entails automated 
+documentation
+Capgemini analysis determined that banks 
+can optimize up to 66% of the  
+time spent on operational, 
+documentation, and compliance-
+related activities by leveraging AI-
+powered intelligent transformation 
+and generative AI copilots. Intelligent 
+document processing platforms reduce 
+costs, effort, and risk by leveraging 
+cognitive capabilities, including AI and 
+ML, to automate tasks such as document 
+categorization and data extraction. 
+These capabilities can perform tasks and 
+improve how they are completed.
+Consider the same scenario of a customer 
+applying for a checking account (figure 
+7). When the bank receives scanned 
+or handwritten documents, possibly 
+uploaded by the customers, these 
+materials are sent to a platform for 
+processing. An intelligent document 
+processing platform employs optical 
+character recognition to convert text – 
+typed, handwritten, or printed – from 
+images into machine-encoded text. 
+Source: Capgemini Research Institute for Financial Services Analysis, 2024.
+Figure 7. AI enables and automates end-to-end bank documentation process
+?
+Automated reminder to customer 
+to submit documents
+Document 
+ingestion Classiﬁcation Document 
+integration
+Missing 
+document?
+Submits 
+documents
+Customer
+No
+Yes
+Account 
+opening
+Analysis & 
+decision-making
+Data 
+extraction Validation
+AI capabilities AI capabilities
+World Retail Banking Report 202426
+
+--- PAGE 27 ---
+Additionally, facial detection identifies 
+identification photos (e.g., from a 
+passport) for profile verification. 
+Language detection and translation ensure 
+uniformity in text language.
+32 Generative 
+AI can then be employed to understand 
+and interpret the unstructured content 
+within these documents, providing a more 
+comprehensive analysis of the information.  
+Following this initial processing, the next 
+phase involves extracting information 
+from the documents. Various techniques 
+– including machine learning algorithms 
+– extract key phrases, topics, and other 
+significant entities. In addition, generative 
+AI models equipped with NLP capabilities 
+can analyze the natural language 
+content within documents. This includes 
+understanding context, sentiment, and 
+extracting meaningful insights. This 
+data can be cross-verified by scouring 
+public-domain sources like government 
+websites. Documents such as balance 
+sheets, tax forms, or drivers’ licenses are 
+categorized using document recognition 
+techniques and deep learning algorithms.  
+Once a document undergoes analysis, 
+validation, and classification, employees 
+can use the resulting information tasks 
+such as email generation or automated 
+form filling. Generative AI, with its ability 
+to understand context and generate 
+content, can contribute to more nuanced 
+anomaly detection by identifying 
+irregularities within unstructured text and 
+highlighting potential issues.
+Generative AI-powered documentation 
+presents compelling advantages, focusing 
+on enhancing operational efficiency. 
+Automation accelerates document 
+processing, which is especially beneficial 
+in managing substantial volumes of 
+similar documents like KYC forms. This 
+automation expedites processes and 
+reduces manual labor, enabling workforce 
+redeployment to more strategic areas. 
+Moreover, generative AI contributes 
+to more advanced analysis, decision-
+making, and the generation of human-
+like responses in natural language. 
+This aggregation of automation and 
+human expertise allows specialists to 
+concentrate on intricate cases, thereby 
+mitigating the likelihood of errors. 
+Significantly, process automation 
+reduces the risk of regulatory breaches 
+by minimizing document handling errors 
+to lower the chances of misfiling or 
+accepting incomplete submissions. Finally, 
+reducing paper use across the customer 
+life cycle will establish more sustainable 
+business practices.
+In addition to the large volume of 
+documentation at the customer end, 
+banks also have a large trove of data 
+trapped in diverse documents within 
+their back-end operations. These include 
+financial, legal, compliance, operational, 
+customer correspondence, audit, risk 
+assessment, and investment documents. 
+Banks require an intelligent data room 
+copilot to efficiently manage and use 
+information from these documents.
+In December 2023, JPMorgan introduced 
+DocLLM, a generative AI extension 
+designed to enhance understanding of 
+intricate business documents such as 
+forms, invoices, and reports. Using an 
+LLM-based model, DocLLM considers 
+text and layout, delving deeper into 
+the semantics of enterprise records. 
+Impressively, it outperformed 14 of 16 
+established tasks, showing a remarkable 
+15%+ enhancement in comprehending 
+complex forms. Moreover, it showcased 
+strong adaptability by performing well 
+on four out of five unseen datasets, 
+promising reliable performance even with 
+new document types. This innovation 
+presents a hopeful avenue for businesses, 
+enabling them to extract valuable insights 
+from various forms and records utilized in  
+daily operations.
+33 34
+World Retail Banking Report 2024
+27
+
+
+--- PAGE 28 ---
+Capgemini has developed a copilot 
+to extract insights locked within data 
+room documents
+Quick and accurate decision-making is crucial in the 
+fast-paced world of financial services. Generative 
+AI-powered intelligent copilots have emerged as 
+essential tools for financial firms, enabling timely 
+analysis of extensive document collections to assess 
+investment opportunities and associated risks. 
+These copilots utilize optimization techniques for 
+document intelligence, supporting teams of analysts. 
+A leading financial services firm from Europe reached 
+out to Capgemini to develop an intelligent copilot 
+to process complex collaterals and a large body of 
+multimodal data to generate actionable insights.
+Capgemini has leveraged generative AI's 
+conversational, summarization, and information 
+extraction capabilities, merging them with document 
+parsing and embedding techniques to create an 
+efficient assistant. Seamlessly integrated into 
+SharePoint documents from data rooms, this copilot 
+operates on an architecture based on Azure cloud, 
+Azure Cognitive Search, and the ChatGPT API, 
+ensuring a scalable and robust deployment.
+With the ability to process a wide range of data 
+formats – including PDFs, text, simple graphs, 
+and data – the copilot retrieves information from 
+a diverse multimodal corpus. Importantly, each 
+response from the copilot is traceable, providing 
+cited sources. This feature ensures that analysts 
+trust the output and confidently delve deeper into 
+relevant insights.
+World Retail Banking Report 202428
+
+
+--- PAGE 29 ---
+Bank contact centers often 
+lack critical engagement 
+channel connections
+The pandemic ushered in almost 
+overnight digital transformation within 
+banks, marked by digital channel adoption 
+and the widespread use of self-service 
+tools like chatbots. Amid this shift, an 
+omnichannel strategy emerged as the 
+nucleus for seamless, superior customer 
+experiences across various touchpoints. 
+However, despite the emphasis on 
+an omnichannel approach, contact 
+centers often continued to operate in 
+communication silos, disconnected from 
+mobile platforms, websites, and branch 
+networks. Our survey revealed that:
+• 61% of bank customers contacted agents 
+because they were unhappy with chatbot 
+resolutions;
+• Yet, almost 22% said they rarely engage 
+with human agents, finding chatbots 
+sufficient; and
+• The remaining 17% said they distrusted 
+chatbots and preferred direct contact 
+with human agents.
+However, the survey also indicated 
+growth in chatbot acceptance among 
+younger demographics. We found 
+that a quarter of millennials and Gen Z 
+individuals liked chatbots compared with 
+only 17% of baby boomers and members 
+of Gen X. Around 25% of Gen X and baby 
+boomers said they regularly contacted 
+human agents for help compared with 
+only 10% of Gen Z and 14% of millennials.
+Bank employees rated contact center 
+automation and digitalization as low 
+to moderate – with 81% citing a lower 
+degree of digitalization. Traditional 
+chatbots typically operate based on 
+predefined rules and templates. These 
+rule-based systems follow predetermined 
+instructions, responses, and decision 
+trees to interact with users. They rely 
+on programmed responses for specific 
+keywords or phrases, limiting their ability 
+to understand nuances in language 
+or context beyond what's explicitly 
+programmed into their rule set.
+These traditional rule-based chatbots 
+lack the flexibility and adaptability 
+of advanced AI-driven systems. 
+Their programming determines their 
+functionality and ability to handle 
+complex or unanticipated queries. As a 
+result, their interactions might sometimes 
+feel rigid or less responsive. More 
+than 60% of the customers rated their 
+experience with chatbots as only average.
+Around 62% of Tier I bank contact center 
+survey respondents and 40% of those 
+from Tier II banks said inadequate chatbot 
+capabilities affect their productivity and 
+efficiency. While each query a chatbot 
+handles saves agents a few minutes, the 
+limitations of these chatbots compel 
+agents to spend more time on less 
+valuable interactions.
+35  For instance, 
+the contact center workforce allocates 
+significant time toward customer 
+interactions (56%) versus operational 
+tasks (45%), based on our bank employee 
+survey. However, a deeper examination 
+of those interactions reveals a concerning 
+trend: agents spend only 9% of their time 
+upselling and cross-selling new products 
+and services to customers. Interestingly, 
+less than 20% of Gen X and baby boomers 
+engage with agents for information 
+regarding new banking products and 
+services. These findings indicate that 
+while pivotal for customer service, contact 
+centers struggle to maximize engagement 
+aimed at creating additional value for 
+customers, and for the bank.
+The repercussions of these limitations 
+often manifest in call abandonment, 
+reaching 12% for Tier I banks and 
+nearly 18% for Tier II banks globally. 
+Furthermore, 55% of banks globally 
+(53% of Tier I banks and 58% of Tier II 
+banks) exhibit first-contact resolution 
+rates (FCR) of below 70%. This is not a 
+good performance, considering 70% 
+is the overall industry benchmark.
+36 
+Approximately 66% of European banks 
+also report FCR rates below 70%. 
+Consequently, the cost per call for contact 
+centers has increased, with an average 
+cost of nearly USD 12.00 per call reported 
+in our bank employee survey. Tier I banks 
+maintain a relatively lower cost of about 
+USD 9.00 per call, while Tier II banks may 
+pay up to USD 18.00 per call.
+81%
+of bank employees 
+rated contact 
+center digitization 
+as low.
+World Retail Banking Report 2024
+29
+
+
+--- PAGE 30 ---
+Intelligent capabilities can transform 
+contact centers into value amplifiers
+Generative AI-enabled transformation 
+allow banks to optimize nearly 77% of the 
+time spent on various operational and 
+customer interaction activities 
+(figure 8). As banks rationalize their 
+branch footprints, intelligent contact 
+centers can act as omnichannel hubs, 
+balancing human-digital interactions.
+How will banks make it happen?
+• Developing chatbots with 
+conversational AI capabilities.
+• Providing intelligent copilots to assist 
+agents in basic tasks and customer 
+interactions.
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024; World Retail Banking Report  2024 bank
+contact center employee survey, N=375.
+Note: Chart numbers and quoted percentages may not total 100% due to rounding.
+Figure 8. As contact center agents struggle with daily tasks, customer engagement dips
+Train team members
+Enter/modify data
+into systems
+Track, monitor, and 
+report key metrics
+Prioritize and distribute 
+team workload
+Other activities
+Respond to 
+customer queries
+Guide application 
+completion
+Convey changes in 
+policies/fees
+Perform transactions on 
+behalf of customers
+Up-sell and cross-sell 
+activities
+Provide personalized
+content
+45% time spent on 
+operational activities
+11% 10% 9% 9%
+6%
+12% 10% 8% 9%8% 9%
+38% 
+Customer support
+18% 
+Customer sales
+30
+
+
+--- PAGE 31 ---
+Source: Capgemini Research Institute for Financial Services Analysis, 2024.
+Figure 9. Generative AI-enabled conversational AI boosts chatbot eﬃcacy
+Bot server
+Query search
+Response generation
+Conversational 
+AI interface LLM models
+(Open AI, Google Bard, 
+Llama 2, AWS
+Bedrock, etc.)
+Enterprise data
+(CRM, ERPs, CDP, etc.)
+Customer
+ Decision engine
+In a typical scenario, a customer will use 
+the chatbot interface to raise a query. 
+A bot server receives and interprets 
+the question to discern the customer’s 
+intent and context. A search engine 
+and a decision engine work together to 
+fetch relevant data. Conversational AI 
+empowered by generative AI capabilities, 
+can then tap into extensive enterprise 
+knowledge bases such as customer data 
+platforms, ERP, CRM databases, and LLMs 
+to process the data and frame relevant 
+responses (figure 9).
+This integration of generative AI and 
+chatbots significantly improves efficiency 
+in retrieving pertinent information and 
+consistently suggesting appropriate 
+responses. Generative AI-powered 
+chatbots are capable of highly adaptive 
+and context-aware interactions with 
+users. This combination enables more 
+personalized, contextually relevant, and 
+human-like conversational experiences. 
+The outcome is a seamless customer 
+experience marked by enhanced 
+efficiency and satisfaction.
+Based in Milan, Italy, Maurice Lisi, Head 
+of Digital Business at BPER Banca, said, 
+"Optimizing operational efficiency is 
+a top priority, and we're harnessing 
+Al extensively for this purpose. Our Al 
+factory will integrate Al models across 
+multiple functions, from digital customer 
+onboarding to contact center support. 
+Hybrid,  human-digital bank is at the core 
+of our digital strategy, therefore we are 
+being very thoughtful to have the right 
+balance of automation and personalized 
+experience. We are prioritizing AI usage 
+to improve digital customer experience 
+but also to empower our call center sales/
+assistance agents in delivering swift and 
+personalized service."
+For example, the bank has recently 
+launched Hey BPER, a virtual assistant 
+powered by natural language processing 
+and machine learning tools, to deliver 
+personalized, human-like assistance  
+to customers, and with the objective  
+to take over up to 45% of incoming 
+customer inquiries.
+World Retail Banking Report 2024
+31
+
+
+--- PAGE 32 ---
+Generative AI-powered copilots developed for 
+agents can also offer multifaceted support to 
+enhance contact center efficiency:
+• Abstract summarization: Beginning with 
+precisely recording and transcribing customer 
+calls, a generative AI copilot extracts vital 
+details and generates concise call summaries. 
+Agents can then efficiently review and 
+approve condensed transcripts, facilitating 
+rapid insights and informed decisions.
+• Insight extraction: Contact centers gain 
+business insights from extensive conversation 
+datasets. Copilots analyze call purposes 
+against business metrics to empower agents, 
+enhance call-pattern comprehension, refine 
+performance, and bolster overall efficiency.
+• Complaint resolution: Copilots dive into 
+historical data on successful complaint 
+resolutions, offering agents insights and 
+effective strategies. Armed with these tools, 
+agents can promptly address grievances to 
+boost CX.
+• Personalized interactions: Copilots analyze 
+customer data to create tailored responses, 
+fostering meaningful interactions that 
+resonate with customer needs to elevate their 
+sense of value and understanding.
+• Automated mail responses: Copilots 
+leverage vast customer data to craft 
+personalized email replies. This  
+capability streamlines responses, alleviates 
+pressure on agents, and ensures timely and 
+accurate solutions, ultimately enriching 
+customer service and experience.
+Global bank to transform its 
+conversational AI capabilities
+The transformative work aims to improve the 
+existing natural language understanding of the 
+chatbot and help with better intent classification. 
+The bank looks at leveraging generative AI to 
+improve intent identification and, finally, improve 
+customer chatbots' performance.
+Capgemini helped the global bank in technology, 
+data, and AI scope assessment, analyzing call 
+transcripts, historical customer interactions, 
+and routing analysis to optimize and fine-tune 
+the intent. The team leveraged generative 
+AI capabilities to fine-tune the model. The 
+team trained the conversational AI system on 
+multimodal customer journeys and tested it 
+against quality parameters for further refinement. 
+Conversational AI is monitored for continuous 
+optimization.
+The production rollout and full-scale 
+implementation of generative AI-based 
+optimizations and uplift at the contact center is 
+expected to improve the chatbot containment rate 
+from its current level of 30% to a projected range 
+of 60-65%.
+32
+ World Retail Banking Report 202432
+
+--- PAGE 33 ---
+AI-driven systems significantly 
+enhance banking, especially within 
+contact centers. At Salesforce, 
+we emphasize leveraging a 
+comprehensive AI system that 
+handles tasks like call analysis, 
+response recommendations, and 
+managing intricate customer 
+interactions. These AI models are 
+set to revolutionize contact centers 
+and entire banking operations 
+by streamlining inquiries and 
+automating transactions. They 
+empower bankers, acting as copilots, 
+fostering more engaging customer 
+interactions, thus enhancing the 
+overall experience.”
+Greg Jacobi  
+VP and GM, Banking and Lending, Salesforce, USA
+A US credit union and Capgemini 
+are developing an intelligent copilot 
+platform for contact center agents
+Capgemini is engaged with one of the largest US 
+credit unions to build a minimum viable product 
+(MVP), a copilot to support contact center 
+agents in three lines of business: lending, SME, 
+and compliance. The copilot platform furnishes 
+information needed to serve customers on demand 
+in a user-friendly and expeditious manner.
+Under the hood, Microsoft’s Power Virtual Agents 
+connect to a vector database of client knowledge 
+bases using an OpenAI embedding model. The 
+OpenAI LLM works to understand the user request, 
+send it to the vector database, and finally reuse 
+the LLM to stitch together top search results into 
+a credible, plain English response. A Retrieval-
+Augmented Generation (RAG) framework ensures 
+that the LLM builds responses based on trustworthy 
+information sources.
+The copilot is expected to boost the productivity 
+of customer representatives, improving the quick 
+turnaround time. Moreover, the copilot will be able 
+to avoid the hallucination problem that LLMs are 
+prone to and consistently deliver correct answers. 
+The credit union anticipates an NPS gain of 15–20 
+points with the copilot due to high customer 
+satisfaction and experience.
+The credit union plans to roll out similar copilots 
+for other business lines before launching similar 
+capabilities in customer-facing chatbots.
+Generative AI copilot for agents can 
+be a contact center game changer 
+by streamlining operations through 
+enhanced efficiency, accuracy, and 
+continuous learning. Automated tasks 
+and accessible information support 
+agents by reducing inquiry handling 
+times so they can focus on complex 
+issues and boost service quality. 
+Moreover, the copilot’s learning curve 
+evolves with each interaction, enhancing 
+its adeptness over time. Agents 
+appreciate increased control, and costs 
+shrink as existing staff can manage 
+higher service volumes.
+World Retail Banking Report 2024
+33
+
+
+--- PAGE 34 ---
+Pursue an enterprise-
+wide approach to scale 
+AI capabilities and value
+World Retail Banking Report 202434
+
+
+--- PAGE 35 ---
+Banks encounter several impediments in their quest 
+to embrace enterprise wide AI transformation. The 
+persistence of legacy systems creates complexities in 
+integrating new AI technologies, often incompatible with 
+outdated processes. Additionally, fragmented data across 
+disparate departments challenges the establishment 
+of a cohesive data infrastructure essential for effective 
+generative AI implementation. Uncertain regulatory 
+frameworks within the banking sector adds complexity to 
+generative AI integration. Skill shortages in AI expertise 
+hinder the seamless implementation and management of 
+these innovative initiatives. Banks' inherent risk aversion 
+and concerns about costs and the uncertain returns on 
+investment contribute to their cautious approach toward 
+generative AI adoption.  
+ Moreover, ensuring customer trust while introducing 
+generative AI-driven systems remains a critical concern, 
+as any misstep might jeopardize client confidence. We 
+scored 250 banks on business and technology parameters 
+to understand their readiness to embrace intelligent 
+transformation at scale. Globally, 41% of banks scored 
+average on diverse parameters, while 29% scored low. 
+Yet, only 4% of banks scored high on both parameters, 
+indicating readiness to embrace and scale intelligent 
+transformation. The scores also presented the divergence 
+between the banks based on their sizes. For example, 
+45% of Tier II banks scored average on business and 
+technology parameters as compared with 39% of Tier I 
+banks. Similarly, 27% of Tier II banks scored low on these 
+parameters while 30% of Tier I banks did so.
+In addition to bank size differences, notable regional 
+disparities in bank readiness to adopt intelligent 
+transformation at scale exist:
+• In Europe, 51% of banks fell into the average category  
+on business and technology parameters, while 31% 
+scored low. Only 1% achieved high scores in both 
+readiness areas.
+• North America followed with 31% of banks at an average 
+rating and 27% scoring low, but with 8% reaching high 
+readiness levels in both parameters.
+• Asia-Pacific (APAC) shows significant lag, with 48% of 
+banks scoring low and only 15% reaching an average 
+rating in both categories, and without any banks scoring 
+high on both parameters.
+• Among Latin American banks, 58% scored average, and 
+15% scored low.
+• In the Middle East, 41% of banks scored average, and 
+21% scored low, with only 3% achieving high scores in 
+both readiness areas.
+World Retail Banking Report 2024
+35
+
+
+--- PAGE 36 ---
+Following a benchmarking analysis, three 
+significant areas emerged where banks are 
+falling behind in business and technological 
+domains. On the business front, challenges 
+include the inability to effectively measure, 
+monitor, and track the impact of generative 
+AI initiatives, a lack of adeptness in 
+identifying use cases and constructing 
+minimum viable products, and the struggle 
+to allocate dedicated budgets for at scale 
+AI endeavors.
+Meanwhile, in the realm of data and 
+technology, banks are grappling with the 
+absence of a comprehensive enterprise-
+wide data management strategy, leading 
+to sluggish modernization of their 
+data estate. Additionally, they lag in 
+establishing robust AI orchestration layers 
+and machine learning operations (MLOps) 
+setups, and contend with subpar data 
+quality flowing through their systems.
+Less than adequate back-end 
+capabilities require renewed 
+attention and investments
+Our CXO survey revealed that allocating 
+56% of the technology budget to 
+front-end transformation compared to 
+44% on back-end improvements and 
+automation was a prevalent trend across 
+regions and banks. The discrepancy 
+in investment between front-end and 
+back-end digital areas might stem from 
+a desire to meet immediate customer 
+needs and improve CX visible at the 
+front-end, while sometimes neglecting 
+the foundational upgrades necessary to 
+support these advancements. Banks often 
+prioritize investments in front-end digital 
+technologies due to their immediate 
+impact on customer experience and 
+engagement. This focus on front-end 
+Figure 10. Most banks lack readiness for generative AI-led intelligent banking
+Low
+29%
+of banks 11%
+6% 41% 6%
+3% 4%
+Medium
+Technology and data readiness
+Low Medium
+Business support/commitment
+High
+High
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024; World Retail Banking Report bank CXO 
+survey, N=250. 
+Note: Business support and commitment were measured by scoring AI vision, AI adoption roadmap, budget, talent, 
+use cases in the pipeline, KPI monitoring, and AI governance. Tech and data readiness was measured by data sourcing 
+systems, ability to manage real-time data, systems to generate synthetic data, centralized data lakes, capability to 
+transform data, MLOps setup (Machine Learning Operations), data management approach to modernize data estate, 
+and data governance framework.
+4%Only
+of banks scored 
+high on readiness 
+to embrace and 
+scale intelligent 
+transformation.
+World Retail Banking Report 2024
+36
+
+
+--- PAGE 37 ---
+Figure 11. Discrepancy in front- and back-oﬃce investments hinders AI scalability
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024; World Retail Banking Report 
+2024 bank CXO survey, N=250.
+High investment to 
+maximize CX 
+Lack of investment is 
+hindering CX
+Sluggish 
+legacy systems 
+Cumbersome 
+manual process
+Paper-based 
+documentation
+Low-scalability
+Poor data 
+capabilities
+Deﬁcient Machine Learning 
+Operations (MLOPs)
+   
+API-enabled
+AgilePersonalized
+Experiential
+AI-drivenUser-friendly
+Low
+HighLevel of investments 
+in digitalization
+Operations
+Middle-oﬃce
+Back-oﬃce
+Data Data
+.
+Front-oﬃce
+solutions allows banks to enhance user 
+interactions, streamline processes, and 
+create an appealing user interface.
+However, investment in back-end 
+digital infrastructure, though equally 
+crucial, might not always be as visible 
+or immediately impactful from a 
+customer's perspective. Back-end digital 
+infrastructure involves systems, data 
+management, security measures, and 
+integration capabilities that support the 
+bank's overall operations. These upgrades 
+and enhancements are fundamental 
+for ensuring data security, operational 
+efficiency, scalability, and seamless 
+integration of various systems within the 
+bank's ecosystem.
+During our conversation with banking 
+executives, they told us that banks are 
+recognizing a pivotal shift toward mid- 
+and back-office investments, pivoting 
+from the prevalent focus on front-end 
+and CX. This change signifies a dual 
+goal: managing costs and laying a robust 
+foundation for further enhancements in 
+front-office operations.
+Steven Cooper
+CEO, Aldermore Bank, UK
+Banks facing the challenge 
+of legacy systems must strategize 
+on how to adopt and scale AI 
+effectively. The considerations while 
+embracing generative AI go beyond 
+just theoretical discussions. It's about 
+crafting a roadmap that navigates 
+the hurdles legacy systems pose, 
+enabling banks to harness the full 
+potential of AI.”
+World Retail Banking Report 2024
+37
+
+
+--- PAGE 38 ---
+Banks’ intelligent 
+transformation readiness lags 
+despite profound benefits
+Among the CXOs we surveyed for this 
+report, only 6% of them are ready with 
+a roadmap for enterprise wide AI-driven 
+transformation at scale:
+• 28% said they are actively exploring a 
+suitable roadmap for their bank’s needs
+• 29% are in the early stage of devising a 
+plan
+• 34% have developed AI adoption 
+strategies for specific lines of business 
+but not integrated within the enterprise.
+North American banks have taken the lead 
+at a regional level, with approximately 
+13% of banks already establishing an 
+enterprise-level roadmap for AI and 
+generative AI. European banks are also 
+quickly catching up, with nearly 38% of 
+banks setting up AI roadmaps for specific 
+lines of business. Conversely, APAC banks 
+are trailing behind, with 39% of banks in 
+the early stage of roadmap development 
+and only 12% directing their efforts 
+toward specific lines of business.
+In addition to regional differences, 
+notable trends emerge based on the size 
+of banks:
+• Only 25% of the Tier I banks are in the 
+exploratory phase of developing AI and 
+generative AI roadmap, contrasting with 
+nearly one-third of mid-sized (Tier II) 
+banks.
+• Another 36% of Tier I banks have 
+developed targeted business-line 
+roadmaps compared with 29% in Tier II.
+• Notably, 8% of Tier II banks have 
+established enterprise-wide AI and 
+generative AI roadmaps, surpassing Tier I 
+banks’ 2%.
+At the heart of enterprise-level AI and 
+generative AI adoption lies the pivotal 
+role of cloud computing: the demands 
+of these new technologies for extensive 
+computing resources and adaptable 
+scalability make the cloud the nucleus of 
+intelligent transformation. Capgemini's 
+World Cloud Report – Financial Services 
+2023 underscores the acceleration of 
+cloud adoption within the financial 
+services industry during the pandemic. 
+Financial services executives surveyed 
+revealed a substantial increase, surging 
+from 37% in August 2020 to 91% in  
+August 2023.
+Yet, this rapid shift hasn't resulted in 
+uniform cloud migration and impact. 
+Surprisingly, more than 50% of the 
+executives in the World Cloud Report 
+admitted to not having migrated their 
+core business applications to the cloud. 
+Moreover, industry experts and analysts 
+suggest an even lower migration rate, 
+estimating it at between 20% and 30%.
+Composable platforms have emerged 
+as invaluable assets to streamline this 
+transition, particularly for mid- and 
+back-office processes. Leveraging cloud 
+marketplaces and harnessing SaaS-based 
+modular components across the banking 
+value chain can seamlessly integrate 
+with a bank's core banking system. This 
+integration yields heightened business 
+agility, fosters digital collaboration, 
+and amplifies scalability, fortifying the 
+institution's competitive edge.
+Vincent Kolijn
+Head of Strategy and Transformation, 
+Retail, Rabobank, Netherlands
+We're in the early stages of 
+AI proofs of concept, which show 
+great promise. Our dedicated team 
+is delving into the technology 
+and is beginning to develop a 
+roadmap. In this experimental 
+phase, we're examining possibilities 
+and considerations to guide 
+implementation. A key variable is to 
+allocate cloud computing resources 
+to generative AI use cases. The 
+convergence of generative AI and 
+cloud economics offer a path to 
+reduced costs and scaled adoption.”
+World Retail Banking Report 2024
+38
+
+
+--- PAGE 39 ---
+Arun Mehta
+CDAO, Head of Data Analytics and AI, 
+First Abu Dhabi Bank, UAE
+We recommend a bottom-up strategy 
+encompassing key elements to scale AI 
+and generative AI use cases and drive 
+intelligent transformation (figure 12):
+• Develop a modern data estate: 
+Establish a robust infrastructure for 
+enterprise-wide data management. A 
+modern data estate will serve as the 
+foundational framework for handling 
+diverse data sets efficiently.
+• Leverage advanced data processing: 
+Harness the potential of data by 
+implementing a robust model layer 
+equipped with LLMs and sophisticated 
+algorithms. This integration facilitates 
+the conversion of raw data into 
+actionable insights, and can translate 
+these insights into tangible impacts.
+• Implement guardrails and 
+frameworks: Set up comprehensive 
+guardrails and frameworks aligned with 
+business priorities and practices. This 
+responsible approach helps to 
+demonstrate the ROI of generative AI 
+initiatives, and ensures ethical and 
+accountable deployment.
+Figure 12. As generative AI quickly evolves, the development of enabling layers 
+becomes essential
+  
+ 
+MEASURE the impact
+Align to business priorities 
+with a robust framework and 
+KPIs to demonstrate 
+generative AI RoI
+HARNESS the data
+Select a Large Language Model 
+(LLM) ﬁne-tuned for speciﬁc 
+tasks and business outcomes
+BUILD a foundation
+Pursue an  enterprise-wide 
+data management approach to 
+eliminate silos and clean data* 
+for AI consumption
+Business
+KPIs Talent AI
+governance
+Security
+guardrails 
+Prompt & Response Hub
+BUSINESS  
+LAYER
+MODEL 
+LAYER
+DATA
+LAYER
+Custom knowledge 
+model
+Pretrained custom 
+open-source
+LLM model
+Data source
+systems APIs Data lakes Data 
+warehouse
+Cloud environment
+Source: Capgemini Research Institute for Financial Services Analysis, 2024. 
+Note: * Data cleaning (wrangling, remediation, or munging)  is used to transform raw data into a format that is easier to 
+access and analyze. The goal is to prepare data for downstream consumption/analytics – AI and generative AI.
+2
+3
+1
+Many AI initiatives does 
+not move from experimentation 
+to product integration due to the 
+foundational architectural and 
+platform gaps—a space where the 
+cloud and elasticity of compute 
+becomes pivotal. Generative AI has 
+elevated cloud discourse, drawing 
+attention to scaling AI. Amidst 
+the hype, even those previously 
+disinterested are now engaged. Yet, 
+the looming challenge remains: data 
+privacy compliance is generative AI's 
+paramount threat."
+World Retail Banking Report 2024
+39
+
+
+--- PAGE 40 ---
+A product mindset unlocks 
+value in data
+Banks’ most significant challenge 
+is eliminating data silos across 
+different domains without building an 
+unmanageably complex data platform. 
+Data siloing is often the result of  
+legacy systems developed at different 
+times and intervals that creates disparate 
+data formats and storage, which 
+complicates integration.
+Moreover, departmental databases and 
+systems foster isolated data islands 
+that impede a comprehensive view 
+of operations or customer insights. In 
+addition, stringent regulatory demands 
+necessitate separate systems for 
+compliance, which further fragments 
+data. The paramount concern of data 
+security can also lead to restricted access 
+and compartmentalization, hindering 
+effective data sharing.
+Not to mention that today’s incumbent 
+banking landscape has been shaped by 
+numerous mergers and acquisitions, 
+resulting in the inheritance of multiple, 
+often incompatible, systems and 
+databases. Integration complexities 
+stemming from this history impede 
+the seamless flow and accessibility 
+of information critical for a unified, 
+comprehensive view of the institution's 
+data assets. These disparate systems 
+persist as independent entities within  
+the organization, which exacerbates data 
+silo challenges.
+These days, an abundance of internal 
+and external data, including insights 
+from open banking, is readily available. 
+Some firms consolidate their vast data 
+within centralized platforms to optimize 
+information management. One-third of 
+the bank CXOs we surveyed are actively 
+exploring an enterprise-wide data 
+management approach. Concurrently, an 
+additional one-third are in the process of 
+developing their strategies for enterprise-
+wide data management. However, 
+pursuing complete data centralization can 
+heighten complexities, including those 
+caused by regulatory barriers.
+Data mesh architecture can help 
+complex data management
+Data mesh represents a novel architecture 
+paradigm for managing and leveraging 
+data within complex organizations. It 
+proposes a decentralized approach to 
+data architecture, aiming to address the 
+challenges posed by centralized data 
+platforms. What are the principles of the 
+data mesh concept?
+• Domain-oriented data ownership:  
+Data mesh advocates for distributed 
+data ownership. Each organizational 
+business domain or unit owns its data 
+and is responsible for its curation, 
+quality, and accessibility.
+• Data-as-a-Product:  Data is not treated 
+simply as an asset or a by-product of 
+operations – but as a standalone offering 
+with a value proposition. Data is curated, 
+refined, and packaged into products or 
+services that internal or external 
+stakeholders can directly consume or 
+utilize. Domain teams create and  
+manage data products tailored to their 
+needs that are discoverable, 
+understandable, and usable by other 
+parts of the organization.
+• Self-serve data infrastructure:  An 
+essential aspect of data mesh is 
+providing self-serve infrastructure and 
+tools for domain teams to manage their 
+data effectively. Necessary components 
+include standardized APIs, data 
+governance frameworks, and platforms 
+that support data discovery and sharing.
+• Federated computational governance: 
+Data mesh emphasizes federated 
+computational governance, ensuring 
+that while domains have autonomy over 
+their data, there are standardized 
+governance practices and protocols in 
+place to maintain consistency, security, 
+and compliance across the organization.
+• Governed data marketplace: The 
+marketplace provides a platform to 
+publish consumption-ready data 
+products where consumers can easily 
+search for them, understand details 
+about the data product, identify access 
+40
+ World Retail Banking Report 2024
+
+--- PAGE 41 ---
+requirements, write peer reviews, and 
+provide ratings. The marketplace also 
+ensures the trustworthiness of data 
+consumption and promotes 
+understanding of data assets, including 
+ownership elements, which are critical 
+challenges in today’s data platforms.
+Data mesh aims to decentralize data 
+management and foster a more scalable, 
+agile, and autonomous approach to data 
+within large and complex organizations. 
+It strives to enable better data access, 
+utilization, and innovation while 
+maintaining governance and security 
+standards. Moreover, banks pursuing 
+this approach can make the shift without 
+changing much of their existing IT 
+infrastructure (figure 13).
+JP Morgan Chase adopted a data mesh 
+product strategy that empowers data 
+product owners to manage their data, 
+fostering enhanced collaboration and 
+sharing across diverse domains. It 
+provides comprehensive visibility into 
+data usage throughout the enterprise, 
+offering clarity on its utilization across 
+various facets of the organization.
+37 
+Several banks – including Fifth Third Bank 
+(US), Saxo Bank (Denmark), ABN AMRO 
+(the Netherlands), and PKO Bank Polski 
+(Poland) – reported the adoption of 
+data mesh architecture.
+38 39 40 Data mesh 
+enables these institutions to streamline 
+data management, foster collaboration, 
+and achieve greater coherence across 
+diverse data landscapes.
+Figure 13. A next-generation data management approach for generative AI and 
+enterprise level AI
+  
+Access data on demand
+•  Create a data marketplace to enable 
+collaborative consumption of data by 
+various business lines
+•  Reduce time-to-value for AI and 
+generative AI use cases
+Embrace data diversity with 
+federated governance
+•  Create a centralized monitoring and 
+governance platform for distributed 
+data products
+•  Track, monitor, and report 
+data-related KPIs
+•  Drive "FAIR" governance to make 
+data Findable, Accessible,
+Interoperable, and Reusable
+Source: Capgemini Research Institute for Financial Services Analysis, 2024.
+Simplify data ownership and management
+•  Individual domains organize, own, and manage data (functions, product teams across the banking 
+value chain) on a shared platform for ease of storage, cataloging, and access control
+•  Domain-level data is decomposed into smaller units – data products – to improve data discovery and 
+reusability while reinforcing trust, security, and compliance
+•  Each domain creates, processes,  and publishes its data product within a standard  framework
+•  Data capabilities can be conveniently scaled to meet the domain requirements
+Cloud Environment
+Domain 
+speciﬁc 
+data product
+API
+API
+World Retail Banking Report 2024
+41
+
+
+--- PAGE 42 ---
+US-based retail bank embarks on 
+data architecture transformation 
+with Capgemini
+A leading US bank with more than 60 
+million customers wanted to transform its 
+data management approach, which spread 
+information across multiple systems without a 
+single version of truth. A legacy technology stack 
+with an outdated data management architecture, 
+limited analytics and self-service capabilities 
+made it challenging to extract usable insights 
+quickly: consequently, the bank was missing 
+revenue opportunities.
+Capgemini and the bank embarked on a new 
+multi-tenant architecture to accommodate 
+several hyperscalers and a private cloud by 
+adopting domain-driven data products and 
+distributed data management principles. The 
+team defined new architectures and architectural 
+patterns for data management, movement and 
+processing, data platforms, security, AI, and ML. 
+A single data-management framework control 
+plane provided a landscape view of data assets, 
+quality controls, lineage, and a data catalog.
+The bank is gradually creating data products 
+under a new operating model featuring data 
+owners and stewards who control their domains. 
+Data literacy is growing through product 
+descriptions, peer reviews, and sample datasets, 
+driving improved enterprise collaboration. 
+Business stakeholders are now more engaged in 
+the product architecture development life cycle, 
+leading to greater adoption.
+World Retail Banking Report 202442
+
+
+--- PAGE 43 ---
+How to shape your model 
+layer – buy, partner, or build
+Selecting the right large language model 
+(LLM) demands a long-term strategic 
+vision, a comprehensive assessment 
+of specific needs, available resources, 
+model capabilities, risk and compliance 
+considerations, and cost analysis. 
+Beginning with defining essential use 
+cases for LLMs – such as customer 
+support, risk assessment, copiloting, 
+or fraud detection – banks must then 
+evaluate the relevance and quality of 
+their available data for training purposes. 
+Concurrently, assessing internal talent and 
+expertise, computational resources, and 
+infrastructure is pivotal in understanding 
+the capacity to manage LLMs effectively.
+Jorissa Neutelings, Chief Digital Officer 
+at ABN AMRO Bank in the Netherlands, 
+said, “When it comes to generative AI, 
+banks are not necessarily competing 
+with tech giants. Strategic partnerships, 
+especially with hyperscalers, are essential 
+for the tools and support banks need. 
+Exploring generative AI, prioritizing large 
+language models, and weighing in-house 
+development should be the focus. Off-
+the-shelf solutions are equally important. 
+It is crucial for large banks to balance 
+these approaches. Banks must continue 
+to experiment, collaborate, and adapt to 
+harness the potential of AI without losing 
+sight of their core business.”
+We asked bank CXOs how they approach 
+LLM deployment; we charted a two-by-
+two matrix based  on the responses to 
+delineate the distinctions among the 
+three possible deployment approaches 
+(figure 14). We positioned the required 
+investment on the X-axis – covering 
+costs and resources. Along the Y-axis, 
+we placed the level  of customization, 
+denoting the model’s capability to 
+execute intended tasks effectively. This 
+graphical representation offers a visual 
+understanding of the varied approaches.
+Banks navigating the evolving 
+generative AI landscape should 
+weigh three approaches: building 
+a custom LLM, considering off-the-
+shelf generative AI, and partnering 
+with specialists. Custom LLM will 
+bring ownership and customization 
+but require substantial resources, 
+off-the-shelf generative AI solutions 
+provide immediate availability but 
+limited control, and partnering 
+with specialists accelerates the 
+development and contribute to 
+expertise enhancement.”
+Pierre Ruhlmann 
+Chief Operating Officer, BNP Paribas, France
+World Retail Banking Report 2024
+43
+
+
+--- PAGE 44 ---
+Buy to explore generative AI
+The advent of ChatGPT and generative 
+AI has introduced numerous off-the-
+shelf generative AI solutions tailored for 
+various industries, including banking. 
+These solutions encompass chatbots, 
+fraud detection platforms, compliance 
+tools, and more, catering to specific 
+banking needs. Banks can seamlessly 
+integrate these solutions into their 
+infrastructure to bolster their operations. 
+Banks leverage retrieval augmented 
+generation  methodology to use off-the-
+shelf generative AI solutions.
+In this scenario, the bank faces constraints 
+in accessing or modifying the underlying 
+LLM utilized by the off-the-shelf solution 
+provider. Consequently, the bank cannot 
+train the LLM model with domain-specific 
+data and knowledge, constraining its 
+proficiency in handling complex tasks. This 
+limitation results in minimal customization 
+options available to banks. Despite these 
+drawbacks, 56% of bank CXOs surveyed 
+prefer this approach due to its capacity 
+to explore generative AI capabilities with 
+lower investment. In this framework, 
+the bank primarily supplies high-quality 
+data to the off-the-shelf generative AI 
+solution; this approach doesn't require 
+alterations or transformations to existing 
+infrastructure. 
+ 
+Partner to scale generative AI  
+Over one-third of bank CXOs prefer this 
+approach, which offers a balanced path 
+to scale generative AI use cases at the 
+enterprise level. Collaborating with LLM 
+providers allows banks to customize or 
+fine-tune generative AI solutions using 
+domain-specific data and knowledge. 
+Fine-tuning involves adapting a pre-
+trained LLM, such as GPT-3, using bank-
+specific data or tasks to enhance its 
+performance for industry-specific  
+use cases.
+This process starts with identifying an 
+LLM that closely aligns with the bank's 
+needs – like GPT from OpenAI or BERT 
+from Google. Banks then gather domain-
+specific data, encompassing customer 
+Figure 14. Banks typically select one of three approaches to shape their
+generative AI model
+  
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024; World Retail Banking Report CXO survey, 
+N=250
+Question asked to bank CXOs: Which of the following Gen AI approaches, in your experience, is best suited for your bank?
+Investments
+Model customization
+HIGHLOW
+LOW HIGH
+BUY
+ 
+PARTNER
+ 
+BUILD
+  
+to explore generative AI
+to scale generative AI
+to industrialize generative AI
+56%
+of bank CXOs 
+intend to buy 
+solutions to  
+explore generative 
+AI capabilities.
+World Retail Banking Report 2024
+44
+
+
+--- PAGE 45 ---
+interactions, financial reports, compliance 
+documents, and other banking-related 
+texts. The pre-trained LLM is calibrated 
+using this data, refining its parameters to 
+understand banking-specific nuances.
+After fine-tuning, banks evaluate the 
+model's performance, testing it on tasks 
+like customer query resolution, fraud 
+detection, and risk assessment. Iterative 
+refinement may follow, integrating 
+additional data or adjusting training 
+parameters for improved performance. 
+Once the bank is satisfied, the fine-tuned 
+LLM integrates into the bank's systems, 
+elevating its ability to handle banking 
+tasks and enhance customer experiences.
+For instance, within the “buy” approach, 
+a chatbot provides broad yet precise 
+responses to general queries, such as 
+“What are different mortgage rates?” or 
+“How to apply for a loan?”. In contrast, 
+within the “partner” development 
+approach, a chatbot powered by a fine-
+tuned LLM leverages its training on 
+banking-specific data, like transaction 
+records and financial product information. 
+Due to its domain-specific training, this 
+specialized chatbot adeptly handles 
+queries related to account balances, 
+transaction history, and personalized 
+financial and product recommendations.
+Fine-tuning LLM necessitates robust 
+enterprise-level data management 
+for banks to supply domain-specific 
+knowledge to the LLM. While this allows 
+for increased customization and capability 
+to handle complex tasks, it demands 
+substantial investments and modifications 
+to the bank's data architecture for 
+seamless integration of the generative  
+AI solution.
+Build to industrialize generative AI  
+ The approach that was least preferred 
+among the bank CXOs we surveyed, 
+chosen by only 10%, involves building 
+an LLM model from scratch. This 
+method incurs significantly higher costs, 
+potentially requiring up to 20 times the 
+expense of other approaches. It also 
+demands internal expertise to design the 
+model architecture, conduct the training, 
+evaluate the LLM, and integrate it into 
+existing banking applications.
+For instance, a chatbot powered by a 
+custom-built LLM goes beyond providing 
+hyper-personalized suggestions to 
+customers and can perform complex 
+financial tasks like fund transfers, 
+payments, and investments. These 
+bespoke LLMs are also well-versed 
+in regulatory standards, ensuring 
+compliance with industry regulations 
+and prioritizing secure interactions to 
+safeguard sensitive customer information.
+Regardless of the approach followed for 
+generative AI implementation, success  
+is contingent upon aligning AI ambition 
+and possibilities, which requires 
+monitoring for continuous improvement 
+and course corrections.
+ii RAG stands for Retrieval-Augmented Generation. It's a methodology that combines two key processes in artificial intelligence: 
+retrieval and generation. In this approach, a retriever model first identifies relevant information from extensive datasets or 
+knowledge sources. Subsequently, a generative model uses this retrieved information to create or generate text, aiming to enhance 
+the coherence and contextuality of responses.
+World Retail Banking Report 2024
+45
+
+
+--- PAGE 46 ---
+Define KPIs for generative AI 
+to ensure transparency and 
+explainability
+As generative AI evolve, they push the 
+limits of human understanding. Instead 
+of transparent explainable mechanisms, 
+generative AI applications can be 
+mysterious decision-making processes 
+that may not be easily interpretable 
+by humans. Unsurprisingly, calls are 
+escalating for explainable generative AI 
+from boards of directors, tech conference 
+keynotes, and research labs. If an AI 
+system makes a decision, it should be 
+explainable so humans can quickly 
+comprehend the how and why behind it.
+Beyond the imperative of ensuring 
+explainability, banks must diligently 
+monitor and manage several other critical 
+categories of risk associated with these 
+advanced technologies:
+• Bias poses a significant concern within 
+AI models, manifesting in various 
+settings through the incorporation of 
+stereotypes related to race, gender, or 
+sexuality. This inherent bias introduces 
+the risk of generating discriminatory and 
+unjust answers, potentially perpetuating 
+discrimination and contributing to 
+oppressive outcomes.
+• Hallucinations represent a notable 
+challenge in large language model (LLM) 
+functionality, wherein these models 
+confidently produce inaccurate 
+statements. Despite their intent to 
+generate the most relevant answers 
+within given constraints, LLMs are not 
+infallible, and their responses may not 
+always be entirely accurate, potentially 
+containing false information.
+• Privacy risk associated with LLMs is a 
+pressing concern, given their potential  
+to unintentionally learn and memorize  
+private information. This risk extends 
+beyond personal data to encompass 
+sensitive details within project documents, 
+codebases, and works of art. The 
+incorporation of private memorized data  
+in generated outputs introduces additional 
+complexities, particularly in relation to 
+copyright considerations.
+• Risk of malicious use is a notable 
+concern, involving the intentional 
+creation of entirely new content by 
+injecting purposefully incorrect, private, 
+or stolen information into the outputs 
+generated by LLMs. This malicious use 
+poses significant challenges as it can lead 
+to the dissemination of misinformation, 
+potential harm to individuals or entities, 
+and the misuse of generated content.
+To effectively mitigate these risks, 
+thorough testing of generative AI 
+models is essential. This testing phase 
+should prioritize the establishment and 
+measurement of KPIs to ensure the 
+reliability, transparency, and ethical use 
+of these advanced models in real-world 
+banking scenarios. By implementing 
+robust testing protocols, banks can  
+foster a more responsible and secure 
+integration of generative AI technologies 
+into their operations.
+Measurement of the impact of generative 
+AI is significant across various facets of 
+organizational strategy and performance. 
+It enables generative AI system evaluation 
+and determines whether a bank is 
+meeting its objectives and performance 
+benchmarks. Measurement allows 
+informed decision-making, guides 
+resource allocation, and can shape 
+generative AI implementation strategies.  
+ 
+By comprehensively assessing impact, 
+organizations gain valuable insights 
+into areas that require optimization or 
+improvement, facilitating refinements 
+in algorithms, models, or operational 
+processes to enhance overall AI and 
+generative AI performance.
+World Retail Banking Report 2024
+46
+
+
+--- PAGE 47 ---
+Figure 15. Banks are lagging in developing KPIs to gauge generative AI performance
+Sources: Capgemini Research Institute for Financial Services Analysis, 2024; World Retail Banking Report 2024 CXO 
+survey, N=250.
+Note: The total will not add to 100% as responses where 'KPIs does not exit hence not tracked' are excluded.
+34%
+29%26%
+37%23%
+47%30%
+48%25%
+27%
+36%
+30%
+16%
+22%
+24%
+8%
+45%18% 31% 6%
+8%
+6%
+2%
+6%
+Accuracy
+Productivity
+Cost savings
+Turnaround time
+Business impact
+Human-in-the-loop metrics
+AI Key Performance Indicators
+Under development Exist, but not tracking Regularly trackingUnder consideration
+Despite the undeniable benefits and 
+pivotal role of KPIs in monitoring and 
+assessing generative AI impact, banks 
+are falling behind. Only 6% of banks have 
+established KPIs to measure generative 
+AI impact and maintain continuous 
+monitoring. In contrast, 26% have 
+identified KPIs but are not actively tracking 
+them, while 40% are in the process of 
+developing these indicators (figure 15). 
+A quarter of banks consider using KPIs to 
+evaluate generative AI's impact.
+Explainable AI (XAI) in banking 
+is essential to mitigate bias risks 
+and enhance trust. It accelerates 
+AI adoption, ensuring transparent 
+decisions, compliance, and 
+collaborative industry implementation. 
+XAI's role in clarifying complex AI 
+processes drives trust, compliance, 
+and understanding – all vital for 
+industry-wide scaled deployment 
+across banking and beyond."
+Cormac Flanagan 
+Global Head of Product Management, 
+Temenos, Ireland
+World Retail Banking Report 2024
+47
+
+
+--- PAGE 48 ---
+As a result, the “Generative AI silent 
+failure” phenomenon may emerge; 
+yielding suboptimal results and outcomes. 
+The crux of this issue lies in the delayed 
+realization by key stakeholders that 
+problems exist. To achieve desirable 
+outcomes with generative AI, banks need 
+to establish and monitor KPIs. They should 
+also develop a roadmap and draw insights 
+from their experiences in scaling AI at the 
+enterprise level.
+Consider these insights from surveyed bank 
+CXOs: while an average of 14 use cases are 
+under exploration, only one or two have 
+achieved enterprise-level scaling.
+When evaluating the performance of 
+these scaled AI use cases, 39% of bank 
+CXOs expressed dissatisfaction, citing the 
+failure to achieve desired outcomes or 
+align with initial expectations. This delayed 
+awareness of underperformance hampers 
+the timely rectification of issues and leads to 
+a substantial gap between anticipated and 
+realized benefits.
+We suggest that banks consider setting up 
+an AI observatory to track, monitor, and 
+report AI and generative AI impact and 
+outcomes. KPIs assess model performance 
+through metrics like accuracy and precision, 
+unearth biases within models to ensure 
+fairness, track feature importance to 
+elucidate decision-making, aid in selecting 
+interpretable models, and establish a 
+feedback loop for continuous refinement.
+KPIs also play a pivotal role in 
+improving AI governance by providing 
+measurable benchmarks for oversight 
+and management. These quantifiable 
+measures enable the structured 
+monitoring of AI system performance 
+against predetermined benchmarks, 
+allowing organizations to ensure 
+alignment with established standards 
+and objectives. KPIs also serve as early 
+warning systems, identifying potential 
+risks and anomalies within AI models  
+and facilitating proactive risk 
+management and compliance with 
+regulatory requirements.
+João Quaranta, Executive Portfolio 
+Manager, Data Governance, AI and 
+Analytics, and Rafael Rovani, Head of AI 
+and Analytics, CDAO, from Banco do Brasil 
+explained, “The bank’s 2024 focus revolves 
+around key macro themes like governance. 
+The bank is instrumentalizing its data 
+governance model, a new implementation 
+critical for operations. Additionally, the 
+bank is delving into emerging themes 
+like the AI treadmill, emphasizing ethics 
+and standards, particularly concerning 
+generative AI algorithms. This involves 
+restructuring the bank's framework to 
+mitigate risks associated with model 
+development in this era. This marks a 
+significant milestone, prompting enhanced 
+research and development initiatives.”
+An AI observatory with measurable KPIs 
+will help banks strategically allocate 
+resources to areas that require attention, 
+ultimately contributing to robust and 
+effective AI governance frameworks.
+Enterprise-wide AI is a 
+stepping stone to autonomous 
+and intelligent banking
+Retail banks need to implement AI and 
+generative AI at an enterprise-scale with:
+• Robust cloud infrastructure and a solid 
+data foundation;
+• Accessible LLM under strong AI 
+governance; and
+• In-house expertise and stringent 
+protocols.
+The hurdles in responsible AI 
+aren't merely technological; they're 
+rooted in navigating evolving 
+organizational frameworks. With 
+generative AI, the challenge isn't 
+primarily cost-related; it's aligning 
+our organizational structure with 
+exploration, experimentation, and 
+deployment. It's the calculus of costs 
+once our framework is in sync.
+Rafael Cavalcanti
+SVP – Data, Analytics, and AI, Banco Bradesco, 
+Brazil
+39%
+of bank CXOs 
+expressed 
+dissatisfaction 
+with AI use case 
+outcomes.
+World Retail Banking Report 2024
+48
+
+
+--- PAGE 49 ---
+Further, intelligence needs to be infused 
+throughout all banking operations 
+encompassing products, services, 
+customer care, and engagement. The 
+over-arching goal should be to lay 
+the groundwork for autonomous and 
+intelligent self–driving banks, similar to 
+self-driving car concepts.
+Autonomous banking uses advanced 
+technology, such as generative AI, to 
+streamline financial processes. It harnesses 
+the power of algorithms and data 
+analysis to provide personalized financial 
+planning and automate transactions and 
+investments. Autonomous banks will 
+function with minimal human intervention 
+by utilizing generative AI-driven systems 
+and automation across various banking 
+functions.
+While the self-driving bank concept 
+develops (figure 16), some firms are 
+gradually incorporating autonomy and 
+intelligent capabilities to enhance customer 
+experiences and streamline processes:
+• Imagine a future state in which a 
+customer’s bank account autonomously 
+transfers funds from checking to savings 
+if an unusual deposit is detected. It might 
+also swiftly identify and cover an 
+overdraft by transferring funds from 
+another account. For example, at BBVA, 
+the bank’s mobile app features 
+“Bconomy”, which anticipates each 
+customer’s needs, alters them in the case 
+of specific scenarios (like an overdraft), 
+and proposes activities to improve the 
+customer’s finances.
+41
+• Spain’s Santander Bank partnered with 
+Personetics, an AI and data FinTech firm, to 
+integrate self-driving finance solutions into 
+their mobile app. This implementation 
+offers personalized customer engagement 
+driven by AI, analyzing individual financial 
+data to enhance the banking experience.
+42
+With highly efficient and productive mid 
+and back-office processes, self-driving 
+banks will achieve true customer centricity 
+– enabling hyper-personalized customer 
+journeys, omnichannel engagement, and 
+contextualized product recommendations.
+Figure 16.  Intelligent banks of the future will deliver hyper-personalization at scale
+  
+Source: Capgemini Research Institute for Financial Services Analysis, 2024.
+Intelligence embedded across products, services, customer care, and engagement
+At-scale 
+personalization of
+Banking 
+products
+Customer 
+journeys
+Banking 
+channels
+Enterprise-wide AI and generative AI capabilities
+AI  Observatory
+Talent
+Cybersecurity
+ Orchestration layer
+Data-as-a-Product architecture
+Cloud environment
+Foundation 
+model
+World Retail Banking Report 2024
+49
+
+
+--- PAGE 50 ---
+Conclusion
+This year presents unique challenges for the banking industry: 
+it faces a harsh economic climate and rapid technological 
+advancements. Generating income while managing costs is more 
+crucial than ever, forcing banks to find new ways to create value even 
+with limited capital.
+The pressure to increase revenue and control costs makes 2024 a 
+pivotal year. For banks, efficiency isn't just essential – it's a potential 
+competitive advantage. Despite previous efforts to improve 
+efficiency, sluggish revenue growth and rising expenses may make 
+the coming months even more challenging.
+The key to survival? Intelligent solutions. Future-proof intelligent 
+banks will thrive by doing more with less.
+• Deepening engagement with profitable customers:  Build 
+meaningful relationships with high-value clients, attract new 
+customers with forward-thinking products, and maximize customer 
+lifetime value.
+• Finding the perfect balance: Use AI and generative AI wisely across 
+all your operations. Automate tasks to improve efficiency, but 
+prioritize technologies that enhance the customer experience, not 
+detract from it.
+• Unifying digital and data capabilities:  Combine your digital and 
+data resources to drive an intelligent transformation. Embrace the 
+power of AI and generative AI, but manage the risks they bring 
+responsibly.
+By focusing on these intelligent solutions, banks can navigate 
+the challenges of 2024 and emerge stronger. They can generate 
+sustainable growth, improve customer experience, and gain a 
+competitive edge in the changing financial services landscape.
+World Retail Banking Report 2024
+50
+
+--- PAGE 51 ---
+Methodology
+The World Retail Banking Report 2024 draws on 
+insights from three primary sources – the Global Retail 
+Banking Executive Surveys and Interviews 2024, the 
+Global Retail Banking Employee Survey 2024, and the 
+Global Retail Banking Voice of Customer Surveys 2024. 
+These primary research sources cover insights from 14 
+markets: Australia, Brazil, Canada, France, Germany, 
+Hong Kong, the Netherlands, Portugal, Singapore, 
+Spain, Sweden, UAE, the UK, and the USA. 
+Global Retail Banking Executive 
+Surveys and Interviews 2024
+The report includes insights from focused interviews 
+and surveys with 250 senior executives of leading 
+banks representing all three regions: Europe, the 
+Americas (North America and Latin America), and 
+Asia-Pacific and Middle East.
+Global Retail Banking Employee 
+Survey 2024
+The survey questioned 1,500 banking employees on 
+factors affecting the efficiency across their banking 
+value chain from front-end to back-end, focusing 
+on onboarding, lending, marketing, and customer 
+service domains. Participants were also asked about 
+the challenges and gaps in their department, their 
+understanding of artificial intelligence, and how it can 
+benefit them and their organization.
+Global Retail Banking Voice of 
+Customer Surveys 2024
+The survey questioned 4,500 customers on their 
+financial journey and their banking preferences, 
+products, and services; factors influencing their 
+adoption or avoidance of traditional banks vs 
+new age players as well as their comfort with 
+increasing technical intervention in their banking 
+journey. Participants were also asked questions 
+to understand their banking behavior, technology 
+savviness, willingness to share personal data, and 
+interest in adopting financial products and services 
+using conversational bots.
+Customer and banking executive surveys to derive market and industry insights
+Voice of Customer survey
+Responses by region
+7%9% 6% 9% 8% 6%
+13%
+5% 4% 2% 2%
+13% 11%
+6%
+Singapore
+Australia
+UAE
+Hong Kong
+UK
+France
+Portugal
+Germany
+Netherlands
+Spain
+Sweden
+US
+Canada
+Brazil
+29%
+APAC & MEA 
+Americas
+30%
+4,500 customers
+Executive surveys
+Responses by bank size
+Tier 1 Tier 2 
+70% 30%
+250 banking executives
+Banking employee survey
+1,500 banking employees
+Responses by bank size
+Tier 1 Tier 2 
+70% 30%
+Responses by region
+APAC & MEA
+25%
+Americas
+36%
+Europe
+39%
+Responses by region
+30%
+40%
+Americas
+Europe
+APAC & MEA
+30%
+41%
+Europe
+(assets of USD 
+100 billion and 
+more)
+(assets of USD 
+10 billion to 
+USD 100 
+billion)
+(assets of USD 
+10 billion to 
+USD 100 
+billion)
+(assets of USD 
+100 billion and 
+more)
+Responses by department
+25%
+Loan/
+Mortgage
+25%
+Sales and 
+marketing
+25%
+Contact 
+center
+25%
+Onboarding/
+KYC
+Responses by age group Responses by genderResponses by location
+Small city/
+large town
+9.5%
+Metropolitan area 47%
+Medium sized city 43%
+Small town/
+rural area
+0.5%
+45% 
+Male
+54%
+Female
+1% 
+Others
+20%Gen Z
+(18–26)
+40%Millennials
+(27–42)
+25%Gen X
+(43–58)
+15%
+Baby 
+Boomers
+(59+)
+World Retail Banking Report 2024
+51
+
+
+--- PAGE 52 ---
+Partner with Capgemini
+Custom Generative AI for 
+Enterprise
+Custom Generative AI for Enterprise helps 
+banks move from generic public LLMs that 
+can be challenging to control and risky for 
+data and privacy – to a tailored, trusted, 
+and compliant solution. We work with  
+your customer data and company 
+information in a ring-fenced environment 
+to ensure reliable output and tangible 
+business outcomes.
+Capgemini’s proven generative AI 
+framework augments your organizational 
+expertise through secure, privacy-
+protecting, reliable, high-scale,  
+generative solutions.
+Intelligent layers
+• Data (data-platform foundation)
+• Model (trained based on company 
+knowledge)
+• Business (experience layer orchestrated 
+for business domain use)
+• Testing and trust (transversal layer)
+We can help you define your organization’s 
+baseline and envision a strategy to develop 
+minimum viable products (MVPs) and 
+enterprise-ready custom solutions that 
+scale business transformation.
+Generative AI for CX
+One of generative AI's most significant 
+capabilities is hyper-personalization, 
+which boosts customer experience. It’s 
+an ideal tool for banks seeking to elevate 
+and scale self-service capabilities across 
+channels, bolster the consistency of 
+in-person customer service, improve the 
+scale, reliability, and reach of appropriate 
+content and campaigns, and improve sales 
+staff productivity and stability. Generative 
+AI can be critical when orchestrating 
+personalized journeys across all customer 
+interactions and complex ecosystems.
+However, the challenge is adopting 
+generative AI successfully and delivering 
+competitive advantages without exposure 
+to significant risks. To hedge against 
+generative AI errors, banks must control 
+the entire process, from the business 
+challenges they address to the governance 
+that manages the model once deployed.
+Generative AI for CX can help your bank 
+develop tuned foundation models and 
+smoothly navigate complexities. To help 
+you deliver innovative, transformational 
+CX faster and at scale, we leverage our 
+Digital Customer Experience Foundry – a 
+collaborative and dynamic environment 
+for ideation and innovation. Fostering 
+collaboration among our clients and 
+partners, the Foundry is a global delivery 
+incubation hub.
+Intelligent Process 
+Automation
+Automation is a top 2024 priority as 
+banks align operational efficiency with 
+profitability. However, many firms struggle 
+to reach their desired pace of automation 
+adoption and scale. Capgemini’s Intelligent 
+Process Automation delivers self-service 
+and end-to-end automation through 
+automated, frictionless business processes 
+and a digitally augmented workforce 
+infused with robotic process automation 
+(RPA), AI, and smart analytics. Let us help 
+you connect your teams with data to drive 
+success at scale while breaking down 
+organizational silos around front-, middle-, 
+and back-office processes. The results?
+The time to transform your business is now.
+World Retail Banking Report 202452
+
+--- PAGE 53 ---
+• Better productivity through faster 
+resolution of issues and fewer manual 
+operations and errors
+• Keener insights thanks to sharper 
+forecasting, better customer knowledge, 
+and informed decision-making
+• Superior customer experience based on 
+self-service process, personalized 
+support and interactions, and increased 
+transparency.
+Contact Center 
+Transformation
+Contact Center Transformation can help 
+your service staff meet dynamic customer 
+expectations while improving cost savings 
+and efficiency. If your organization relies 
+on legacy infrastructure and faces team 
+silos, scalability issues, and challenges with 
+employee performance and satisfaction 
+– then contact center transformation can 
+help you migrate to cloud and leverage 
+artificial intelligence, generative AI, and 
+machine learning modernization.
+By moving your on-premises contact 
+center to cloud, your organization can 
+improve scalability and bolster cost savings 
+and agent productivity. Reduce customer 
+wait times through support from virtual AI 
+agents that emulate natural conversations. 
+Generative AI copilots assist live agents 
+in discovering customer intent and 
+suggesting solutions promptly to increase 
+productivity. State-of-the-art analytics 
+platforms help monitor and report KPIs to 
+encourage superior customer experience. 
+World Retail Banking Report 2024
+53
+
+
+--- PAGE 54 ---
+Ask the experts
+Ashvin Parmar
+Global Head of FS Generative AI CoE
+ashvin.parmar@capgemini.com
+Ashvin comes with more 25 years of experience 
+leading large scale initiatives and advising 
+C-suite executives. In his role, he collaborates 
+with cross-functional teams to drive innovation 
+leveraging generative AI solutions. He prioritizes 
+customer-centricity, efficient enterprise 
+management, and cutting-edge AI strategies, 
+empowering organizations to make informed 
+choices regarding the most effective AI 
+technologies and solutions to achieve growth 
+objectives.
+Nilesh Vaidya
+Global Head of Banking and Capital Markets 
+practice 
+nilesh.vaidya@capgemini.com
+Nilesh has been with Capgemini for 20+ years 
+and is an expert in managing digital journeys for 
+clients in areas of core banking transformation, 
+payments, and wealth management. He works 
+with clients to help them launch new banking 
+products and their underlying technology.
+Carlos Salta
+EVP, Head of Banking and Capital Markets 
+Practice
+carlos.salta@capgemini.com
+Carlos comes with extensive experience and 
+skills sets focused around transformation 
+planning and management, solution definition 
+and complex solution delivery disciplines. He 
+has a strong background in digital led core 
+modernization/replacement and has experience 
+in driving transformations that span front end 
+and back end functions. 
+Nathan Summers
+Global Head for Capgemini Invent 
+nathan.summers@capgemini.com
+Nathan Summers is the Managing Director 
+of Financial Services in Capgemini Invent. 
+He has more than 25 years of consulting 
+leadership experience and works with senior 
+client leaders on group strategy and strategic 
+transformation initiatives.
+54
+ World Retail Banking Report 2024
+
+--- PAGE 55 ---
+Elias Ghanem
+Global Head of Capgemini Research Institute for 
+Financial Services
+elias.ghanem@capgemini.com
+Elias is responsible for Capgemini’s global 
+portfolio of 
+fin
+ancial services thought leadership. 
+He oversees a team of consultants and sector 
+analysts who bring together a wide range of 
+strategic research and analysis capabilities. 
+He brings expertise in e
+ffe
+ctive collaboration 
+between banks and startups, having launched his 
+own FinTech in 2014 after more than 20 years in 
+banking and payments.
+Vivek Singh
+Head of Banking and Capital Markets, 
+Capgemini Research Institute for FS
+vivek-kumar.singh@capgemini.com
+Vivek leads the Wealth Management, 
+Banking, FinTech, and Payments sectors in the 
+Capgemini Research Institute for Financial 
+Services and has over 12 years of digital, 
+consulting, and business strategy experience. 
+He is a tech enthusiast who tracks industry 
+disruptions, thought leadership programs, 
+and business development.
+Stephen Dury
+Global Retail Banking Lead
+stephen.dury@capgemini.com
+Stephen joined Capgemini Invent in 2021 
+following 22 years on the client side in roles 
+across marketing, product, strategy, innovation, 
+payments, partnerships, and open banking. 
+He is a former chief innovation and customer 
+engagement officer, and an expert in developing 
+and delivering new business models, innovation, 
+and growth strategy.
+Olivier Legrois
+Director of Banking Practice
+olivier.legrois@capgemini.com
+Olivier is in charge of the banking practice in 
+France. He has over 20 years of experience 
+as a financial services expert. He has worked 
+for the main French banks in fields such as 
+payments, retail banking, and corporate and 
+investment banking for large transformation 
+programs.
+World Retail Banking Report 2024
+55
+55
+
+--- PAGE 56 ---
+Key contacts
+Global
+Nilesh Vaidya 
+nilesh.vaidya@capgemini.com
+Ian Campos 
+Ian.campos@capgemini.com
+Nathan Summers  
+nathan.summers@capgemini.com
+................................................................................
+Asia (China, Hong Kong, 
+Singapore)
+Ravi Makhija 
+ravi.makhija@capgemini.com
+James Aylen 
+james.aylen@capgemini.com
+Laurent Liotard-Vog  
+laurent.liotard-vogt@capgemini.com
+Manoj Khera 
+manoj.khera@capgemini.com
+................................................................................ 
+Australia
+Roy Crociani 
+roy.crociani@capgemini.com
+Susan Beeston  
+susan.beeston@capgemini.com
+................................................................................
+Austria, Germany,  
+Switzerland
+Jens Korb 
+jens.korb@capgemini.com
+Joachim v. Puttkamer 
+joachim.von.puttkamer@capgemini.com
+...............................................................................
+Belgium
+Martine Klutz
+martine.klutz@capgemini.com
+................................................................................
+France
+Christele Rabardel
+christele.rabardel@capgemini.com
+Stéphane Dalifard
+stephane.dalifard@capgemini.com
+................................................................................
+India
+Sanjay Pathak 
+sanjay.pathak@capgemini.com
+Kamal Misra
+kamal.mishra@capgemini.com
+................................................................................
+Italy
+Monia Ferrari  
+monia.ferrari@capgemini.com
+Lorenzo Busca 
+lorenzo.busca@capgemini.com
+................................................................................
+Japan
+Hiroyasu Hozumi 
+hiroyasu.hozumi@capgemini.com 
+Hideo Nishikawa
+hideo.nishikawa@capgemini.com
+................................................................................
+Middle East
+Bilel Guedhami  
+bilel.guedhami@capgemini.com
+Vincent Sahagian  
+vincent.sahagian@capgemini.com
+................................................................................
+Netherlands
+Stefan Van Alen 
+stefan.van.alen@capgemini.com
+Alexander Eerdmans  
+alexander.eerdmans@capgemini.com 
+................................................................................
+Nordics  
+(Finland, Norway, Sweden)
+Saumitra Srivastava
+saumitra.srivastava@capgemini.com
+Johan Bergstrom 
+johan.bergstrom@capgemini.com
+Liv Fiksdahl  
+liv.fiksdahl@capgemini.com
+................................................................................
+Spain
+Sebastian Ghilardi
+sebastian-carlos.ghilardi@capgemini.com
+Mª Carmen Castellvi Cervello 
+carmen.castellvi@capgemini.com
+................................................................................
+United Kingdom
+Gareth Wilson 
+gareth.wilson@capgemini.com 
+Stephen Dury  
+stephen.dury@capgemini.com
+Carlos Salta
+carlos.salta@capgemini.com
+................................................................................
+United States
+P.V. Narayan Puthanmadhom 
+pvnarayan@capgemini.com
+Patrick Bucquet
+patrick.bucquet@capgemini.com
+................................................................................
+World Retail Banking Report 202456
+
+
+--- PAGE 57 ---
+We would like to extend a special thanks to all the 
+banks, FinTech firms, technology service providers, 
+and individuals who participated in our executive 
+interviews and surveys.
+The following firms agreed to be 
+publicly named: 
+FS Firms: ABN AMRO, Ailos Credit Union, 
+Aldermore, ANZ Bank, Banca Popolare di Sondrio, 
+Banco BNB, Banco BPM, Banco do Brasil, Bankinter 
+Portugal, BNL S.p.A., BNP Paribas, BPER Banca, 
+Bradesco, BTG Bank, Crédit Agricole Italia, First 
+Abu Dhabi Bank, Flutterwave, Intesa Sanpaolo, 
+Rabobank, UniCredit.
+Technology firms: Microsoft, Salesforce, Temenos.
+Survey partners: INJ partners.
+We would also like to thank the 
+following teams and individuals for 
+helping to compile this report: 
+Elias Ghanem, Chirag Thakral, and Vivek Singh 
+for their overall leadership for this year’s report. 
+Vaibhav Pandey, Bipin Jose, Raghava Bethanabhatla, 
+Palak Jain, Radhika Maheshwary, and Ankita Das for 
+in-depth market analysis, research, compilation, and 
+drafting of the findings. Tamara Berry for editorial 
+contributions. Dinesh Dhandapani Dhesigan for 
+graphical interpretation and design.
+Capgemini’s Global Banking network for providing 
+insights, industry expertise, and overall guidance: 
+Anuj Agarwal, Camilla Cianci, Carlos Salta, Cliff 
+Evans, Chandramouli Venkatesan, Daniele Benassi, 
+David Cortada, Daniela Dutra, Deepak Juneja, Edgar 
+Mendelsohn, Geet Aggarwal, Gaurav Sophat Gareth 
+Wilson, Gerold Tjon Sack Kie, Hemant Chandrika, 
+Himanshu Kalra, Hugo Oliveira, Jens Korb, Jerome 
+Buvat, Joachim von Puttkamer, Kristofer le Sage 
+de Fontenay, Karina Orlandi, Lorenzo Busca, Loes 
+Toonen, Manish Mehta, Manoj Khera, Martine 
+Klutz, Maura S. Lachowski, Mathilde Testard, Murali 
+Venkataramani, Michael Zwiefler, Nicolas Descours, 
+Nuno Januário, Olivier Jamault, Philippe Durante, 
+Pascal Cruls, Paulo Fão, Roy Crociani, Rajesh S. Iyer, 
+Sébastien Salvi, Seddik Jamai, Stanislas M de Roys 
+de Ledignan, Sellappan Chidambaram, Stephane 
+Dalifard, Stephen Dury, Sujit Kini, Suraj Saluja, 
+Vincent Fokke, Vanita Kothari, Wim Stolk.
+Laura Breslaw, David Merrill, Meghala Nair, Swathi 
+Raghavarapu, Fahd Pasha, Jyoti Goyal, Anthony 
+Tourville, Vamsi Krishna Garre, Manasi Sakpal, and 
+Pranoti Kulkarni for overall marketing leadership; 
+and the Creative Services team for graphic 
+production: Vasepalli Venu Gopal Reddy, Balaswamy 
+Lingeshwar, Anupriya Andhorikar, Pravin Kimbahune, 
+and Sushmitha Kunaparaju.
+Acknowledgments
+Vaibhav Pandey
+Program manager and lead analyst, World Reports, Capgemini 
+Research Institute for Financial 
+vaibhav.a.pandey@capgemini.com
+Vaibhav supports the Banking, Payments, and Wealth 
+management sectors in Capgemini Research Institute for FS. 
+He comes with over seven years of cross-sector research and 
+consulting experience. In his role, he supports financial services 
+practice with strategic industry and business insights.
+Bipin Jose
+Industry research analyst, Capgemini Research Institute  
+for Financial Services
+bipin.a.jose@capgemini.com
+Bipin supports the Banking, Payments and Wealth management 
+sector in Capgemini Research Institute for FS. In his role, he 
+supports the FS practice with thought leadership, strategic 
+industry and business insights.
+World Retail Banking Report 2024
+57
+
+
+--- PAGE 58 ---
+Endnotes
+1. B loomberg , “Rates Party Almost Over for European Banks, 
+JPMorgan Says;” January 16, 2024.
+2.
+ E
+uropean Central Bank, “Priorities to help banks withstand 
+headwinds;” January 16, 2024.
+3.
+ R
+euters, “US banks warn costly deposits to weaken interest 
+income in 2024;” January 19, 2024.
+4.
+ F
+ederal Reserve Bank of New York, “Spending Down Pandemic 
+Savings Is an “Only-in-the-U.S.” Phenomenon;” October 11, 
+2023.
+5.
+ B
+loomberg, “US Consumers Keep Tapping Credit Even as More 
+Fall Behind on Payments;” November 7, 2023.
+6.
+ B
+arron’s, “Consumer Borrowing Unexpectedly Declines as 
+Fed’s Rate Hikes Hit Home;” October 6, 2023.
+7. DW
+S, “Europe’s depleted Covid savings;” September 1, 2023.
+8.
+ E
+uropean Commission, “Autumn 2023 Economic Forecast: A 
+modest recovery ahead after a challenging year;” November 
+15, 2023.
+9.
+ E
+quifax, “Credit card and personal loan demand rises as 
+consumers manage changing household budgets;” September 
+2023.
+10.
+ S
+&P Market Intelligence, “Singapore banks face challenging 
+outlook as loan demand slows;” August 13, 2023.
+11. B
+loomberg, “Bank Deposits Drop Year-Over-Year for First Time 
+Ever, S&P Says;” September 27, 2023.
+12. B
+loomberg, “Regional Banks Battle for Deposits with Tougher 
+US Rules Looming;” July 17, 2023.
+13. R
+euters, “PacWest sells $3.5 billion loan portfolio to asset 
+manager Ares;” June 27, 2023.
+14. CNB
+C, “Gen Z could overtake Boomers in the workforce 
+in 2024: This has ‘sweeping implications,’ economist says;” 
+December 5, 2023.
+15.
+ S
+imon & Kucher, “Revolutionizing Neobanking: unlocking 
+profits and sustained growth;” October 25, 2023.
+16. I
+bid.
+17. e
+lEconomista, “Revolut gives the 'surprise' to Santander and 
+CaixaBank in new customer registrations;” August 21, 2023.
+18. S
+imon & Kucher, ““Revolutionizing Neobanking: unlocking 
+profits and sustained growth;” October 25, 2023.
+19. F
+inextra, “Revolut sees bumper revenue growth in 2023;” 
+December 21, 2023.
+20. A
+merican Banker, “Why banks are closing so many branches;” 
+September 18, 2023.
+21. E
+uropean Banking Federation, “EBF Facts and Figures 2022;” 
+31 December 2022.
+22. Fo rbes , “Big Bank Layoffs Number Thousands - With More on 
+The Way;” October 23, 2023.
+23.
+ F
+ortune, “Barclays Bank is reportedly axing up to 2,000 jobs as 
+part of a $1.25 billion cost-cutting plan;” November 24, 2023.
+24. B
+loomberg, “Deutsche Bank Chief Says More Job Cuts 
+Coming;” October 25, 2023.
+25.
+ D
+ataCamp, “What is BERT? An Intro to BERT 
+Models;”November 2023.
+26. M
+IT News, “Study finds ChatGPT boosts worker productivity 
+for some writing tasks;” July 14, 2023.
+27. Mi
+crosoft, “OCBC’s new generative AI chatbot is boosting 
+the bank’s productivity across departments and locations;” 
+November 8, 2023.
+28.
+ I
+Tnews, “Westpac sees 46 percent productivity gain from AI 
+coding experiment;” June 1, 2023.
+29. CNB
+C, “Goldman Sachs is using ChatGPT-style A.I. in house to 
+assist developers with writing code;” March 22, 2023.
+30.
+ G
+ulf Business, “Emirates NBD to use generative AI to 
+transform operations;” July 10, 2023.
+31. C
+apgemini, “Data-powered innovation review;” 2022.
+32. C
+apgemini, “Capgemini’s cognitive document processing;” 
+Accessed on December 19, 2023.
+33. a
+rXiv, “DocLLM: A layout-aware generative language model for 
+multimodal document understanding;” December 31, 2023.
+34.
+ M
+aginative, “JPMorgan Introduces DocLLM for Better 
+Multimodal Document Understanding;” January 2, 2024.
+35. B
+loomberg, “AI-Driven Contact Centers in the Financial 
+Services Industry;” Accessed on December 20, 2023.
+36.
+ S
+QM, “First Call Resolution (FCR):  A Comprehensive Guide;” 
+October 24, 2023.
+37. AW
+S, “How JPMorgan Chase built a data mesh architecture 
+to drive significant value to enhance their enterprise data 
+platform;” May 5, 2021.
+38.
+ A
+lation, “How Fifth Third Bank Implements a Data Mesh with 
+Alation and Snowflake;” June 14, 2023.
+39. M
+edium, “Data Meshes, Data Meshes, and more Data Meshes! 
+ThDPTh #38;” September 23, 2021.
+40.
+ C
+c news, “PKO Bank Polski is entering the era of hyper 
+personalization and artificial intelligence;” December 22, 2023.
+41. B
+BVA, “‘Self-driving’ banking: using technology to connect 
+with customers;” March 11, 2019.
+42. P
+ersonetics , “How to Humanize the Banking Experience with 
+AI and Self-Driving Finance;” Accessed on December 25, 2023.
+World Retail Banking Report 2024
+58
+
+
+--- PAGE 59 ---
+About us
+Disclaimer
+The information contained herein is general in nature and is not intended and should not be construed as 
+legal, tax, investment, financial or  professional advice or opinion provided to the user. Capgemini assumes no 
+liability for errors or omissions, or use of this material. This document is provided for informational purposes 
+only; it is meant solely to provide helpful information to the user. This document does not purport to be 
+a complete statement of the approach or steps necessary to address or solve any particular matter or to 
+accomplish any particular business goal. The user also is cautioned that this material may not be applicable to, 
+or suitable for, the user’s specific circumstances or needs and may require consideration of additional factors 
+if any action is to be contemplated. The text of this document was originally written in English. Translation to 
+languages other than English is provided as a convenience to our users. Capgemini disclaims any responsibility 
+for translation inaccuracies. The information provided herein is on an as-is basis. Capgemini disclaims any and 
+all representations and warranties of any kind concerning any information provided in this report and will not 
+be liable for any direct, indirect, special, incidental, consequential loss or loss of profits arising in any way from 
+the information contained herein.
+The Capgemini Research Institute for Financial Services is an in-house think tank 
+focused on digital innovation and technology issues impacting global banks, wealth 
+management firms, and insurers. The institute annually publishes its signature 
+Financial Services World Reports, which draw upon primary research voice-of-the-
+customer surveys, CXO interviews, and partnerships with technology companies and 
+academia. These data-driven perspectives explore how financial institutions can meet 
+emerging business challenges with transformative thinking enabled by technology and 
+data. Independent analysts named the World Retail Banking Report 2021, published 
+by the institute, as one of the year’s top 10 publications among consultancy and 
+technology firms. To find out more or to subscribe to receive reports as they launch, 
+visit worldreports.capgemini.com.
+Financial Services World Report Series 
+Capgemini is a global business and technology transformation partner, helping 
+organizations to accelerate their dual transition to a digital and sustainable world, 
+while creating tangible impact for enterprises and society. It is a responsible and 
+diverse group of 340,000 team members in more than 50 countries. With its strong 
+over 55-year heritage, Capgemini is trusted by its clients to unlock the value of 
+technology to address the entire breadth of their business needs. It delivers end-
+to-end services and solutions leveraging strengths from strategy and design to 
+engineering, all fueled by its market leading capabilities in AI, cloud and data, 
+combined with its deep industry expertise and partner ecosystem. The Group  
+reported 2023 global revenues of €22.5 billion.
+ 
+Get The Future You Want  |  www.capgemini.com
+World Retail Banking Report 2024
+59
+
+
+--- PAGE 60 ---
+March 2024. Copyright © 2024 Capgemini. All rights reserved.
+Visit the report website
+For more information, please contact:
+banking@capgemini.com   
+For press inquiries, please contact: 
+Fahd Pasha 
+Capgemini Financial Services 
+Tel.: +1 647 860 3777 
+fahd.pasha@capgemini.com

@@ -1,0 +1,53 @@
+{
+  "input_run": "C:\\python\\work\\Bank_Customer_Churn\\data\\rag_sources\\20261031T053053_705606Z",
+  "sources": [
+    {
+      "id": "guide_hana",
+      "chunks": 12,
+      "pages": 8,
+      "country": "KR"
+    },
+    {
+      "id": "guide_worldbank",
+      "chunks": 74,
+      "pages": 24,
+      "country": "International"
+    },
+    {
+      "id": "guide_fcac",
+      "chunks": 71,
+      "pages": 28,
+      "country": "CA"
+    },
+    {
+      "id": "retention_capgemini",
+      "chunks": 117,
+      "pages": 60,
+      "country": "International"
+    },
+    {
+      "id": "retention_accenture",
+      "chunks": 15,
+      "pages": 1,
+      "country": "International"
+    }
+  ],
+  "retained_chunks": 289,
+  "excluded_chunks": 25,
+  "topic_counts": {
+    "complaint_resolution": 153,
+    "communication_followup": 69,
+    "customer_engagement": 58,
+    "digital_support": 56,
+    "product_value": 193,
+    "dormancy_prevention": 2,
+    "consumer_rights": 18
+  },
+  "ready_for": "retrieval prototype and evaluation; not approved banking advice",
+  "limitations": [
+    "Rule-based tags, not expert validation",
+    "PDF reading order/tables may need manual correction",
+    "Historical overseas examples are not current local bank offers",
+    "Confirm reuse rights before deployment"
+  ]
+}

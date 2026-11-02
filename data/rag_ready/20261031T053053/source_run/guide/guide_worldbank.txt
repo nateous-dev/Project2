@@ -1,0 +1,1470 @@
+--- PAGE 1 ---
+TECHNICAL NOTE 
+Complaints Handling within  
+Financial Service Providers
+Principles, Practices, and Regulatory Approaches 
+JUNE 2019
+ Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+Public Disclosure Authorized
+
+
+--- PAGE 2 ---
+© 2019 International Bank for Reconstruction and Development / The World Bank 
+1818 H Street NW 
+Washington DC 20433 
+Telephone: 202-473-1000 
+Internet: www.worldbank.org
+This work is a product of the staff of the World Bank with external contributions. The findings, interpretations, 
+and conclusions expressed in this work do not necessarily reflect the views of the World Bank, its Board of 
+Executive Directors, or the governments they represent.
+The World Bank does not guarantee the accuracy of the data included in this work. The boundaries, colors, 
+denominations, and other information shown on any map in this work do not imply any judgment on the part 
+of the World Bank concerning the legal status of any territory or the endorsement or acceptance of such 
+boundaries.
+RIGHTS AND PERMISSIONS
+The material in this work is subject to copyright. Because the World Bank encourages dissemination of its 
+knowledge, this work may be reproduced, in whole or in part, for noncommercial purposes as long as full 
+attribution to this work is given.
+Any queries on rights and licenses, including subsidiary rights, should be addressed to the Office of the 
+Publisher, The World Bank, 1818 H Street NW, Washington, DC 20433, USA; fax: 202-522-2422; e-mail: 
+pubrights@worldbank.org.
+Finance, Competitiveness & Innovation Global Practice
+
+--- PAGE 3 ---
+CONTENTS
+Acknowledgments iii
+Acronyms and Abbreviations iv
+1 INTRODUCTION 1
+2 WHY HAVE AN IDR IN PLACE? 1
+3 FRAMEWORK, GOOD PRACTICES, AND GUIDANCE FOR AN EFFECTIVE IDR 2
+3.1 Establishing Definitions 3
+ 3.1.1 Defining Complaints 3
+ 3.1.2 Defining Eligible Complainant 5
+3.2 Independence, Governance, Resourcing, and Training 5
+3.3 Proportionality 7
+3.4 Policies and Procedures in Place 7
+3.5 Access to Complaints: Channels, Visibility, and Transparency 8
+3.6 Timeline for Resolution: Establishing Clear Response Times for Resolving Complaints 10
+3.7 Consumer Communication 10
+3.8 Complaints Data: Ongoing Analysis of Root Causes 12
+3.9 Complaints Data Recording and Reporting: Accuracy, Standardization, and Classification 13
+ 3.9.1 Complaints Management System: Considerations, Challenges, and Benefits 14
+ 3.9.2 Complaints Data Reporting to Regulators 14
+4 USING TECHNOLOGY FOR FINANCIAL COMPLAINTS 15
+4.1 Technology as Part of the Resolution Process 15
+4.2 Social Media Monitoring 15
+  i
+
+
+--- PAGE 4 ---
+BOX AND FIGURES
+Box 1  Defining Complaints 4
+Box 2 Defining Eligible Complainants 5
+Box 3 Bank of Ghana 9
+Box 4 Recourse Provided by FSPs in a Digital Context 11
+Box 5 Timelines for Resolution  12
+Figure 1  IDR as Part of an Overall Complaints Handling System 2
+Figure 2  Requirements for Internal Dispute Resolution 3
+Figure 3  Social Media Monitoring by Banks 16
+ii  Complaints Handling within Financial Service Providers
+
+--- PAGE 5 ---
+  iii
+ACKNOWLEDGMENTS
+This Technical Note is a product of the Responsible Financial Access team in the World Bank 
+Group’s Finance, Competitiveness & Innovation Global Practice. The drafting team consisted of 
+Ligia Lopes and Sheirin Iravantchi. Mahesh Uttamchandani provided overall guidance. The team 
+is grateful for the substantive feedback received from peer reviewers Douglas Melville, Nina 
+Pavlova Mocheva, and Stanislaw Zmitrowicz. 
+ 
+ 
+
+
+--- PAGE 6 ---
+iv
+ACRONYMS AND ABBREVIATIONS
+ASIC Australian Securities and Investments Commission
+BSP Central Bank of the Philippines (Bangko Sentral Ng Pilipinas)
+CMS complaints management system
+EDR external dispute resolution
+FCA Financial Conduct Authority
+FSP financial service provider
+G20 Group of Twenty
+IDR internal dispute resolution
+ODR online dispute resolution
+OECD Organisation for Economic Co-operation and Development
+OJK Financial Services Authority of Indonesia (Otoritas Jasa Keuangan)
+ 
+
+
+--- PAGE 7 ---
+  1
+1. INTRODUCTION
+Core to an effective financial consumer protection frame-
+work is an accessible and efficient recourse mechanism 
+that allows consumers both to know and to assert their 
+rights to have their complaints addressed and resolved in 
+a transparent and just way within a reasonable timeframe. 
+Complaints handling mechanisms are especially import-
+ant for low-income and vulnerable financial consumers, to 
+whom timely and effective recourse processes can have a 
+decisive influence over their trust in their financial service 
+provider (FSP) and in the financial sector in general. 
+Increased trust contributes to consumers’ uptake and sus-
+tained usage of financial services and, consequently, their 
+economic livelihoods. 
+Financial consumer complaints handling mechanisms 
+comprise two stages: complaints that are handled by 
+FSPs, generally referred to as internal dispute resolution 
+(IDR); and complaints that, if not satisfactorily resolved, are 
+handled by an alternative, out-of-court process, generally 
+referred to as external dispute resolution (EDR). There are 
+several international sources of principles applicable to 
+complaints handling and resolution processes and proce-
+dures to be established by FSPs.1 Drawing from the World 
+Bank’s Good Practices for Financial Consumer Protection,2  
+the work of international bodies, such as the Group of 
+Twenty (G20)/Organisation for Economic Co-operation 
+and Development (OECD) Task Force on Financial Con-
+sumer Protection, as well as selected country experiences, 
+this Technical Note highlights considerations that aim to 
+provide a methodological guidance for regulators and 
+FSPs when developing and implementing IDR frameworks 
+to ensure they are consistent with international good prac-
+tices. This Technical Note synthesizes concepts, principles, 
+and practices for IDR mechanisms for financial consumers3  
+and shares examples of legal and regulatory requirements 
+for FSPs to resolve complaints and to ensure that com-
+plaints-related data is collected, analyzed, and shared as 
+appropriate to support improvements in FSP performance, 
+industry market conduct, and market conduct regulation.   
+2. WHY HAVE AN IDR IN PLACE?
+The timely resolution of complaints, including provision of 
+redress where warranted, should be a primary responsibility 
+of FSPs. An IDR mechanism is defined as a complaints han-
+dling function, unit, or dedicated team4 within an FSP . The 
+IDR mechanism should be implemented with proper struc-
+ture, policies, procedures, systems, and governance. It is 
+tasked with applying intake procedures and handling, 
+resolving, and reporting data on complaints referred by 
+consumers. The complaints handling should be handled by 
+the IDR mechanism in a prompt, effective, and just way.5 IDR 
+mechanisms seek to provide a means by which consumers 
+can obtain a solution to any deficiency in service or product, 
+including obtaining compensation, when applicable. 
+1.  International examples are the G20 High-Level Principles on Financial Consumer Protection of 2011, the World Bank’s Good Practices for Finan-
+cial Consumer Protection (2017 edition), the Better Than Cash Alliance’s Responsible Digital Payments Guidelines of 2016, the Smart Cam-
+paign’s Client Protection Principles, and the GSMA Code of Conduct for Mobile Money Providers, ITU DFS Themes, 2017. 
+2. Good Practices for Financial Consumer Protection (2017 edition).
+3.  This Technical Note does not intend to cover the specifics of different financial sectors but general regulatory requirements and practices iden-
+tified when implementing IDR by regulators and providers.
+4.  A “complaints handling unit, function, or dedicated staff” will be referred to as a “complaints handling unit” hereafter.
+5. Good Practices for Financial Consumer Protection (2017 edition), page 69.
+
+--- PAGE 8 ---
+2  Complaints Handling within Financial Service Providers
+In addition to allowing consumers to have their issues 
+resolved in an efficient, fair, and transparent way, IDR 
+mechanisms can provide regulators and supervisors with 
+important complaints-related data to help them conduct 
+evidence-based policy making and prioritize their supervi-
+sory activities by identifying systemic problems with prod-
+ucts, providers, channels, or systems. 
+FSPs also benefit from having an IDR mechanism in place 
+in which consumers trust, as it can help providers maintain 
+a healthy relationship with their consumers and mitigate 
+providers’ reputational risks and costs that can arise from 
+lengthy legal actions. Consumer complaints can also be a 
+valuable source of consumer feedback that providers 
+should use in a strategic way.
+Complaints-related data analysis and reporting should 
+also be undertaken by FSPs as part of their internal control 
+and management processes to identify not only issues in 
+their business conduct but also emerging risks and root 
+causes. This information should be used by FSPs in their 
+review of processes, procedures and product design, 
+terms, and conditions, and as a mechanism to prevent 
+potential litigation and reputational risks.   
+3.  FRAMEWORK, GOOD PRACTICES, 
+AND GUIDANCE FOR AN  
+EFFECTIVE IDR
+As set out in the G20 High-Level Principles on Financial 
+Consumer Protection, jurisdictions should ensure that 
+consumers have access to adequate complaints handling 
+and redress mechanisms that are accessible, affordable, 
+independent, fair, accountable, timely, and efficient. 6 
+These principles are similar to the Effective Approaches 
+to Fundamental Principles adopted by the international 
+body of financial consumer dispute-resolution bodies, 
+the International Network of Financial Services Ombuds-
+man Schemes (INFO Network).7 Arguably, most if not all 
+of the international good practices and principles appli-
+cable to EDR schemes are similarly applicable to IDR 
+mechanisms within FSPs.
+Financial consumer complaints should be handled in a 
+tiered structure. Consumers should first seek resolution of 
+the complaint with their FSPs via their provider’s IDR mech-
+anism. In this context, the financial complaints handling 
+legal/regulatory framework should seek to promote FSP 
+resolution of consumer complaints. 8 Where complaints 
+are not resolved by FSPs to the consumer’s satisfaction or 
+6.  G20/OECD Task Force on Financial Consumer Protection, G20 High-Level Principles on Financial Consumer Protection. 
+7.  INFO Network, “Ombudsman Principles,” http://www.networkfso.org/assets/info-network_effective-approaches-to-fundamental-principles_ 
+september2014.pdf. 
+8.  G20/OECD Task Force on Financial Consumer Protection, “Update Report on the Work to Support the Implementation of the G20 High-Level 
+Principles on Financial Consumer Protection” (September 2013).
+Media
+FIGURE 1: IDR as Part of an Overall Complaints Handling System
+Consumer
+Advocates
+Financial
+Literacy &
+Education
+Research &
+Academia
+Industry
+Associations
+Supervisor
+Regulator
+Financial Dispute Resolution Environment
+Financial
+Consumer
+EDR
+IDR
+Financial
+Services
+Provider
+Court System 
+
+--- PAGE 9 ---
+  9.  External or alternative dispute resolution mechanisms are not part of the scope of this Technical Note. 
+10.  World Bank Group, Global Financial Inclusion and Consumer Protection Survey: 2017 Report. 
+ Complaints Handling within Financial Service Providers  3
+within the established timeframe, then consumers should 
+have access to an EDR process where complaints can be 
+resolved with the assistance of an impartial third party to 
+the complaint, always retaining the option to undertake 
+formal legal action through the court system should the 
+outcomes of these processes prove unsatisfactory to the 
+consumer.9 
+Globally, legal and regulatory frameworks for internal 
+complaints handling are frequently incomplete, covering 
+only some types of FSPs or certain elements of internal 
+complaints handling. To ensure a level competitive play-
+ing field, minimum internal complaints handling require-
+ments should be made mandatory for all FSPs that are 
+licensed and supervised in the jurisdiction.
+The World Bank’s 2017 Global Financial Inclusion and Con-
+sumer Protection Survey10 provides insights on the varied 
+rules for complaints handling and resolution applied to 
+FSPs in different jurisdictions. Although most jurisdictions 
+surveyed (78 percent of respondents) reported having 
+rules in place for complaints handling and resolution by 
+FSPs, there is a significant variation related to level of 
+income and region of the jurisdiction. (Just 40 percent 
+of low-income jurisdictions have such standards in place, 
+while 89 percent of high-income jurisdictions report the 
+same, and jurisdictions in East Asia and the Pacific and 
+in South Asia are relatively less likely to report having 
+such standards in place.) The level of complaints handling 
+FIGURE 2: Requirements for Internal Dispute Resolution
+Percentage of Responding Jurisdictions with Type of Requirement for Internal Dispute Resolution
+74%
+66%
+64%
+64%
+58%
+50%
+51%
+Source: World Bank Group, Global Financial Inclusion and Consumer Protection Survey: 2017 Report.
+Note: Percentages are based on 118 responding jurisdictions.
+0%
+Requirements for FSPs to implement procedures and
+processes for resolving customer complaints
+Timeliness of response by FSP
+Record keeping of complaints
+Requirements for FSPs to have a designated,
+independent unit in charge of handling customer
+complaints
+Accessibility (i.e. consumer can file complaint 
+via multiple channels)
+Providing customers the details of a relevant 
+alternative dispute resolution mechanism
+Reporting complaints data to a gov’t agency
+10% 20% 30% 40% 50% 60% 70% 80%
+requirements in place also varied across jurisdictions. The 
+most commonly reported rule is a broad requirement for 
+FSPs to implement procedures and processes for resolv-
+ing consumer complaints—reported by 74 percent of 
+responding jurisdictions—and many jurisdictions have 
+also established minimum standards relevant to the time-
+liness, organizational structure, and accessibility of inter-
+nal complaints handling systems (figure 2).
+3.1. Establishing Definitions
+Minimum requirements setting out how financial institu-
+tions are to handle consumer complaints should define 
+the threshold standards that FSPs must achieve to have 
+effective structures, processes, procedures, and systems 
+for lodging, resolving, and reporting on complaints 
+referred by consumers. It is recommended, as an import-
+ant first step to instituting these requirements, that certain 
+definitions for terms commonly used in the IDR framework 
+be established.   
+3.1.1. Defining Complaints 
+This includes clearly setting out what are considered 
+complaints under the financial consumer protection 
+legal and regulatory framework. Complaints should be 
+distinct from inquiries, which are defined as consumer 
+requests for information or other types of assistance. A 
+variety of definitions for complaints have been devel-
+oped by international bodies and country authorities, 
+and examples can be found in box 1.
+
+--- PAGE 10 ---
+4  Complaints Handling within Financial Service Providers
+11.  G20/OECD Task Force on Financial Consumer Protection, “Update Report on the Work to Support the Implementation of the G20 High-Level Principles on Financial 
+Consumer Protection” (September 2013).
+12.  Australian Securities and Investments Commission (ASIC), Licensing: Internal and External Dispute Resolution (Regulatory Guide 165), May 2018.
+13.  Financial Conduct Authority (FCA), “Glossary,” FCA Handbook, https://www.handbook.fca.org.uk/handbook/glossary/G197.html. This definition of complaint applies 
+to firms and the Financial Ombudsman Service in the United Kingdom. See “Introduction” (DISP INTRO 1), https://www.handbook.fca.org.uk/handbook/DISP/
+INTRO/?view=chapter.
+14.  Bank of Ghana, Directive on Consumer Recourse Mechanism Guidelines for Financial Service Providers (February 2017).
+15.  Superintendencia Financiera de Colombia, “Glosario,” https://www.superfinanciera.gov.co/inicio/glosario-11308. Translated from original Spanish: Queja o reclamo: 
+Es la manifestación de inconformidad expresada por un consumidor financiero respecto de un producto o servicio adquirido, ofrecido o prestado por una entidad 
+vigilada y puesta en conocimiento de esta, del defensor del consumidor financiero, de la Superintendencia Financiera de Colombia o de las demás instituciones com-
+petentes, según corresponda. 
+16.  Government of Canada, “Complaints (Banks, Authorized Foreign Banks and External Complaints Bodies) Regulations,” Justice Laws Website, https://laws-lois.justice.
+gc.ca/eng/regulations/SOR-2013-48/FullText.html.
+17.  Financial Services Authority of Indonesia (OJK), “Circular Letter of the Financial Services Authority Number 2/SEOJK.07/2014 Concerning Handling and Resolution of 
+Consumer Complaints at Financial Services Businesses,” http://www.ojk.go.id/en/kanal/edukasi-dan-perlindungan-konsumen/regulasi/ojk-circular-letter/Documents/
+SEOJK%202-SEOJK.07-2014%20Pelayanan%20Penyelesaian%20Pengaduan.pdf.
+Examples of definitions of complaints developed by interna-
+tional bodies and authorities:
+• The G20/OECD defines complaints as “a statement of con-
+sumers’ dissatisfaction with the action, service, or product of 
+a financial services provider or an authorized agent. A 
+request for information or clarification or a request for an 
+opinion, which does not also contain an expression of dis-
+satisfaction or deficiency in service, is not considered to be 
+a complaint.”11   
+• The Australian Securities and Investments Commission 
+(ASIC) takes an approach in line with ISO standards: “As part 
+of our IDR requirements, you will be required to adopt the 
+following definition of ‘complaint’ in AS ISO 10002–2006 
+when handling ‘complaints’ under the Corporations Act or 
+‘disputes’ under the Transitional Act and National Credit 
+Act: An expression of dissatisfaction made to an organiza-
+tion, related to its products or services, or the complaints 
+handling process itself, where a response or resolution is 
+explicitly or implicitly expected.”12 
+• The United Kingdom’s Financial Conduct Authority (FCA) 
+stipulates “any oral or written expression of dissatisfaction, 
+whether justified or not, from, or on behalf of, a person 
+about the provision of, or failure to provide, a financial ser-
+vice or a redress determination, which:
+(a) alleges that the complainant has suffered (or may suffer) 
+financial loss, material distress or material inconvenience; 
+and 
+(b) relates to an activity of that respondent, or of any other 
+respondent with whom that respondent has some con-
+nection in marketing or providing financial services or 
+products, which comes under the jurisdiction of the 
+Financial Ombudsman Service.”13 
+BOX 1
+Defining Complaints
+• According to the Bank of Ghana, complaint means any oral 
+or written expression of dissatisfaction about the provision 
+of, or failure to provide, a financial product or service that 
+(i) is made to an FSP by, or on behalf of, a consumer; and 
+(ii) alleges that, as a result of an act or omission by or on 
+behalf of the FSP , the consumer has suffered or may 
+suffer 
+a) financial loss 
+b) inconvenience; or 
+c) distress.14 
+• In Colombia, a complaint or claim is the manifestation of dis-
+satisfaction expressed by a financial consumer with respect 
+to a product or service acquired, offered, or provided by a 
+supervised entity and brought to the attention of the latter, 
+the defender of the financial consumer, the Financial Super-
+intendence of Colombia, or other competent institutions, as 
+appropriate.15
+• Regulations under Canada’s Bank Act defines it as “a com-
+plaint that is made by a person
+(a) to a bank or an authorized foreign bank about a product 
+or service that was requested or received by the person 
+from the bank or authorized foreign bank; or
+(b) to an external complaints body about a product or ser-
+vice that was requested or received by the person from a 
+member of that body.”16 
+• Indonesia’s Financial Services Authority (Otoritas Jasa 
+Keuangan, or OJK) indicates that “Complaints are the 
+expression of dissatisfaction on the part of Consumers aris-
+ing from financial losses and/or potential financial losses suf-
+fered by the Consumer and suspected to have resulted from 
+the fault or negligence of the Financial Services Institution.”17 
+
+--- PAGE 11 ---
+3.1.2 Defining Eligible Complainant
+Defining who is an eligible complainant under an IDR 
+framework is also relevant to establishing its scope. This 
+should be made clear to FSPs. Eligible complainants gen-
+erally include both consumers and potential consumers of 
+the FSP , and typically include individual consumers, micro-
+enterprises, small charities and not-for-profit entities, and 
+possibly small and medium-sized enterprises. Restricting 
+the definition of eligible complaints to individuals and 
+smaller enterprises is common practice based on the 
+assumption that larger commercial enterprises have the 
+economic means and recourse to other mechanisms by 
+which to resolve their complaints with FSPs. Box 2 brings 
+examples of definitions of eligible complainants in differ-
+ent jurisdictions.
+3.2.  Independence, Governance, Resourcing,  
+and Training
+Fair and thorough handling of complaints is most likely to 
+be achieved by a dedicated complaints handling unit that 
+is independent from the operational business units of an 
+FSP to avoid any potential conflict of interest and ensure a 
+fair and transparent process. Marketing, sales, or product 
+units have invariably distinct functions, and employees 
+specializing in these areas have separate performance 
+incentives and skills that may be adversely aligned with the 
+effective management of consumer complaints. In addi-
+tion, consumers may fear retribution if these functions are 
+not separated. For example, loan officers may have influ-
+ence over a consumer’s borrowing ability, so consumers 
+may be unwilling to report a complaint to a sales staff 
+member lest it harm their ongoing access to financial ser-
+vice with the FSP . Equally, staff from business units may 
+face potential conflicts of interest when dealing with a 
+complaint related to their own activities. 
+ Complaints Handling within Financial Service Providers  5
+18.  Channel Islands Financial Ombudsman, “Model Complaint-Handling Procedure for Financial Services Providers,” (January 2016).
+19.  Bank of Ghana, Directive on Consumer Recourse Mechanism Guidelines for Financial Service Providers (February 2017).
+20.  CBTL refers to Consumer Buy-to-Let Mortgages or other such credit agreements. 
+21.  FCA, “Eligible Complainants” (DISP 2.7.3R21/03/2016), FCA Handbook. 
+22.  New Perimeter, LLC, and the Microfinance CEO Working Group, “Client Protection Principles: Model Law and Commentary for Financial 
+Consumer Protection” (April 2015). 
+Examples of definitions for complainants developed 
+by international bodies and authorities:
+• For the Channel Islands Financial Ombudsman, 
+eligible complainants are consumers (located any-
+where in the world if the financial service was  
+provided in or from the Channel Islands), microen-
+terprises (located anywhere in the world if the 
+financial service was provided in or from the Chan-
+nel Islands), and certain Channel Islands charities, 
+including consumers, potential consumers, and 
+others to whom FSPs owe a duty of care.18 
+• The Bank of Ghana defines complainant as a con-
+sumer, customer, or potential customer or a duly 
+authorized representative of a customer who pres-
+ents a complaint to an FSP .19 
+• The United Kingdom’s FCA specifies that, in rela-
+tion to a complaint relating wholly or partly to pay-
+ment services, either at the time of the conclusion 
+of the payment-service contract or at the time the 
+complainant refers the complaint to the respon-
+dent, or otherwise at the time the complainant 
+BOX 2
+Defining Eligible Complainants 
+refers the complaint to the respondent, an eligible 
+complainant must be a person who is
+– a consumer;
+– a microenterprise;
+– a charity that has an annual income of less than 
+£1 million at the time the complainant refers the 
+complaint to the respondent;
+– a trustee of a trust that has a net asset value of 
+less than £1 million at the time the complainant 
+refers the complaint to the respondent; or
+– in relation to CBTL businesses, a CBTL con-
+sumer.20, 21
+• The Client Protection Principles, 22 developed by 
+DLA Piper and the Microfinance CEO Working 
+Group with contributions from The Smart Cam-
+paign, advise that an FSP’s complaints handling 
+unit must be easily accessible to all clients. The 
+principles establish that client “shall mean an indi-
+vidual, or micro, small or medium-sized business 
+that is a current or prospective customer of a Finan-
+cial Service Provider.”
+
+--- PAGE 12 ---
+6  Complaints Handling within Financial Service Providers
+For these reasons, to the extent possible, and applying a 
+proportional approach in relation to the nature, size, and 
+complexity of the provider, the establishment of a sepa-
+rate complaints handling unit should be encouraged. To 
+be able to resolve consumer complaints effectively, the 
+complaints handling unit should have powers to access 
+information needed for investigations and to implement 
+actions for individual cases as well as systemic issues. This 
+includes powers to provide appropriate remedies; as part 
+of the FSP’s complaints policies and procedures, staff 
+should have an array of resolution powers defined that 
+suitthe nature of the complaint. Examples of remedies 
+include financial compensation; waiver, suspension, or 
+cancellation of contracts; and reversal or waiver of penal-
+ties or fees. Such remedies should be authorized to 
+pre-established limits to allow for immediate solutions for 
+simple cases and applied within an escalation process, 
+when needed, for more complex complaints. 
+To ensure that this function has adequate leadership, orga-
+nizational standing, and appropriate resourcing, such a 
+unit should have a tiered structure. A day-to-day opera-
+tional manager responsible for the complaints handling 
+unit would be accountable for the unit’s performance. The 
+manager should report on complaints and their root 
+causes to a designated executive and the FSP’s directors 
+on a regular basis. In function, this manager and unit 
+should be overseen by a designated member of executive 
+or senior management of the FSP . The executive would (i) 
+be responsible for ensuring the integrity of the IDR pro-
+cesses provided by the complaints handling unit; (ii) report 
+to the board; (iii) be the designated representative to reg-
+ulators on complaints matters; and (iv) be accountable for 
+ensuring that feedback from complaints is used to develop 
+and implement correction plans. Ultimate accountability 
+for the effective implementation of complaints handling 
+policies and procedures lies with the FSP’s board of direc-
+tors, who should ensure compliance with mandatory rules 
+and recommendations. 
+The Central Bank of the Philippines (Bangko Sentral Ng 
+Pilipinas, or BSP) explicitly emphasizes the board’s respon-
+sibility for the consumer protection oversight function in 
+its regulations on consumer protection, noting that 
+beyond compliance, FSPs must also “adhere to the high-
+est service standards and embrace a culture of fair and 
+responsible dealings . . . through the adoption of a [FSP] 
+Financial Consumer Protection Framework that is appro-
+priate to the [FSP] structure, operations, and risk profile.”23  
+ASIC requires that, wherever possible, a complaint or dis-
+pute should be investigated by staff not involved in the 
+subject matter of the complaint or dispute. It is recog-
+nized, though, that this will not always be possible for a 
+micro- or small-sized business.24 
+The board of directors and senior management should be 
+held responsible for their demonstrated involvement and 
+commitment to implementing effective internal com-
+plaints resolution by deploying adequate resources, 
+including sufficient personnel and corresponding ongoing 
+training. Beyond strong analytical abilities and personal 
+integrity, training should focus on equipping staff with 
+knowledge and understanding of consumer protection, 
+the FSP’s products and services, the procedures to be fol-
+lowed, data protection issues, mediation, negotiation, 
+and other customer service skills. 
+Complaints handling staff should also be trained in the 
+FSP’s complaints management policy and the financial 
+consumer protection framework in the country. Such train-
+ing should be monitored by relevant supervisors through 
+a training plan and attendance sheets, as well as evalua-
+tions of the effectiveness of training and corresponding 
+adjustments and improvements as needed. OJK in Indo-
+nesia, for example, mandates such follow-up evaluation to 
+training programs.25  
+Some jurisdictions also provide specific requirements for 
+training. The Bank of Ghana sets out that FSPs should pro-
+vide compulsory annual training on complaints handling 
+to all staff.26 While Indonesia’s OJK indicates that employ-
+ees are required to receive training at least once during 
+employment, it further qualifies the type of employees 
+who should be prioritized for “regular” training on com-
+plaints handling and resolution as those “whose day-to-
+day tasks match the following criteria:
+a. deal with Consumers in person (front liners);
+b. conduct oversight of complaint handling and resolu-
+tion for Consumers;
+c. are related to preparation of reports to the Financial 
+Services Authority.”27 
+23.  Central Bank of the Philippines (BSP), “BSP Regulations on Financial Consumer Protection,” Circular No. 857, Series of 2014. 
+24.  ASIC, “Guiding Principle 4.5 (Objectivity),” Licensing: Internal and External Dispute Resolution (Regulatory Guide 165), May 2018, page 46.
+25.  OJK, “Circular Letter of the Financial Services Authority Number 2/SEOJK.07/2014 Concerning Handling and Resolution of Consumer  
+Complaints at Financial Services Businesses,” http://www.ojk.go.id/en/kanal/edukasi-dan-perlindungan-konsumen/regulasi/ojk-circular-letter/ 
+Documents/SEOJK%202-SEOJK.07-2014%20Pelayanan%20Penyelesaian%20Pengaduan.pdf. 
+26.  Bank of Ghana, Directive on Consumer Recourse Mechanism Guidelines for Financial Service Providers (February 2017).
+27.  OJK, “Circular Letter of the Financial Services Authority Number 2/SEOJK.07/2014 Concerning Handling and Resolution of Consumer  
+Complaints at Financial Services Businesses,” http://www.ojk.go.id/en/kanal/edukasi-dan-perlindungan-konsumen/regulasi/ojk-circular-letter/ 
+Documents/SEOJK%202-SEOJK.07-2014%20Pelayanan%20Penyelesaian%20Pengaduan.pdf.
+
+--- PAGE 13 ---
+ Complaints Handling within Financial Service Providers  7
+28.  BSP , “BSP Regulations on Financial Consumer Protection,” Circular No. 857, Series of 2014.
+29. ASIC, “Section 6.4—Resources,” Licensing: Internal and External Dispute Resolution (Regulatory Guide 165), May 2018, page 48.
+30. FCA, “Purpose and Application” (DISP 1.1), FCA Handbook, https://www.handbook.fca.org.uk/handbook/DISP/1/?view=chapter. 
+31. ASIC, “Section 6.4—Resources,” Licensing: Internal and External Dispute Resolution (Regulatory Guide 165), May 2018, page 48. 
+BSP provides more guidance to FSPs, suggesting that the 
+following capabilities should be built through trainings for 
+all consumer assistance personnel:
+1. Solid interpersonal/customer service skills
+2. Basic and advanced listening skills
+3. Written and verbal communication skills
+4. Handling financial consumer feedback
+5. Dealing with difficult people
+6. Problem solving and conflict resolution
+7. The FSP’s corporate structure and products and ser-
+vices28 
+ASIC’s requirements establish that, when implementing 
+IDR procedures, FSPs should nominate staff to handle 
+complaints who have sufficient training and compe-
+tence to deal with those complaints, including the 
+authority to settle them or ready access to someone 
+who has the necessary authority, and ensure that all rel-
+evant staff are aware of, and educated about, the FSP’s 
+IDR procedures.29 
+3.3. Proportionality
+When establishing the scope of the IDR framework, reg-
+ulatory requirements should also consider the size, type, 
+and complexity of FSPs that will be implementing such 
+requirements, and bring, to the extent feasible, a pro-
+portional approach that balances the requirements with 
+the scale of operations and range of activities under -
+taken by FSPs. Minimum regulatory requirements regard-
+ing the internal procedures for handling complaints and 
+the dissemination of related information should exist and 
+should be similar at least across regulated entities under-
+taking similar activities and offering similar services (for 
+example, nonbank financial institutions, banks, and non-
+financial firms). However, sometimes the nature and size 
+of the FSP should be taken into account when setting 
+requirements, as their implementation may not be scal-
+able for small FSPs and could create compliance costs 
+for an FSP that are disproportionate to the risks of con-
+sumer loss in that business. Such a scenario could create 
+a competitive compliance cost advantage in favor of 
+larger FSPs. 
+One example of a common yet potentially dispropor -
+tionate requirement is that the complaints handling func-
+tion be carried out by an independent unit within an FSP 
+(that is, not linked to the business units). Very often, this 
+will not be possible in very small FSPs that have more 
+streamlined organizational structures and, in some cases, 
+count on industry associations or Apex institutions to 
+handle complaints from their consumers. In such cases, 
+regulation should nevertheless require that complaints 
+be handled appropriately consistent with the principles 
+noted earlier. For example, regulations should require 
+that FSPs conduct a thorough and impartial analysis of 
+each complaint, even in the absence of a separate dedi-
+cated complaints unit.
+Regulatory requirements in the United Kingdom establish 
+that the processes in place to comply with IDR require-
+ments shall take into account the nature, scale, and com-
+plexity of the FSP’s business, including, in particular, the 
+number of complaints it receives.30 In Australia, ASIC has 
+different requirements for larger and smaller organiza-
+tions. Larger organizations with a large retail consumer 
+base must ensure adequate resourcing of the IDR func-
+tion. Examples might include such specific requirements 
+as providing a toll-free or local call facility where com-
+plaints can be lodged and dedication of sufficient staff 
+resources to deal with complaints. The proportionate 
+requirement for smaller FSPs might include ensuring that 
+a senior staff member is available to deal with com-
+plaints.31 The key is to ensure the integrity of the IDR func-
+tion regardless of the scale of the FSP .
+3.4. Policies and Procedures in Place
+As mentioned above, accessibility, effectiveness, and fair-
+ness should be core elements of complaints handling ser-
+vice delivery by any FSP , and consumer complaints data 
+should be harvested as an invaluable source of feedback 
+that can help inform an FSP’s overall business conduct, 
+including such specific elements as product design, staff-
+ing, and risk management.
+As a first step to institutionalizing IDR mechanisms within 
+FSPs, regulatory requirements should include written 
+complaints management policies and corresponding pro-
+cesses, procedures, and systems for the proper and 
+impartial handling and resolution of consumer complaints. 
+These policies and processes should also be complied 
+with should the function be outsourced. The documented 
+policies should, at a minimum, (i) ensure the accessibility, 
+fairness, transparency, responsiveness, and independence 
+of the complaints handling mechanism; (ii) be approved 
+
+--- PAGE 14 ---
+8  Complaints Handling within Financial Service Providers
+by the FSP’s board of directors or equivalent body; (iii) 
+detail decision-making steps and escalation processes 
+within the institution; and (iv) be disseminated proactively 
+to all relevant staff through channels such as published 
+manuals or intranet pages. A critical part of the policy is 
+specifying a training plan for complaints handling staff, to 
+ensure quick, effective, and consistent resolution of 
+received complaints.
+Key steps within the IDR process are to be clearly estab-
+lished and standardized by corporate policies and proce-
+dures. These should include informing consumers about 
+complaints procedures and options; lodging complaints 
+and analyzing their eligibility; internally processing com-
+plaints by recording and assigning them a unique identi-
+fier and recordkeeping as part of a mandated centralized 
+database; defining mandatory time limits for response 
+and rules for assessing the complaints; responding to  
+clients (including details on what information must be pro-
+vided on an FSP’s written response); defining a decision- 
+making and escalation process; and referring complain-
+ants to the appropriate EDR scheme, where available, 
+should eligible complainants remain dissatisfied with the 
+complaint resolution. 
+OJK provides minimum requirements for the IDR proce-
+dures that FSPs must internalize, following the principles 
+of accessibility, independence, fairness, efficiency, and 
+effectiveness.32 The Bank of Ghana provides broader 
+guidance to FSPs on complaint mechanisms but also indi-
+cates its authority to review and issue recommendations 
+on the internal policies established by FSPs.33  
+ASIC requires that IDR procedures need to be docu-
+mented in order to
+(a) enable the relevant staff to understand and follow the 
+procedures;
+(b) promote accountability and transparency of the proce-
+dures;
+(c) facilitate the ease of understanding and accessibility of 
+the procedures for consumers (that is, via the produc-
+tion of user-friendly guides); and
+(d) facilitate the self-certification process for Australian 
+financial services (AFS) license and credit license appli-
+cants. The need to document IDR procedures and the 
+process for doing so also ensures that effective proce-
+dures are properly thought out and established.
+The requirement to document IDR procedures includes 
+setting out in writing
+(a)  the procedures and policies for
+(i)  receiving complaints or disputes;
+(ii)  investigating complaints or disputes;
+(iii) responding to complaints or disputes within appro-
+priate time limits;
+(iv) referring unresolved complaints or disputes to an 
+EDR scheme;
+(v)  recording information about complaints or disputes; 
+and
+(vi) identifying and recording systemic issues;
+(b) the types of remedies available for resolving com-
+plaints or disputes; and
+(c) internal structures and reporting requirements for 
+complaint or dispute handling.
+FSPs should also provide a copy of the procedures to all 
+relevant staff. A simple and easy-to-use guide to the pro-
+cedures should also be made available to consumers, 
+either on request or when they want to make a complaint 
+or dispute.34
+3.5.  Access to Complaints: Channels, Visibility, and 
+Transparency
+According to international good practices, FSPs should 
+make available multiple channels for lodging complaints, 
+taking into consideration the customer needs to be 
+served. Channels should be functional, accessible, and 
+efficient. The complaints handling service should be free 
+of charge to consumers and should enable a complaint to 
+be submitted by consumers via oral or written formats.
+Once FSPs have put in place formalized, written policies 
+regarding their complaints handling and implemented 
+processes, procedures, and systems, disclosure initiatives 
+should be undertaken to inform consumers about their 
+rights and how to exercise them. To this end, FSPs should 
+disclose to consumers not only the complaints handling 
+procedures and communication channels to be used but 
+also escalation processes. At a minimum, contact informa-
+tion and a reference to where more information can be 
+found should be provided.35 More detailed information, 
+including the availability of any existing and applicable 
+alternative dispute-resolution schemes, should be part of 
+published brochures and agreements.  
+32.  OJK, “Circular Letter of the Financial Services Authority Number 2/SEOJK.07/2014 Concerning Handling and Resolution of Consumer Com-
+plaints at Financial Services Businesses,” http://www.ojk.go.id/en/kanal/edukasi-dan-perlindungan-konsumen/regulasi/ojk-circular-letter/  
+Documents/SEOJK%202-SEOJK.07-2014%20Pelayanan%20Penyelesaian%20Pengaduan.pdf.
+33. Bank of Ghana, Directive on Consumer Recourse Mechanism Guidelines for Financial Service Providers (February 2017).
+34.  ASIC, “Documenting IDR Procedures” (RG 165.126–129), Licensing: Internal and External Dispute Resolution (Regulatory Guide 165), May 
+2018, page 33.
+35. Such a minimal amount of information could be relevant in the case of streamlined digital financial services, where space is at a premium.
+
+--- PAGE 15 ---
+ Complaints Handling within Financial Service Providers  9
+36. Bank of Ghana, Annexes, Directive on Consumer Recourse Mechanism Guidelines for Financial Service Providers (February 2017).
+37.  “A channel for communication of customer complaint to the institution should be provided. The institution shall provide a dedicated customer 
+care telephone line for lodging complaints by customers. The customers can also use this telephone line to verify with the institution, the 
+authenticity and identity of the agent, its physical location and the validity of its agent banking business,” Central Bank of Kenya, Prudential 
+Guidelines for Institutions Licensed under the Banking Act (January 2013), page 369.
+The Bank of Ghana provides standardized formats for FSPs to use 
+in implementing the directive. These include a poster template to 
+be displayed at points of contact with consumers (for example, in 
+branches). The template requires that FSPs disclose their contact 
+details and include a brief description of the escalation process to 
+follow in case of dissatisfaction with the resolution.36 
+BOX 3
+Bank of Ghana
+Bank of Ghana Standard Poster Format
+These written details should be made widely and freely 
+available through a range of channels—whether on web-
+sites, in prominent locations at branches or points of ser-
+vice, or at the initial point of sale, including all agent 
+locations. Alternatively, if no sale is involved, the informa-
+tion should be provided immediately after the first contact 
+is made with the eligible complainant. Complete, detailed 
+information should be displayed conspicuously on the 
+FSP’s premises and websites.
+Means of disclosure and the appropriate corresponding 
+level of disclosure include the following:
+• Informational leaflets, brochures, posters, and precon-
+tract information: At a minimum, these should include 
+such clearly visible text as “Complaints, information 
+request, comments? Please call [complaints-accepting 
+phone line], email [complaints-accepting email address] 
+or write to [postal address].” 
+• Contract documentation: At a minimum, contracts and 
+associated documentation should include a list of all 
+contacts to whom a complaint can be lodged, as well 
+as a description of the complaint process and time lim-
+its for complaints handling, including a summary of 
+next steps that the consumer may take if she or he is 
+not satisfied with the resultant resolution (including 
+information on how to contact the relevant authority). 
+• Websites: At a minimum, the homepage of an FSP’s 
+website must contain a clearly visible link to the spe-
+cific page that lists contact details where to lodge a 
+complaint, describes the complaints process and time 
+limits for complaints handling, and contains a form 
+through which consumers may lodge a complaint.
+• Other: All other communication channels commonly 
+used by an FSP to communicate with its consumers (for 
+example, SMS, apps, and conversational robots) 
+should include at a minimum a contact with whom to 
+lodge a complain
+A range of channels and communication tools should be 
+made available for submitting consumer complaints. The 
+tools should be adapted to consumer needs (for example, 
+level of literacy, accessibility) and local specificities (for 
+example, language). Channels used to submit complaints 
+can include telephone, fax, email, complaint/suggestion 
+boxes, web presence, mobile phone apps, and in person. 
+To the extent possible and employing a proportionate 
+approach, FSPs should make available a toll-free tele-
+phone number, free-response SMS texting, or free data 
+for apps to further encourage access. A dedicated cus-
+tomer-care telephone line, for example, is required by the 
+Bank of Kenya.37  
+Guidance should also set out the desired level of accessi-
+bility of internal complaints handling. In principal, the right 
+to lodge a formal complaint that is handled fairly and in a 
+timely manner should be granted to all consumers, not 
+only to natural persons who act outside of a business pur-
+pose. Offering easily accessible channels, including with 
+respect to working hours, for consumers to register their 
+complaints without undue costs or waiting times is import-
+ant to all consumers but is especially critical for low-income 
+
+--- PAGE 16 ---
+10  Complaints Handling within Financial Service Providers
+consumers or those in remote areas. To ensure this acces-
+sibility, some regulations specify that FSPs are prohibited 
+from charging for complaints accepting, handling, and 
+resolution—whether through direct charges, fees, or pen-
+alties. This is the case in Ghana, Indonesia, the United 
+Kingdom, and the Channel Islands, among others.38  
+Adapting channels and services may be a necessary 
+accommodation for illiterate consumers or those who 
+speak only local languages. Complainants should be per-
+mitted to make complaints and communicate with the 
+FSP in the language of the product or service agreement 
+that is the subject of the complaint or, to the extent pos-
+sible, in the language in which the complainant feels 
+most comfortable. 
+Considerations should also be given to the way consumers 
+are required to lodge complaints, such that FSPs do not 
+impose unreasonable and burdensome formal require-
+ments that effectively limit access to complaints handling. 
+Some examples of this type of restrictive formality include 
+requiring that complaints be made exclusively in writing, by 
+using a specific form, or accompanied by extraneous doc-
+umentation or documentation that is easily available to the 
+FSP . With the aim of facilitating consumer complaints, Can-
+ada mandates that complainants be informed of com-
+plaints procedures and be provided with any information 
+needed to enable them to meet requirements of those 
+procedures.39 The Financial Ombudsman of the Channel 
+Islands provides a summary of these requirements in its 
+model complaints handling procedure:
+“A provider’s complaint-handling procedure should: 
+• allow a complaint to be made by any reasonable means; 
+• be clearly accessible by phone from the Channel Islands 
+at the local rate or via an international toll-free number; 
+• include reasonable adaptations to assist complainants 
+with disabilities; 
+• be transparent, effective, prompt, fair and free-of-
+charge; and 
+• not have more than two internal stages of complaint 
+decision.”40 
+3.6.  Timeline for Resolution: Establishing Clear 
+Response Times for Resolving Complaints
+Mandatory time limits help ensure that all complaints 
+are handled in a timely manner and can provide confi-
+dence to consumers that their complaints will be 
+resolved by the FSP in a reasonable time. Threshold 
+limits encourage FSPs to manage complaints properly, 
+as violations can be addressed with fines or moral sua-
+sion responses. Examples of thresholds include apply-
+ing rules of 0/10/20 or 0/15/30, wherein a complaint 
+should be resolved immediately if possible; otherwise, 
+prompt evaluation of the complaint should be con-
+ducted and a concluding decision made within 10 or 15 
+business days. For particularly complex complaints, this 
+deadline may be prolonged to a maximum of 20 or 30 
+working days. These limits do not include the time 
+during which an FSP may await supplemental informa-
+tion from the complainant.
+Further extension of the 20- or 30-business-day time limit 
+may be warranted in situations where that limit is insuffi-
+cient. (See box 5.) Cases that involve the thorough inves-
+tigation or engagement of several employees or business 
+units, or even an outside party (such as an ATM servicing 
+company or another FSP), may require more time than 
+mandated. Extensions can be sought from the compli-
+ance manager or other employee with authority at the 
+FSP and should be flagged accordingly in the complaints 
+database. In addition, the FSP must communicate the 
+cause of the delay to the complainant and provide 
+updates on the progress toward resolution, along with a 
+revised expected resolution date. 
+It is important to consider the timelines established for 
+any existing EDR mechanism(s), as these should not be 
+shorter than those established for IDR. Timeframes estab-
+lished for IDR should be shorter than those in place for 
+EDR to encourage consumers to seek help from FSPs as 
+the first instance of recourse.
+3.7.  Consumer Communication  
+The first step in investigating a consumer complaint is ver-
+ifying eligibility and accepting the complaint. This step 
+requires FSPs to have procedures in place to provide com-
+plainants with immediate written acknowledgment of 
+receipt of the complaint in a durable medium (that is, a 
+hard-copy written document or other form that the con-
+sumer can store). Consumers should be informed of  
+the expected timing for processing the complaint, includ-
+ing the maximum period within which the provider will 
+give a final response, along with the expected medium of 
+response. 
+38.  Bank of Ghana, Directive on Consumer Recourse Mechanism Guidelines for Financial Service Providers (February 2017).
+39.  Government of Canada, “Complaints (Banks, Authorized Foreign Banks and External Complaints Bodies) Regulations,” Justice Laws Website, 
+https://laws-lois.justice.gc.ca/eng/regulations/SOR-2013-48/FullText.html.
+40.  Channel Islands Financial Ombudsman, “Model Complaint-Handling Procedure for Financial Services Providers” (January 2016).
+
+--- PAGE 17 ---
+ Complaints Handling within Financial Service Providers  11
+41.  Better Than Cash Alliance, “Responsible Digital Payments Guidelines,” https://www.betterthancash.org/tools-research/case-studies/responsible- 
+digital-payments-guidelines.
+Digital technologies are increasingly playing a rele-
+vant role in the financial sector worldwide, and new 
+players and innovative approaches and delivery chan-
+nels have important applications in promoting finan-
+cial inclusion. Examples are e-money and mobile 
+money developments, cashless and digitized transac-
+tions, low-value cross-border payments (for example, 
+remittances), and other FinTech products, services, 
+and firms providing an alternative by facilitating trans-
+fers and international payments, among others. These 
+new service models and channels create the need to 
+employ complaints handling procedures that go 
+beyond traditional bricks-and-mortar approaches. 
+Several examples of international principles highlight 
+the consensus that digital FSPs should have in place 
+complaints handling and resolution processes and 
+procedures that are efficient, prompt, and fair.    
+• Guideline 8 of the Better Than Cash Alliance’s 
+Responsible Digital Payments Guidelines of 201641  
+stresses that the recourse system should be acces-
+sible by phone or digitally, such as via a website or 
+by text message, or by visiting the provider’s place 
+of business.  
+• The GSMA Code of Conduct for Mobile Money 
+Providers emphasizes the need for complaints 
+resolution processes and procedures. Specifically, 
+Principle 7 of the code underscores the need to 
+BOX 4
+Recourse Provided by FSPs in a Digital Context
+have in place mechanisms to ensure that com-
+plaints are addressed effectively and problems are 
+resolved in a timely manner, and it points out the 
+need to inform consumers of the complaints poli-
+cies and procedures.
+• The Most Common Themes for Digital Financial 
+Services (ITU DFS Themes, 2016) emphasizes the 
+following: complaints policy and procedures in 
+place, transparent, and communicated to consum-
+ers; multiple recourse channels available to con-
+sumers; alternative dispute resolutions or external 
+recourse available; reasonable timeframe pro-
+vided for dispute resolution, communicated to 
+consumers; coordination between the financial 
+and telecommunications regulators in dispute res-
+olution; oversight of the recourse system by the 
+financial regulator or supervisor; and employees 
+and agents are trained in handling disputes.
+In the current evolving environment of emergent 
+players, products, and delivery approaches, provid-
+ing an effective, efficient, and fair IDR mechanism to 
+consumers, regardless of the type of FSP , is especially 
+salient. Proportionate approaches may need to be 
+employed, but the regulatory environment for com-
+plaints handling should enable a level playing field 
+and ensure that consumers have easy access to fair 
+and timely resource mechanisms.
+As receipt is confirmed, the FSP should assign each com-
+plaint a unique tracking number that is communicated to 
+the consumer, who should have a way to follow up on his 
+or her complaint, having easy access to the current stage 
+of the complaint’s resolution. 
+Following the appropriate processing, investigation, and 
+resolution of a complaint, a response must be delivered in 
+plain writing in a durable format, such as a letter or email, 
+to the consumer. If the complaint is refused, the FSP must 
+provide reasons for the refusal. If compensation is offered 
+as a resolution, the terms of the proposed settlement 
+must be explained clearly. So that the consumer can 
+clearly understand the value of the proposed compensa-
+tion, the offer should be quantified in monetary terms. 
+Clear instructions should be provided to the consumer 
+regarding the actions to be taken to accept or refuse the 
+proposal, along with a reasonable timeframe for the con-
+sumer to decide on the compensation offer (for example, 
+a minimum of 10 working days). 
+Responses should also clearly inform consumers of their 
+rights and how they can further pursue the matter should 
+they be dissatisfied with the resolution provided by the 
+FSP . Depending on the local context, options provided to 
+consumers may include the following: 
+• Approaching an internal appeals body if one has been 
+established by the FSP , including the provision of tele-
+phone, email, and postal contacts for the appeals 
+body and any special guidance regarding the appeals 
+process
+• Referring the complaint to the applicable EDR pro-
+vider if there is one in the jurisdiction
+
+--- PAGE 18 ---
+12  Complaints Handling within Financial Service Providers
+• Approaching the FSP’s regulator, including the provi-
+sion of telephone, email, and postal contacts
+• Approaching a civil court and filing a lawsuit.
+3.8  Complaints Data: Ongoing Analysis of Root 
+Causes
+In addition to the requisite investigation, all complaints 
+should be analyzed to identify and examine underlying 
+causes. The information provided by complaints can be 
+applied to identifying and remedying any recurring or sys-
+temic problem and improving policies, procedures, and 
+products accordingly. Part of this analysis should include 
+assessment of whether products are designed with a con-
+sumer-centric approach—that is, whether consumers are 
+being offered products that are suited to their needs and 
+profiles—in addition to ensuring that consumers are 
+treated fairly. 
+Preparing reports on complaints and their causes should 
+be a clear responsibility of the complaints handling func-
+tion, and these reports should be submitted to the board 
+of directors at least on a quarterly basis. These analytical 
+reports should, at a minimum, provide information on the 
+types of, reasons for, and number of complaints received 
+during the reporting period. Reports should specify which 
+products and distribution points generated the com-
+plaints and provide a breakdown of the time for resolu-
+tion, the number of complaints denied and upheld, and 
+compensation provided. 
+Based on this data, complaints reports should also provide 
+proposals on what steps should be undertaken to limit the 
+number of most typical complaints. This includes recom-
+mendations on how to modify product design, marketing, 
+sales processes, communications, or other business pro-
+cesses. In addition, reports should be analyzed to inform 
+Examples of approaches taken by some authorities in relation 
+to time for complaint resolution:
+• The FCA establishes that the FSP must send the com-
+plainant a final or other response by the end of the eighth 
+week after its receipt of the complaint.42  
+• The Financial Consumer Agency of Canada instructs that 
+complaints should be resolved within 90 days or less when 
+possible. In cases where the FSP takes longer than 90 days 
+to investigate and respond to a complaint, the FSP “should 
+advise the consumer about his or her rights to escalate the 
+complaint to the external complaints body and how long 
+the investigation may take should the consumer decide to 
+leave the complaint with the FSP .”43  
+• Australia’s ASIC requires that IDR procedures include clear 
+response times for dealing with a complaint and the com-
+plainant should be made aware of these response times. 
+Complaints should be acknowledged immediately, and 
+responses should be provided promptly. In general, a final 
+response must be provided within 45 days, but it also pro-
+vides for exceptions for certain types of credit disputes and 
+for the provision of traditional trustee company services.44 
+BOX 5
+Timelines for Resolution
+• Ghana allows that “where the financial service provider 
+requires more time to resolve a complaint, the financial ser-
+vice provider may take an additional ten (10) days,” in excess 
+of the mandated 20 working days to resolve the complaint 
+and present the final decision to the complainant. Notifica-
+tion of extension must be provided to the complainant in 
+advance of the expiration of the required 20 working days.45 
+• Indonesia’s OJK requires FSPs to take immediate action and 
+resolve complaints within 20 working days after receipt of the 
+complaint. The complainant must be notified in writing 
+before the 20-working-day period expires for all of the 
+exceptions OJK provides for below:
+a.  The office of the FSP receiving the complaint is not the 
+same as the office of the financial services business (FSB) at 
+which the issue at complaint has arisen, and obstacles to 
+communication exist between the two offices of the FSP .
+b. The financial transaction at issue in the consumer’s com-
+plaint requires special examination of the documents of 
+the FSB.
+c. Circumstances exist outside the control of the FSB, such as 
+involvement of third parties outside the FSB in the financial 
+transaction conducted with the consumer.46 
+42.  FCA, “Final or Other Response within Eight Weeks” (DISP 1.6.2R13/01/2018), FCA Handbook, https://www.handbook.fca.org.uk/handbook/
+DISP/1/6.html.
+43.  Financial Consumer Agency of Canada, “CG-12 Internal Dispute Resolution” (April 2013), https://www.canada.ca/en/financial-consumer-  
+agency/services/industry/commissioner-guidance/guidance-12.html.
+44. ASIC, Licensing: Internal and External Dispute Resolution (Regulatory Guide 165), May 2018.
+45. Bank of Ghana, Directive on Consumer Recourse Mechanism Guidelines for Financial Service Providers (February 2017).
+46.  OJK, “Circular Letter of the Financial Services Authority Number 2/SEOJK.07/2014 Concerning Handling and Resolution of Consumer  
+Complaints at Financial Services Businesses,” http://www.ojk.go.id/en/kanal/edukasi-dan-perlindungan-konsumen/regulasi/ojk-circular-letter/
+Documents/SEOJK%202-SEOJK.07-2014%20Pelayanan%20Penyelesaian%20Pengaduan.pdf.
+
+--- PAGE 19 ---
+ Complaints Handling within Financial Service Providers  13
+the introduction of new measures aimed at lowering the 
+number of common complaints. The degrees of analysis 
+can vary as a function of dedicated technology and 
+resources but can be exploited for data mining, statistical 
+analysis, and predictions if entered into an appropriate 
+database. Regardless of the sophistication, this analysis of 
+complaint outcomes should further be used to inform staff 
+training. In developing these proposed actions, the inter-
+nal audit and other compliance units should also be con-
+sulted, given that their core function includes reviewing 
+governance, risk management, and control processes.
+The board of directors should discuss the submitted peri-
+odic complaints report and proposed actions and formally 
+agree on courses of action in a timely manner. The analysis 
+and any subsequent board resolutions should then be pro-
+vided to the internal audit unit of the FSP , so that the audi-
+tors incorporate the complaints handling measures into 
+their annual work program. Internal auditors should be 
+regularly informed on the number and reasons for com-
+plaints, and the information should be reflected in their 
+monitoring activities. 
+In addition to requirements for mandatory minimum time-
+frame for processing and resolving complaints, regular 
+assessment of complaints by senior management and cor-
+responding compulsory reporting to supervisory agencies 
+should be clearly described. This data should be analyzed 
+in regular reports to the board of directors and include 
+specific recommendations on actions to be undertaken to 
+mitigate prevalent complaints. The Bank of Ghana, for 
+example, specifies that senior management make recom-
+mendations to the board of directors regarding complaints 
+handling and dispute-resolution improvements.47 Board 
+members should discuss the reports and proposed mea-
+sures at quarterly meetings and record adopted resolu-
+tions. It is also recommended that these findings be 
+included in FSP annual reports. In the case of the Philip-
+pines, BSP regulations indicate that FSPs supervised by the 
+BSP are further required to include complaints and request 
+statistics in their annual reports.48  
+3.9  Complaints Data Recording and Reporting: 
+Accuracy, Standardization, and Classification    
+A complaints database is an important tool for ensuring 
+consistency in complaints handling and decisions through-
+out the institution. A proportional approach also applies 
+when it comes to the requirement for a complaints data-
+base, considering the type, size, and complexity of the FSP .
+Information about previous complaints should be accessi-
+ble by all complaints handling staff, subject to the conflicts 
+and privacy legal and regulatory framework. As the data-
+base should record classifications of complaints and their 
+resultant resolutions, a regular assessment of uniformity 
+should be readily performed. Regular training, under the 
+supervision of the complaints handling manager and in 
+accordance with the board-approved training and testing 
+plan, is an additional tool for maintaining a homogenous 
+approach. Further controls should be provided by the 
+compliance or internal audit staff. Finally, supervisory agen-
+cies should also be tasked with monitoring whether FSPs 
+make consistent responses to complaints based on their 
+complaints data. Thus accuracy is key.
+Each complaint with its assigned tracking number should 
+be included in a centralized, comprehensive electronic 
+complaints database. The database should record all com-
+munications and materials related to the complaint and full 
+information on each complaint, even after the complaint is 
+resolved. This is subject to the overall minimum record-
+keeping retention period required by the legal and regula-
+tory framework in the jurisdiction.
+In addition to compliance officers and internal auditors, the 
+relevant supervisory agency should have access to review 
+up-to-date records of all complaints. The structure of the 
+central complaints database should be harmonized for the 
+same types of FSPs to facilitate simpler regulatory report-
+ing, comparison, and oversight. 
+Information entered into databases should, at a minimum, 
+include up-to-date basic records on the following: 
+(i) Assigned reference number of the case
+(ii) Name of the complainant and her/his contact details
+(iii) Date when the complaint  was lodged
+(iv) Means of communication by which the complaint 
+was lodged
+(v) Type of product, service, issue
+(vi) Demographics (for example, gender, age, region)
+(vii) Subject and description of the complaint
+(viii) Classification of the complaint (as per an internal 
+classification system)
+(ix) Assigned FSP staff person(s) responsible for han-
+dling of the complaint
+(x) Investigations carried out by the FSP
+(xi) Steps undertaken by the FSP to resolve the complaint 
+47.   Bank of Ghana, Directive on Consumer Recourse Mechanism Guidelines for Financial Service Providers (February 2017).
+48.   BSP , “BSP Regulations on Financial Consumer Protection,” Circular No. 857, Series of 2014.
+
+--- PAGE 20 ---
+14  Complaints Handling within Financial Service Providers
+(xii) Response provided to the consumer
+(xiii) Resolution, if or if not achieved
+(xiv) Date of resolution, if or if not achieved
+(xv) Comprehensive communications with the consumer, 
+including via telephone
+3.9.1  Complaints Management System: Considerations, 
+Challenges, and Benefits
+Apart from the staff that resolve financial consumer com-
+plaints, the complaints management system (CMS) is the 
+most critical piece of infrastructure for any complaints res-
+olution function, as it yields significant operational effi-
+ciencies. At its most basic, a CMS is a record database that 
+collects fields of information about complaints lodged by 
+financial consumers. It is an attractive alternative to paper-
+file recordkeeping and facilitates database queries, inves-
+tigation, reporting, and file storage and retrieval. It does 
+not have to be a complex or expensive computer system, 
+although the systems in place at the larger FSPs around 
+the world are large and extensive. At its most basic, many 
+of the functions sought for a CMS can be provided by a 
+simple spreadsheet or relational database, in which the 
+columns represent the desired fields of information about 
+each complaint file and the rows represent the individual 
+complaint files. A CMS can be very useful to collect rele-
+vant elements of complaints for further analysis and iden-
+tification of root causes, such as (i) demographics (for 
+example, location, region, gender, age); (ii) categories of 
+products/services (for example, payments, credit, transac-
+tion accounts); (iii) categories of issues (for example, 
+mis-selling, closure of account, fees and charges, and the 
+like); and (iv) channels (such as branches, agents, phone, 
+in person). Coding individual complaints for product and 
+issue variables generates valuable information for report-
+ing and can help the regulator, government, and FSPs 
+themselves identify areas requiring attention.
+In relation to the resources available to the FSP , its size, 
+and its sophistication, CMSs with varying degrees of func-
+tionality are appropriate. Most FSPs should be able to 
+acquire a complaints handling database system, but as 
+with all aspects of the IDR framework, regulatory require-
+ments for such a system should be flexible and propor -
+tionate enough to accommodate smaller providers. 
+Regardless of the format, the system should facilitate 
+FSPs’ periodic reporting of complaint statistics to the 
+supervisory authority. 
+From a business-recovery standpoint, the CMS is a top 
+priority. Consideration should be given to locating the 
+CMS and document repository in the cloud, as this might 
+offer certain advantages over storing files on a local server. 
+Scalability and automated remote back-up capability are 
+attractive features associated with the cloud-based plat-
+forms that are available from many suppliers in the mar-
+ket. The trade-off consideration is the total dependence 
+upon a reliable, secure, and high-speed Internet connec-
+tion to enable access to data or files. Cloud-based solu-
+tions may also have implications for data protection and 
+data location regulation, so the system design should take 
+note of local requirements for where FSP , complainant, 
+and consumer data may be stored. Local servers offer 
+independence from the Internet but create site-specific 
+risk and require regular backup, preferably to a different 
+remote site that is also dependent upon network connec-
+tivity with the same reliability, speed, and security consid-
+erations mentioned above.   
+3.9.2 Complaints Data Reporting to Regulators
+Collection of complaints data allows the supervisory 
+authorities to analyze consumers’ level of satisfaction with 
+individual FSPs, identify emerging consumer issues early 
+as they develop, and track inquiries and complaints trends 
+over time. Jurisdictions vary widely in terms of require-
+ments for reporting format and periodicity: some authori-
+ties require monthly reports on complaints (United 
+Kingdom), while others deem quarterly (Indonesia, Philip-
+pines, Ghana, Kenya) or annual (Canada) reporting from 
+FSPs adequate. Among others, Kenya requires that the 
+monthly reports include information on measures taken to 
+address consumer complaints.49  
+In addition to standardized classifications and format, 
+supervisory authorities should consider the level of gran-
+ularity of data needed and their capacity to process the 
+data collected. Disaggregated data can provide supervi-
+sors with greater analysis possibilities, but they are poten-
+tially costlier and more inaccurate. On the other hand, 
+aggregated data is easier and less expensive to collect and 
+usually less subject to errors, but it does not allow sophis-
+ticated analysis. 
+To encourage transparency and to allow consumers to 
+compare the quality of service provided by FSPs, some 
+jurisdictions require that anonymized complaints data be 
+published on a periodic basis after meeting threshold 
+criteria. In the United Kingdom, firms that report 500 or 
+more complaints to the FCA are required to publish a cor-
+responding summary of that report for public consump-
+tion, within specified timelines and formatting. 50 This 
+is in addition to publication directly by the FCA, which 
+49.  Central Bank of Kenya, Prudential Guidelines for Institutions Licensed under the Banking Act (January 2013).
+50.  FCA, “Complaints Data Publication Rules” (DISP 1.10A), FCA Handbook, https://www.handbook.fca.org.uk/handbook/DISP/1/10A.html.
+
+--- PAGE 21 ---
+ Complaints Handling within Financial Service Providers  15
+provides complaints data about the overall financial ser-
+vices industry as well as firm-level data (for firms that are 
+required to publish complaints data). Elsewhere, Canada 
+requires banks and authorized foreign banks to publish 
+annually the number of complaints, the average length of 
+time for resolution, and the number of complaints satis-
+factorily resolved.51 
+4.  USING TECHNOLOGY FOR 
+FINANCIAL COMPLAINTS   
+A rising trend in IDR and EDR (and even in courts) is the 
+use of technological solutions, such as so-called online 
+dispute resolution (ODR). ODR is undertaken using tech-
+nological solutions, typically web-based, developed to 
+facilitate or provide consumers with remote access to 
+complaints. 
+The rising affordability of mobile telephony means that 
+a high proportion of the population globally either owns 
+or has access to mobile technology. It is therefore not 
+surprising that ODR is being explored to enhance social 
+inclusion52 and to increase opportunities for individuals 
+and communities to access dispute resolution. 53 ODR 
+applications range from the simple usage of communica-
+tions technology to facilitate traditional methods to the 
+use of artificial intelligence–supported automated case 
+evaluation and decision making.54  
+4.1. Technology as Part of the Resolution Process
+Technological solutions have been developed to help par-
+ties (that is, complainants and FSPs) go through a step-by-
+step, out-of-the-box, and efficient online process, aiming 
+to deliver fast and efficient dispute resolution. Both FSPs 
+and regulators have been increasingly leveraging artificial 
+intelligence to launch solutions to facilitate communica-
+tion with consumers and offer transactional support. For 
+example, in lieu of phone, emails, and letters, chatbots55  
+are employed. Although not new and a rapidly growing 
+application of technology, ODR remains contentious, 
+offering advantages and disadvantages to the dispute-res-
+olution process.
+Some of the advantages to industry when implementing 
+ODR are relatively obvious. They include (i) providing dis-
+pute-resolution mechanisms with an opportunity to extend 
+their outreach, by eliminating face-to-face contact between 
+parties to resolve disputes, thus empowering consumers 
+who did not have access to traditional mediation or resolu-
+tion processes; and (ii) lowering dispute costs, given the 
+potential reduction in time and resources for resolution, 
+increasing efficiency.
+Nevertheless, while technology, including web-based 
+technology, can facilitate the dispute-resolution process, it 
+is not yet able to take the place of the IDR function in finan-
+cial consumer dispute resolution. Technology can support 
+the various dispute-resolution functions to address the 
+challenge of providing access to dispute resolution to 
+remote complainants, but ODR platforms to resolve dis-
+putes are typically not well suited to the task. There are a 
+few other disadvantages, such as (i) country or regional 
+infrastructure challenges that can make it impossible to 
+provide the technological means to a complainant who is 
+located in a remote area (for example, Internet access, cell 
+phone signal); (ii) lack of face-to-face interactions, which is 
+undesirable to some consumers; (iii) an increased difficulty 
+of case analysis based on more concise information; and 
+(iv) the potential need to adapt regulatory and legal frame-
+works to allow for ODR usage. In addition, ODR requires a 
+degree of technical knowledge and training (from both the 
+FSP’s and the consumer’s perspective).  
+4.2. Social Media Monitoring
+Another innovation increasingly employed by FSPs for 
+IDR is monitoring social media for consumer com-
+plaints. According to a report issued by the American 
+Bankers Association, 56 bankers were asked to rank, from 
+1 to 10, the reasons their banks use social media. Top-
+ping the list was (1) community engagement, followed 
+by (2) the desire to deepen existing consumer relation-
+ships by providing such content as financial tips and 
+updates on new products or services. According to the 
+survey, 63 percent of the banks already use social media 
+to monitor complaints for risk-management purposes, 
+and 12 percent intend to do so within one to two years. 
+51.  Government of Canada, “Complaints (Banks, Authorized Foreign Banks and External Complaints Bodies) Regulations,” Justice Laws 
+Website, https://laws-lois.justice.gc.ca/eng/regulations/SOR-2013-48/FullText.html.  
+52.  Alberto Elisavetsky, “Distance Mediation as a Bridge for Social Inclusion,” Mediate (April 2016), https://www.mediate.com/articles/Elisa- 
+vetskyA6.cfm.
+53.  Giuseppe Leone, “Promoting Online Dispute Resolution in Africa: A Simple, Pragmatic Approach,” Mediate (December 2015), https://www.
+mediate.com/articles/LeoneGbl20151211.cfm. 
+54.  Graham Ross, “ODR’s Role in In-Person Mediation and Other ‘Must Know’ Takeaways about ODR,” Mediate (March 2017), https://www.mediate. 
+com/articles/RossG2.cfm.
+55.  A chatbot is an artificial intelligence–enabled, text- or voice-based communication tool that learns human users’ language styles, picking up 
+their words and expressions, to simulate conversation, especially over the Internet.
+56.   American Bankers Association, The State of Social Media in Banking: Results of an American Bankers Association Research Study (Washington, 
+DC: American Bankers Association, 2017).
+
+--- PAGE 22 ---
+Despite these trends, more than 25 percent of respon-
+dents indicated that their banks had no plans to employ 
+social media to monitor complaints, provide customer 
+service, or recruit, despite industry success in employ-
+ing this channel.    
+Social media can be seen by some providers as a threat 
+because it can give consumers a new, high-profile plat-
+16  Complaints Handling within Financial Service Providers
+Communication
+Marketing/sales
+Risk management
+(monitoring complaints, etc.)
+Customer service
+Recruiting
+Competitive analysis
+Conduct research
+Currently In 1–2 years No plans exist
+FIGURE 3: Social Media Monitoring by Banks
+How are banks using social media?
+Does your bank use social media for the following activities?
+Source: American Bankers Association, The State of Social Media in Banking, 2017.
+0 20 40 60 80 100
+80%        9%     10%
+68%               17%             16%
+63%         12%                           26%
+58%                17%                         25%
+56%                   17%                               27%
+29%                 18%                                                                53%
+28%                      21%                                                             51%
+form to complain. Generally, however, it is in seen as an 
+opportunity: for consumers to post complaints, especially 
+for those who would otherwise not have access to 
+branches, traditional channels, or intermediaries, and for 
+FSPs to use these complaints to learn from consumers, 
+address the complaints in a fast and efficient way, and 
+improve their internal processes and procedures to pre-
+vent the issues from recurring.
+
+--- PAGE 23 ---
+Annex II: Examples of Key Facts Statements  17
+
+
+--- PAGE 24 ---

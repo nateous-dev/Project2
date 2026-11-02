@@ -26,7 +26,7 @@
 
 ## 프로젝트 배경 및 필요성
 
-고객 이탈은 은행과의 거래 관계가 종료되거나 약화되는 현상입니다. 수수료, 상품 조건, 디지털 이용 불편, 상담 경험 등 여러 요인이 영향을 줄 수 있어 예측 점수만으로 실제 사유를 단정하기 어렵습니다. 은행 고객 경험 조사에서도 디지털 경험과 서비스 마찰을 고객 유지의 과제로 다룹니다. 
+고객 이탈은 은행과의 거래 관계가 종료되거나 약화되는 현상입니다. 수수료, 상품 조건, 디지털 이용 불편, 상담 경험 등 여러 요인이 영향을 줄 수 있어 예측 점수만으로 실제 사유를 단정하기 어렵습니다. 은행 고객 경험 조사에서도 디지털 경험과 서비스 마찰을 고객 유지의 과제로 다룹니다. [Baringa 조사](https://www.baringa.com/en/insights/architecting-loyalty-in-financial-services/retail-banking-survey/), [EY 분석](https://www.ey.com/en_ca/insights/banking-capital-markets/why-loyalty-is-becoming-retail-bankings-next-competitive-battleground)
 
 본 프로젝트는 이탈 예측 분석을 텔레마케터의 상담 준비 과정으로 확장했습니다. 상담자는 위험 고객의 정보를 확인하고 고객 상황과 질문을 입력해 상담 초안을 미리 검토할 수 있습니다. 상담자의 경험에만 의존하던 준비 과정에 데이터와 문서 근거를 함께 제공하는 것이 AI 도입의 목적입니다. 실제 이탈 감소 효과는 별도 운영 실험이 필요합니다.
 

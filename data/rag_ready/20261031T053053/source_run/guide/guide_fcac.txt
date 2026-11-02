@@ -1,0 +1,1044 @@
+--- PAGE 1 ---
+ 
+ 
+ 
+ 
+Industry review 
+  
+INDUSTRY REVIEW 
+Bank Complaint Handling Procedures  
+
+--- PAGE 2 ---
+Information contained in this publication or product may be reproduced, in part or in whole, 
+and by any means, for personal or public non-commercial purposes without charge or further 
+permission, unless otherwise specified. Commercial reproduction and distribution are 
+prohibited except with written permission from the Financial Consumer Agency of Canada.  
+For more information, contact: 
+Financial Consumer Agency of Canada 427 Laurier Ave. West, Ottawa ON K1R 1B9 
+www.canada.ca/en/financial-consumer-agency  
+Cat. No.: FC5-65/2020E-PDF (Electronic PDF, English) 
+ISBN: 978-0-660-33962-7 
+© Her Majesty the Queen in Right of Canada, as represented by the Minister of Finance 
+Canada, February 2020.  
+Aussi disponible en français sous le titre : Examen de l’Industrie : Procédures de traitement 
+des plaintes dans le secteur bancaire
+
+--- PAGE 3 ---
+ 
+ 
+Table of contents 
+Executive summary ................................................................................................. 1 
+1 Introduction ..................................................................................................... 3 
+1.1 Review objective ............................................................................................3  
+1.2 Scope and methodology ................................................................................4  
+1.3 Steps to resolve complaints ...........................................................................6  
+2 Effectiveness .................................................................................................... 7 
+2.1 Organizational commitment ..........................................................................8  
+2.2 Resources .................................................................................................... 11 
+2.3 Training ....................................................................................................... 12 
+2.4 Monitoring and reporting ........................................................................... 13 
+3 Accessibility ................................................................................................... 15 
+3.1 Facilitating access to complaint escalation process ................................... 17 
+3.2 Providing information about complaint handling procedures ................... 18 
+4 Timeliness ...................................................................................................... 20 
+4.1 Reasons for not meeting timeliness standards........................................... 22 
+5 Conclusion ..................................................................................................... 24 
+
+--- PAGE 4 ---
+1 
+ 
+Executive summary 
+This report presents the findings of the Financial Consumer Agency of Canada’s (FCAC’s) review 
+of banks’ procedures for handling consumer complaints. It was conducted in response to a 
+request from the Minister of Finance, who asked FCAC to assess both complaint handling in 
+banking and the effectiveness of external complaints bodies (ECBs). The findings from FCAC’s 
+review of the ECBs are reported separately. 
+FCAC estimates that over 5 million consumers bring at least one complaint to a bank each year. 
+When banks provide consumers with access to a fair and efficient process for resolving 
+complaints, it promotes trust and confidence in financial institutions. 
+To ensure consumers have access to a fair and impartial process for resolving disputes, FCAC 
+oversees banks’ compliance with relevant legislation, regulations and guidelines. Banks are 
+required to implement effective, timely and accessible procedures for handling consumer 
+complaints and to monitor, record and report complaints. FCAC expects banks to analyze 
+complaint data for opportunities to better serve financial consumers and to strengthen their 
+compliance with market conduct obligations. FCAC also reviews complaints to measure the risk 
+of banks’ non-compliance with consumer protection legislation and guidelines, and to identify 
+market trends and issues. 
+Review approach 
+The review assessed the effectiveness, accessibility and timeliness of the complaint handling 
+procedures (CHPs) of Canada’s six largest banks. It was conducted between November 2018 
+and June 2019. To prepare this report, FCAC reviewed bank documents, analyzed complaint 
+and investigation files, interviewed bank employees and examined regulatory frameworks in 
+other jurisdictions. To better understand consumers’ experiences with complaint handling, 
+FCAC also engaged Environics Research to conduct a representative survey of 5,000 Canadians 
+who have an account or credit card with a bank.  
+FCAC acknowledges that this review is subject to potential limitations, including that it was 
+conducted under time constraints and the findings reflect only what was observed during the 
+review period. The report does not reflect any improvements that banks may have 
+implemented since spring 2019. 
+Key findings  
+The review found that banks’ CHPs are generally effective, accessible and timely for relatively 
+simple complaints that can be resolved at the first level. First-level employees are frontline staff 
+who provide products and services directly to consumers. For example, bank branch 
+employees, who handle consumer complaints as part of their daily routines, are defined as part 
+of Level 1 in banks’ CHPs. However, FCAC found that banks’ procedures are much less effective, 
+accessible and timely when consumers escalate more complex complaints to higher levels. The 
+review identified a number of deficiencies in banks’ policies and procedures, as well as a 
+
+--- PAGE 5 ---
+2 
+ 
+number of opportunities for improvements. FCAC will use its supervisory tools to address these 
+concerns.  
+Effectiveness 
+In this context, effectiveness is a measure of whether banks are resolving complaints to most 
+consumers’ satisfaction. The review found that banks are generally effective at resolving 
+complaints at the first level, but that their effectiveness declines significantly when consumers 
+escalate a complaint beyond that level. FCAC found that: 
+o banks do not have strong policies and procedures to ensure that escalated complaints 
+are handled consistently and effectively  
+o banks do not adequately monitor, assess and improve their CHPs 
+o banks’ training programs are largely informal, and banks are unable to demonstrate that 
+employees who handle complaints understand or follow the procedures 
+Accessibility 
+Accessibility is a measure of whether consumers know how and where to make a complaint and 
+are able to do so with relative ease. The review assessed whether banks provide consumers 
+with all of the information they need and support consumers’ efforts to resolve complaints. 
+FCAC found that: 
+o consumers are able to access the first level of banks’ CHPs  
+o consumers find it difficult to escalate complaints beyond the first level 
+o banks do not adequately facilitate consumers’ efforts to escalate complaints 
+o banks do not provide consumers with the information they need to escalate complaints 
+Timeliness 
+Timeliness in this context refers to whether banks resolve consumer complaints within a 
+timeframe defined by regulators and that consumers consider reasonable. The banks reviewed 
+generally meet the time requirements for resolving complaints at the first level, but most do 
+not measure up for complaints escalated beyond that level. FCAC found that:  
+o most delays can be attributed to inefficient bank procedures 
+o consumers who escalate complaints tend to experience fatigue and frustration  
+o lengthy delays lead consumers to drop their complaints before they are resolved 
+Conclusion 
+FCAC is addressing the deficiencies observed in banks’ CHPs through ongoing supervision and 
+oversight. It is also directing banks on how to improve their compliance with market conduct 
+obligations, and expects them to respond with detailed action plans. These directions include: 
+designing better policies and procedures for resolving complaints objectively and in a timely 
+manner; making it easier for consumers to navigate CHPs; ensuring there are adequate 
+resources to handle complaints; reviewing the effectiveness of CHPs; and overseeing and 
+monitoring CHPs to ensure adherence to market conduct obligations. 
+
+--- PAGE 6 ---
+3 
+ 
+1 Introduction  
+Overseeing complaint handling is an important element of supervising the market conduct of 
+institutions that provide financial products and services to consumers. Fair and effective 
+complaint handling builds consumer confidence and trust in financial institutions, and its 
+significance has long been recognized. For example, in 2011, the G20 finance ministers and 
+central bank governors endorsed the principle that financial “consumers should have access to 
+complaint handling and redress mechanisms that are accessible, affordable, independent, fair, 
+accountable, timely and efficient.”1  
+In its Domestic Bank Retail Sales Practices Review (2018), the Financial Consumer Agency of 
+Canada (FCAC) identified a number of concerns about banks’ complaint handling procedures 
+(CHPs). Consumers and the groups that represent them told FCAC that the CHPs are 
+intimidating, complicated and take too long. They also said they do not have confidence in 
+banks’ CHPs because complaints do not seem to be resolved impartially. Parliamentarians have 
+also raised a number of concerns regarding the way banks handle complaints. 
+“Consumers are frustrated and fatigued by the process. They feel they are on a treadmill 
+that they can’t get off, in terms of having their problem addressed within the bank.” 
+ – Consumer group representative 
+ 
+In the 2018 Fall Economic Statement, the Minister of Finance called on FCAC to conduct a 
+review, stating: “When Canadians have disputes with their banks, they deserve access to a fair 
+and impartial resolution process.”2  
+1.1 Review objective 
+The objective of the FCAC review was to assess whether banks have implemented the policies 
+and procedures required to handle complaints in an effective, accessible and timely manner, as 
+set out in the consumer provisions3 and regulations4 of the Bank Act and in the FCAC guideline, 
+CG-12: Internal dispute resolution.5  
+More specifically, banks were required to demonstrate that they have implemented procedures 
+for handling consumer complaints fairly and objectively. FCAC expects banks to assist 
+consumers by providing them with the information they need to follow CHPs. In addition, banks 
+are expected to train employees who handle complaints to ensure they understand and follow 
+the procedures. Banks are also expected to resolve complaints promptly and without 
+                                                      
+1 See “Principle 9” in OECD/G20 Task Force on Financial Consumer Protection (2011). G20 High-level Principles on 
+Financial Consumer Protection. Paris, p. 7. www.oecd.org/daf/fin/financial -markets/48892010.pdf.   
+2 Government of Canada Fall Economic Statement 2018: Chapter 2 –  Continued Progress For The Middle Class. See 
+“Consumer Protection Framework in Banking.” 
+3 Sections 455, 456 and 573 of the Bank Act. 
+4 Complaints (Banks, Authorized Foreign Banks and External Complaints Bodies) Regulations (SOR/2013 -48). 
+5 See FCAC Guidelines. 
+
+--- PAGE 7 ---
+4 
+ 
+unnecessary delays. Furthermore, each bank is required to be a member of an approved 
+external complaints body (ECB). ECBs handle complaints escalated by consumers when banks 
+are unable to resolve them to the consumer’s satisfaction or within the required timeframe.  
+FCAC also looked for opportunities for banks to improve their CHPs. This included a review of 
+international standards and best practices in comparable jurisdictions. FCAC will use the 
+findings from this review to inform its supervision and enhance its guidance on expectations for 
+complaint handling.  
+1.2 Scope and methodology 
+FCAC examined the CHPs of Canada’s six largest banks: Bank of Montreal, The Bank of Nova 
+Scotia, Canadian Imperial Bank of Commerce, National Bank of Canada, Royal Bank of Canada 
+and The Toronto-Dominion Bank. These banks represent 82% of the escalated complaints 
+reported to FCAC by all banks over the previous two years.6  
+The review comprised five areas of work: 
+o a desk review of policies and procedures  
+o a complaint case file analysis 
+o on-site examinations 
+o a review of international best practices  
+o consumer engagement and stakeholder consultations 
+1.2.1 Desk review 
+FCAC conducted a desk review of banks’ policies and procedures for handling complaints. The 
+Agency reviewed some 9,200 pages of material, including:  
+o standard operating procedures 
+o job aids and decision trees  
+o reimbursement guides  
+o investigation manuals  
+o training modules  
+o service level agreements  
+o quality assurance processes 
+o job mandates and performance management  
+o compliance testing  
+o audit reports  
+                                                      
+6 Escalated complaints are those that consumers have escalated above Level 1 or the first point of contact. The 
+reportable level may vary based on an institution’s operational profile. For more information, see the Mandatory 
+reporting guide for federally regulated financial institutions. 
+
+--- PAGE 8 ---
+5 
+ 
+1.2.2 Complaint review 
+FCAC reviewed 300 files for compliance with timeliness standards and to evaluate reporting and 
+recordkeeping practices.7 FCAC selected a stratified random sample of completed complaint 
+investigation and resolution files that were representative of those handled by the banks’ 
+designated senior complaints officers (SCOs) over the previous two fiscal years. FCAC also 
+performed a more detailed analysis of 150 of the 300 complaint files to assess whether banks 
+are resolving complaints in a manner consistent with FCAC’s expectations for effectiveness, 
+accessibility and timeliness, and to assess adherence to banks’ internal procedures.  
+1.2.3 On-site examination 
+FCAC conducted on-site examinations over the course of three weeks, interviewing 
+approximately 100 bank employees. Customer-facing employees were selected from the Level 
+2 complaint handling functions and from the offices of the banks’ designated SCOs, such as 
+investigators and intake officers. FCAC also interviewed senior management from banks’ 
+complaint handling functions, the offices of SCOs, and banks’ compliance functions, which are 
+responsible for overseeing CHPs’ compliance with applicable market conduct obligations.  
+1.2.4 Review of international practices 
+FCAC examined complaint handling regulations in comparable jurisdictions, namely Australia, 
+Ireland, the Netherlands, the United Kingdom and the United States. The Agency also 
+considered the recommendations and principles for complaint handling and redress developed 
+by the World Bank and the Organisation for Economic Co-operation and Development 
+(OECD)/G20 Task Force on Financial Consumer Protection.
+8  
+1.2.5 Consumer engagement and stakeholder consultations 
+FCAC engaged individual complainants, consumer groups and representatives, and other key 
+stakeholders (such as provincial regulators) to learn about their views of, experiences with and 
+concerns about CHPs. FCAC also contracted Environics to field a representative public opinion 
+research survey of 5,000 Canadians who have an account or credit card with a bank and to 
+conduct quantitative analysis of the data.
+9  
+1.2.6 Limitations  
+The Agency acknowledges that the review is subject to several potential limitations. First, the 
+review was constrained by the amount of time available. FCAC completed its review of banks 
+and ECBs in six months, which limited opportunities to request documentation and information 
+when questions arose. 
+                                                      
+7 FCAC selected the sample from a full list of complaints resolved by the six banks’ SCOs and two ECBs from 
+November 1, 2016 to October 31, 2018. 
+8 See, for example, the work on Principle 9 in OECD/G20 Task Force on Financial Consumer Protection (2013). 
+Update Report on the Work to Support the Implementation of the High- level Principles on Financial Consumer 
+Protection. Paris, pp. 18–23. www.oecd.org/daf/fin/financial-education/G20EffectiveApproachesFCP.pdf.  
+9 The survey results can be considered accurate ± 1.4%, 19 times out of 20.  
+
+--- PAGE 9 ---
+6 
+ 
+Second, the complaint files in the sample reviewed were selected using a stratified random 
+approach rather than a probabilistic methodology. Therefore, there is the potential for sample 
+bias in the complaint file review data. 
+Finally, this is a cross-sectional review whose findings reflect only what FCAC found between 
+November 2018 and June 2019. Any improvements that banks may have implemented since 
+spring 2019 will not be reflected in this report.    
+1.3 Steps to resolve complaints 
+Banks’ CHPs generally consist of three internal levels of escalation plus the ECBs for complaints 
+they cannot resolve internally. Most banks have multiple sub-levels or steps within each level. 
+Consumers must pass through these levels in their pursuit of a satisfactory resolution.  
+Level 1  
+Complaints enter banks’ CHPs at the consumer’s first point of contact, typically a customer 
+service representative (CSR) in a branch or call centre. CSRs may need help from or the approval 
+of branch managers or supervisors to resolve certain complaints, depending on the type of 
+complaint and amount of money involved. Some banks will require consumers to take their 
+complaint to a senior manager, such as a regional vice president, if the frontline employees and 
+their managers cannot resolve it. 
+Level 2  
+Consumers who are not satisfied with the resolution offered by the bank at Level 1 may 
+escalate their complaint to Level 2— typically the bank’s client relations function, which 
+specializes in resolving complaints. At some banks, Level 2 includes multiple steps— such as 
+“executive client relations”— for complaints not resolved at the first step of Level 2. 
+Level 3  
+A consumer who is not satisfied with the outcome at Level 2 may escalate a complaint to the 
+bank’s designated SCO. Banks are required to designate an officer who holds the most senior 
+position responsible for dealing with complaints. Most banks refer to this officer as the 
+“ombudsman or ombuds.” (This report avoids these terms when referring to a bank employee, 
+because it could lead consumers to mistakenly assume the SCO is separate from or 
+independent of the bank.) 
+Level 4  
+Level 4 is the ECB contracted by the bank to deal with complaints that have not been resolved 
+to the consumer’s satisfaction through internal bank processes. Each bank is required to be a 
+member of an ECB approved by the Minister of Finance. Consumers can escalate a complaint to 
+a bank’s ECB if: 
+
+--- PAGE 10 ---
+7 
+ 
+o they are not satisfied with the resolution offered by the most senior level at the bank 
+(i.e., Level 3, SCO) 
+o the bank has not proposed a resolution within 90 days from the time the consumer 
+escalated the complaint 
+ 
+Figure 1: Complaint escalation process
+The sections below present FCAC’s analysis of the effectiveness, accessibility and timeliness of 
+banks’ internal CHPs as well as the Agency’s findings and conclusions.  
+2 Effectiveness  
+In the context of this review, effectiveness means banks are resolving complaints in a manner 
+that is fair and satisfactory to most consumers. FCAC’s CG-12 guideline establishes four 
+principles of effectiveness:  
+o organizational commitment 
+o adequate resources 
+o training for staff  
+o monitoring and reporting systems 
+Banks are generally effective at resolving complaints at the first level. According to the 
+consumers surveyed, banks resolve three-quarters (76%) of the complaints brought to the first 
+level. Three-quarters (77%) of surveyed consumers whose complaints were resolved at Level 1 
+were satisfied with the process.  
+However, effectiveness declines significantly when consumers escalate complaints beyond the 
+first level. Consumers report that banks resolve fewer than half (43%) of complaints escalated 
+to the second level, and only a third (34%) of those brought to the SCO office in Level 3. 
+Furthermore, consumers who escalate complaints report lower levels of satisfaction. Just over 
+half (52%) who had a complaint resolved at Level 2 said they were satisfied with the process, 
+
+
+--- PAGE 11 ---
+8 
+ 
+while only 42% of consumers who had a complaint resolved by a higher level were satisfied. 
+The main reasons consumers were not satisfied are poor customer service (52%), no resolution 
+of the complaint (26%) and the process took too long (17%). Notably, only 12% of consumers 
+who did not get their complaint resolved said that they were satisfied with the bank’s CHPs.  
+During the review, FCAC identified a number of areas where banks’ CHPs fell short of the 
+Agency’s expectations for effectiveness. None of the banks reviewed have implemented a 
+robust, comprehensive framework of policies and procedures to demonstrate their 
+commitment to handling complaints effectively across the organization. For example, banks do 
+not have well-developed reimbursement policies and procedures in place to ensure they handle 
+complaints objectively. This shortcoming helps explain the lack of objectivity and consistency in 
+the complaint resolutions observed during the review. In addition, banks’ procedures for 
+soliciting feedback from complainants are not adequate, particularly at levels 2 and 3. There is 
+also significant room to improve the training provided to employees who handle complaints.  
+2.1 Organizational commitment 
+Banks can demonstrate organizational commitment by establishing and adhering to procedures 
+that ensure they address complaints objectively. FCAC also expects banks to demonstrate 
+organizational commitment by developing a culture of continuous improvement in their 
+approaches to handling complaints. This includes soliciting regular feedback from consumers 
+who make complaints, reviewing procedures regularly and taking appropriate actions to 
+address areas where room for improvement has been identified. 
+2.1.1 Procedures for handling complaints objectively  
+FCAC found that banks’ procedures to ensure they handle complaints objectively are 
+inadequate. Most banks have guidelines around the amount of money that frontline 
+employees, managers and executives are authorized to offer consumers to compensate for 
+bank errors or to extend as goodwill gestures. However, most banks have not implemented 
+comprehensive or well-developed reimbursement policies that provide employees with clear 
+guidelines about the circumstances under which specific forms and amounts of reimbursement 
+are appropriate. Well-developed reimbursement policies ensure that bank employees 
+reimburse consumers in a manner that is consistent with and based on the complaint’s 
+circumstances. 
+The employees who handle complaints at the first level are not independent of the banks’ lines 
+of business and may not be impartial. In other words, most complaints are resolved by frontline 
+employees who are under pressure to make sales and control costs, and these pressures may 
+influence their decision to reimburse the consumer, particularly in the absence of a clear policy 
+on what and how to reimburse. Level 1 employees may feel conflicted because of the need to 
+meet sales targets, which may lead them to improperly consider the potential for future sales 
+when deciding how to resolve a consumer’s problem. Some banks also require employees who 
+
+--- PAGE 12 ---
+9 
+ 
+work in Level 2 to look for opportunities to sell products and services. This may impair their 
+objectivity and damage the consumer’s confidence in the process. 
+“They are more interested in selling the products. They don't want to find out what the 
+customer needs.” – Consumer and survey respondent 
+“They tried to sell me more stuff.” – Consumer and survey respondent 
+The review suggested that sales goals and targets may inhibit the bank’s ability to resolve 
+consumer complaints effectively. Survey respondents indicated that some bank employees 
+seemed more concerned with selling them more products and services than with figuring out 
+what happened and resolving their complaint. When the bank employee addressing a 
+consumer’s complaint has to meet sales goals, there is a risk they will prioritize solutions that 
+generate more sales over investigating the complaint and resolving it fairly and objectively.  
+FCAC also observed significant inconsistences in how employees defined fair and reasonable 
+remediation for the problems that consumers brought to their banks. Some bank employees 
+would consider the consumer’s particular circumstances (such as technological or financial 
+literacy); others would consider negative experiences, inconveniences and non-financial harm 
+(such as the potential impact on the consumer’s credit bureau report); other employees at the 
+same bank might not consider any of these factors.  
+Effective guidelines for objective complaint resolution identify goodwill gestures as separate 
+from compensation for the financial and non-financial consequences of bank errors or 
+omissions. Goodwill gestures may be appropriate for repairing business relationships with 
+consumers who have had a poor experience with a product or service, even when the bank’s 
+conduct was consistent with its policies and the applicable rules. In contrast, compensation is 
+appropriate when the bank’s actions (or failure to act) harm a consumer in contravention of 
+their obligations (such as policies, procedures and/or expected standards of care).  
+However, banks have largely failed to set clear parameters in their CHPs to specify when it is 
+appropriate to consider the business relationship— such as the length of time the consumer has 
+been with the bank, the profitability of the consumer’s business with the bank, and the 
+potential to earn future business. As a result, complaint resolution sometimes depends more 
+on who the consumer is to the bank and less on the harm the bank error caused them. 
+Employees involved in resolving escalated complaints need to exercise judgment based on the 
+circumstances and chain of events, but banks have not provided clear guidelines to ensure 
+employees use their discretion appropriately. 
+2.1.2 Feedback from consumers 
+FCAC expects banks to solicit feedback about CHPs from consumers on a regular basis.10 This 
+feedback is meant to help banks identify areas where the process could be improved. The 
+                                                      
+10 This expectation is set out in CG-12: Internal dispute resolution. 
+
+--- PAGE 13 ---
+10 
+ 
+review found that banks are making limited efforts to gather consumers’ views, and that these 
+efforts are particularly deficient at the second level and in the office of the SCO.  
+Like businesses in many other sectors, banks use net promoter score (NPS) surveys to gather 
+consumer feedback about their interactions in branches, on the phone or online. During the 
+review, banks said that these surveys gave them insights into complainants’ experiences. 
+However, NPS surveys are neither intended to perform this function nor focused on complaint 
+resolution. Their purpose is to find out whether consumers would recommend the bank to 
+others based on a recent experience.  
+The review revealed that only one bank uses a survey designed to provide insights into 
+consumers’ experiences with complaint handling, randomly sampling consumers who have 
+recently escalated a complaint to its second level. None of the banks have formal processes to 
+gather feedback from consumers who have brought complaints to the SCO. Two have plans to 
+implement surveys at the second level in 2020, one of which will also introduce surveys of SCO 
+complainants.  
+2.1.3 Oversight and controls  
+None of the banks reviewed could demonstrate that they have implemented a robust and 
+comprehensive complaint-management program or framework. FCAC found that banks’ 
+policies, procedures and controls for handling complaints are underdeveloped, and that most 
+would struggle to demonstrate that their employees adhere to the resolution process or 
+resolve complaints objectively.  
+Banks have implemented standard operating procedures, decision trees, job aids, manuals, best 
+practices guides and memos. However, it is difficult to manage and oversee these policies and 
+procedures effectively without a robust and comprehensive framework for complaint handling. 
+Most of the procedural documents were intended for specific business lines (such as branches 
+or phone channels) or for certain levels in the banks’ CHPs. In addition, FCAC researchers 
+frequently found it difficult to determine the documents’ dates of origin, owners, revision 
+histories and review schedules. Such gaps are most serious in procedures at the first level, 
+where the majority of disputes are resolved.  
+FCAC did not find strong controls to ensure that employees handling Level 1 complaints adhere 
+to internal policies and procedures. Most banks seemed to rely mainly on branch managers and 
+call centre leaders to supervise employees, review complaints periodically and report issues. 
+FCAC did find that Level 2 employees provide informal guidance, instruction and support to 
+employees handling complaints at Level 1. However, banks would be challenged to 
+demonstrate that they resolve Level 1 complaints in a manner that adheres to internal 
+procedures and complies with market conduct obligations.  
+Most banks have implemented quality assurance processes to monitor the compliance of 
+employees handling complaints at Level 2, such as reviewing a small number of investigation 
+
+--- PAGE 14 ---
+11 
+ 
+files or phone calls with consumers. Some banks have implemented quality assurance processes 
+for SCO employees, but phone calls with consumers are not recorded, so the processes are 
+limited to reviewing a sample of investigation files for compliance with internal procedures. The 
+office of the SCO exchanges a considerable amount of information with consumers over the 
+phone, and it can be challenging to evaluate the performance of SCO employees without access 
+to recordings or transcripts of the calls.  
+The second-line compliance function is accountable for monitoring and testing the controls 
+related to ensuring that complaint handling complies with the bank’s market conduct 
+obligations. Compliance must verify whether the controls are working as they should in order to 
+provide senior management with assurances that employees are adhering to applicable 
+regulations.  
+However, during the review, FCAC found that most banks’ compliance function provided 
+inadequate oversight of the controls in place to ensure employees handling Level 1 complaints 
+are adhering to market conduct obligations.  
+At most banks, the compliance function provides a measure of oversight of the controls 
+implemented at Level 2, mainly by conducting periodic reviews to ensure that procedures are in 
+place to achieve compliance with market conduct obligations. For example, most have strong 
+procedures to ensure that Level 2 meets its obligation to report complaints related to consumer 
+provisions to FCAC. In general, compliance function oversight is more limited at the SCO level.  
+2.2 Resources 
+FCAC expects banks to regularly evaluate the resources designated to handle complaints. Banks 
+should assess whether there are enough employees and whether they have sufficient resources 
+(for example, financial, technological and operational support), experience, training and 
+authority (for example, access to documents and the authority to resolve complaints or 
+recommend resolutions). Current procedures for evaluating resources are not adequate.  
+During the on-site exam interviews, most banks reported upward trends in the volume of 
+consumers escalating complaints, the number of investigations opened, and the complexity of 
+the complaints escalated. Banks expressed the opinion that consumers’ expectations were 
+increasing in terms of the level of interaction and responsiveness. Consumers now expect banks 
+to respond to a complaint in hours, not days. In addition, consumers expect to be able to 
+resolve their complaint in the forum and manner they find most convenient. Banks know that 
+regulators’ expectations of and attention to complaint handling are also increasing. 
+The resources that banks have designated to handle escalated complaints at the second and 
+third levels appear to be strained under current caseloads. As noted below in the discussion of 
+timeliness, four of the six banks are not resolving the complaints escalated to the SCO within 
+the standard of 90 days set out in FCAC’s guideline. FCAC found that three of the six banks are 
+exceeding 90 days by 50% or more, on average. Two SCO offices are regularly informing 
+
+--- PAGE 15 ---
+12 
+ 
+consumers that they are dealing with “greater than average” caseloads. This suggests these 
+banks have not allocated sufficient resources to meet regulatory expectations.  
+During the CHP review, FCAC observed some recent increases in the resources available to the 
+second level and SCOs. Some banks have hired additional full-time employees to resolve 
+complaints. Most have made more significant investments at the second level in areas such as 
+data analytics, the investigation of potential breaches of consumer legislation, and allegations 
+of inappropriate sales practices. At some banks, the SCO and second level have also added 
+resources to support quality assurance, governance, reporting and compliance. Banks made 
+some of these investments in response to recommendations from FCAC after the Agency 
+identified gaps in its 2018 Domestic Bank Retail Sales Practices Review.  
+FCAC observed opportunities for banks to strengthen their processes for evaluating the 
+resources they allocate for handling complaints. For example, most banks currently rely on 
+statistics to understand the average time it takes them to resolve complaints. However, second-
+level management and the SCO perform these self-assessments in silos, without considering 
+the time consumers spend at lower or higher levels throughout the escalation process. As a 
+result, these assessments do not measure whether banks have adequate resources to meet 
+FCAC’s expectations for timeliness across levels 2 and 3.  
+In addition, some banks are not looking at trends in the complexity of the complaints they 
+receive to support resource assessments. There can be significant differences in the time and 
+resources needed to investigate and resolve more complex issues, such as those related to 
+fraud or third-party service providers. While banks evaluate the experience of employees who 
+handle complaints, more attention to training, authority, technological resources and 
+operational support would increase the value of these assessments.  
+2.3 Training 
+FCAC requires banks to demonstrate that the employees who handle complaints have the 
+training they need to understand and follow CHPs. The information employees need to adhere 
+to the dispute resolution process should be readily available. Banks are expected to provide 
+employees with the necessary training during onboarding and to deliver ongoing training and 
+refresher courses, particularly to frontline employees who interact directly with consumers. 
+Finally, FCAC requires banks to establish review processes to make sure training remains 
+relevant and current. 
+FCAC found that banks’ annual training regarding complaint handling and applicable market 
+conduct obligations is generally inadequate; in some cases, it is totally absent. FCAC expects 
+banks to demonstrate that they have trained the employees designated to handle complaints 
+to ensure they are able to give consumers accurate information and guide them through the 
+banks’ procedures.  
+
+--- PAGE 16 ---
+13 
+ 
+The need for enhanced training is greatest at the second and SCO levels. Half of the six banks 
+reviewed could demonstrate that they held annual training sessions for Level 1 employees 
+about complaint handling and the applicable market conduct obligations overseen by FCAC. But 
+only two banks provided this annual training at the second level, and only one could 
+demonstrate that SCO personnel complete annual training on relevant consumer legislation 
+and guidelines. While some banks have formal onboarding at the second level, most banks rely 
+on job shadowing, coaching and experience to be sure that employees know how to perform 
+their roles at the second and SCO levels.  
+Banks appear to rely less on formal training for complaint handling than for other regulated 
+activities, such as anti-money laundering initiatives. Most employees who handle escalated 
+complaints appear to have experience in the branch and phone channels. Banks emphasized 
+that handling escalated complaints requires employees to exercise judgment and discretion 
+because the circumstances surrounding these complaints can vary widely. Employees are 
+encouraged to learn how to help consumers and resolve escalated complaints on the job 
+through frequent but informal coaching from managers and ongoing discussions with their 
+peers.  
+However, because there are few formal, annual training modules on complaint handling or the 
+applicable rules, it is more difficult for banks to monitor whether their employees have an 
+adequate level of understanding. In comparison, banks can monitor completion rates for the 
+more formal, mandatory annual training modules, such as those pertaining to the employee 
+code of conduct or anti-money laundering activities. Some of the CHP training material 
+provided to FCAC by banks did not indicate dates, revision histories, document owners or 
+review schedules. These deficiencies make it difficult to determine how banks ensure the 
+training they provide to employees is relevant and accurate.  
+In addition, most banks could not demonstrate the effectiveness of their training programs to 
+FCAC. Some indicated they use branch surveillance programs to oversee training. However, 
+none of the banks could produce reports or otherwise demonstrate that their employees have 
+acceptable levels of knowledge and understanding.  
+2.4 Monitoring and reporting 
+FCAC expects banks to establish systems for capturing and retaining information about 
+complaints. This is for the purpose of improving their products and services for consumers, 
+monitoring compliance and reporting escalated complaints to FCAC. Complaints can help 
+identify broader or widespread issues and trends. The Bank Act requires the designated SCO to 
+report specific information publicly, such as the number of complaints investigated, the average 
+length of time to resolve complaints and the number resolved to consumers’ satisfaction. 
+Based on the findings of its 2018 sales practices review, FCAC provided the large six banks with 
+recommendations requiring them to improve their policies and procedures for recording, 
+analyzing and reporting on complaint data. During the complaint review, FCAC found that banks 
+
+--- PAGE 17 ---
+14 
+ 
+had significantly enhanced their monitoring and reporting of Level 2 complaints. These 
+investments have improved their ability to gather intelligence about the risks of mis-selling and 
+breaches of market conduct obligations.  
+2.4.1 Level 1  
+Banks have considerable room to improve their monitoring and reporting of first-level 
+complaints. Two banks produce internal reports on first-level complaints, but these are based 
+on incomplete records. In response to FCAC’s supervisory work and the new consumer 
+protection legislation passed by Parliament in December 2018, banks are developing the 
+systems and resources required to keep records of first-level resolutions. 
+2.4.2 Level 2 
+As noted above, banks have improved procedures for identifying and investigating second-level 
+complaints related to market conduct obligations. Before FCAC’s 2018 review of sales practices, 
+banks tended to rely too heavily on changes in the volume of complaints (for example, quarter-
+over-quarter) to identify trends and root causes. In response to FCAC recommendations, they 
+have strengthened their procedures for analyzing low-volume, high-risk complaints about 
+employee behaviour once those complaints reach the second level. For example, most banks 
+now conduct root-cause investigations when second-level specialists flag complaints about 
+sales practices and related market conduct obligations. 
+The actions taken to better identify complaints related to consumer provisions have improved 
+banks’ mandatory reporting to FCAC. For instance, some banks have added monitoring 
+resources to the compliance function so second-level complaints can be sampled and analyzed 
+to see whether reportable complaints are flagged appropriately. Banks are expected to report 
+all second-level complaints related to market conduct obligations quarterly, in an aggregate 
+format, using FCAC’s classification system. They are also required to keep records of their 
+investigations of second-level reportable complaints and to provide the investigation data to 
+FCAC upon request.  
+One of the most important responsibilities of employees who handle complaints is to identify 
+areas where banks can prevent complaints by strengthening controls, improving sales practices 
+or giving consumers clearer information. The procedures for reporting opportunities to improve 
+business practices are overly informal, which can make it difficult to monitor the status of 
+action plans addressing the issues identified by Level 2 employees.  
+2.4.3 Designated senior complaints officer (monitoring and reporting) 
+In general, the SCOs’ reporting procedures are underdeveloped. Most could not produce or 
+describe the steps taken to verify and ensure the accuracy of information about their activities 
+(such as the number of complaints resolved to consumers’ satisfaction), which they are 
+required to report publicly. FCAC found a number of inconsistencies in the SCOs’ records during 
+the review of complaint investigation files, such as incorrect records of the date when the 
+complaints were received at the second level.  
+
+--- PAGE 18 ---
+15 
+ 
+Most SCOs have a narrow interpretation of the reporting requirements in the Bank Act. They 
+tend to report the minimum amount of information required, namely complaints investigated, 
+average time to resolve and the number resolved to consumers’ satisfaction. Some report SCO 
+statistics in their annual corporate social responsibility reports in a manner FCAC found to be 
+difficult to find and interpret. In contrast, one bank’s SCO produces an exemplary annual report 
+that includes a clear description of its mandate and the services it provides to customers. This 
+bank’s SCO report also includes case studies, a discussion of trends and issues, and tips for 
+consumers about protecting themselves from fraud and other harms.  
+Most SCOs do not have procedures in place to identify, flag and report complaints that may 
+involve potential breaches of market conduct obligations. They suggested that the 
+responsibility to report such complaints lies at the second level. However, the SCO performs 
+complaint investigations that are, in many cases, more thorough than those at Level 2 and may 
+identify additional issues related to market conduct obligations. 
+The procedures for using complaint data to identify opportunities to enhance sales practices 
+and improve communication to consumers are overly informal in the SCO offices as well. FCAC 
+found SCO investigators at most banks were reaching out directly to business lines to promote 
+enhancements and manually monitor action plans, which may lead to a lack of oversight by the 
+compliance function or risk management.  
+3 Accessibility 
+Banks’ procedures for handling complaints should be accessible, straightforward and easy for 
+consumers to understand. Since banks have multiple levels of employees designated to handle 
+complaints, FCAC expects them to facilitate consumers’ efforts to escalate complaints across all 
+levels. This ensures the accessibility of their CHPs. 
+FCAC found that the first level of banks’ CHPs is relatively accessible. In a representative public 
+opinion survey conducted for FCAC, 73% of Canadians who experienced a problem with their 
+bank during the previous year said they contacted the bank about the issue. FCAC calculated 
+that in 2018, approximately 4.23 million of the 5.81 million Canadians who experienced a 
+problem with one of the large six banks brought their complaint to the bank. 
+However, four in ten consumers (41%) reported at least one barrier when attempting to get 
+their complaint resolved. The process for escalating complaints is not sufficiently accessible 
+when banks are unable to resolve a complaint at the first level. FCAC estimates that more than 
+90% of consumers whose complaint was not resolved to their satisfaction at Level 1 did not 
+have it investigated by the second level, suggesting it is not straightforward or easy for 
+consumers to escalate complaints.
+11  
+                                                      
+11 Calculation based on results of the representative survey and data acquired from banks during the industry 
+review. Based on the representative survey of financial consumers, FCAC estimates that the large six banks did not 
+
+--- PAGE 19 ---
+16 
+ 
+FCAC also observed significant levels of attrition when consumers try to escalate their 
+complaints further in the banks’ processes. Approximately two-thirds (65%) of consumers 
+surveyed who were not satisfied with the resolution proposed at the second level chose not to 
+escalate their complaint to the bank’s designated SCO. More than two-thirds (68%) of 
+consumers surveyed whose complaints were not resolved satisfactorily by the SCO dropped the 
+complaint and said they did not contact the ECB.  
+Figure 2: Consumer complaints brought to each level of the large six banks’ CHPs in 2018*
+*Graph is for illustrative purposes, and the length of the bars is not to scale. The estimated number of consumers who 
+experienced a banking issue and brought their complaint to Level 1 is based on the results of the representative public opinion 
+research survey and FCAC calculations. The numbers of investigations opened at levels 2, 3 and 4 are based on data gathered 
+from the large six banks and ECBs during FCAC’s CHP review. 
+ 
+FCAC observed two main reasons behind the lack of access to the banks’ processes for 
+escalating complaints. First, contrary to FCAC guidelines, banks are not facilitating complaint 
+escalations, a hurdle that is compounded by the fact that the process is not easy to navigate. 
+Consumers need to initiate and drive the process. The high levels of attrition may indicate that 
+banks are placing an unreasonable burden on consumers who are not satisfied with the initial 
+response to their complaints.  
+Second, FCAC found that banks are not doing enough to provide consumers with CHP 
+information or help them understand how to navigate procedures for escalating complaints. 
+For example, banks do not reliably provide consumers with all of the information they need to 
+have a complaint resolved at higher levels.  
+                                                      
+satisfactorily resolve complaints from 1.015 million consumers at Level 1. During the review, FCAC found that  
+between them, the six large banks opened only 95,000 complaints at Level 2 (see Figure 2).  
+
+
+--- PAGE 20 ---
+17 
+ 
+3.1  Facilitating access to complaint escalation process  
+FCAC expects banks to make sure consumers understand how to escalate their complaint to the 
+next level when they are not satisfied with the resolution proposed at the prior level. This 
+expectation goes beyond simply providing an information brochure. FCAC also expects banks to 
+facilitate complaint escalations; banks should make it straightforward for consumers to 
+navigate the process of bringing a complaint not just to the second level, but to the designated 
+SCO and to the ECB if the bank cannot resolve the dispute internally. FCAC’s expectations about 
+the accessibility of the internal escalation process and ECBs are closely aligned with the 
+recommendations of the World Bank and the OECD/G20 Task Force on Financial Consumer 
+Protection.12 
+3.1.1 Banks lack procedures for escalating complaints 
+The process of escalating complaints is consumer-driven. In general, banks do not have 
+well-developed procedures for employees to help consumers escalate problems from the first 
+level to the next step. In certain circumstances, banks instruct employees to escalate 
+complaints proactively if they foresee reputational risks, such as when a consumer threatens to 
+take a complaint to the media.  
+Most banks have policies that strongly encourage frontline employees to resolve as many 
+complaints as possible at the first level. This generally benefits consumers, as most problems 
+can be resolved more quickly and effectively this way. However, it can deter consumers from 
+escalating complaints that merit more in-depth investigations, particularly when combined with 
+other policies. For example, some banks have procedures to send large numbers of complaints 
+back to the first level after consumers manage to escalate a problem. In fact, one bank sends 
+roughly half of the complainants who reach the second level back to the first. Some banks 
+require their frontline employees to receive targeted coaching sessions when consumers 
+escalate complaints that the bank believes should have been resolved at Level 1. While this 
+training may help employees serve consumers better, it may also discourage them from 
+escalating complaints even when consumers are not satisfied with the response they receive at 
+Level 1.  
+In addition, most banks have neither developed nor implemented procedures to provide 
+additional assistance to consumers who may have more difficulty escalating their complaint or 
+navigating the bank’s CHPs, such as seniors, people with disabilities, consumers in rural areas or 
+those in low-income households. Only one bank has implemented procedures and training 
+modules for employees to provide additional support and assistance to seniors with 
+complaints.
+13 
+                                                      
+12 World Bank. (2017). Good Practices for Financial Consumer Protection. Washington, DC: State Secretariat for 
+Economic Affairs SECO, pp. 49-52. openknowledge.worldbank.org/handle/10986/28996. 
+13 The banks adopted a Code of Conduct for the Delivery of Banking Services to Seniors (the Code) in July 2019. The 
+code was developed to guide banks in delivering products and services to Canada’s seniors. It includes 
+
+--- PAGE 21 ---
+18 
+ 
+3.1.2 Multiple layers and steps within each level of complaint handling procedures 
+Most banks include multiple layers of management in their definition of Level 1, including 
+supervisors, team leads, branch managers and, in some cases, regional or district vice-
+presidents. FCAC found that banks instruct employees to ensure consumers exhaust all of the 
+steps in the first level before letting them know how to escalate a complaint. For example, one 
+bank requires consumers to contact a “senior officer in the appropriate business group” to 
+escalate their complaint beyond the first level. As a result, this bank receives significantly fewer 
+complaints at the second level than most other large banks. 
+When banks develop multiple layers and steps within each level, it reduces the CHP’s 
+accessibility. Consumers may find it too difficult, confusing or intimidating to escalate their 
+complaint to senior officers and vice-presidents.  
+3.1.3 Unreasonable burden on consumers escalating complaints 
+Banks do not make it easy for consumers to escalate complaints. In most cases, consumers are 
+required to produce evidence of a final resolution from each level before they can take a 
+complaint to the next step.  
+Consumers who manage to escalate their complaint to the second level often encounter 
+lengthy and frustrating processes. In addition to acquiring a final response from the first level, 
+consumers are normally required to resubmit their complaint (to describe their complaint, 
+propose a resolution, and submit supporting documentation for a second time), in part because 
+banks do not have reliable recordkeeping at the first level. Consumers are often required to 
+resubmit information about their complaint yet again if they choose to escalate it to the bank’s 
+SCO as well.  
+3.2 Providing information about complaint handling procedures 
+FCAC expects banks to facilitate consumers’ understanding and use of CHPs. This includes 
+providing consumers with CHP information that is accessible, straightforward and easy to 
+understand, wherever they provide products and services to consumers. It should also explain 
+how consumers can complain to a bank over the phone, by letter, online or in person. Banks 
+should provide consumers with progress updates when key milestones are reached and let 
+them know how they can request information about the status of their complaint. 
+During the review, FCAC found that banks do not consistently give consumers the information 
+they need to confidently navigate CHPs, particularly when it comes to escalating complaints 
+beyond the first level. Banks have not implemented the procedures required to make sure 
+consumers have the information and documentation they need. This failure is of real 
+                                                      
+commitments to establish and implement appropriate policies, procedures and processes to communicate 
+effectively with seniors.  
+  
+
+--- PAGE 22 ---
+19 
+ 
+consequence and is reflected in the high rates of attrition as consumers attempt to initiate and 
+drive the escalation process without bank support.  
+3.2.1 Procedures for providing information about complaint handling procedures 
+to consumers  
+Few consumers receive information from their banks about CHPs, according to FCAC’s public 
+opinion research. Only 30% of consumers surveyed who had brought a problem to their bank 
+said they were given additional information about how they could resolve or escalate their 
+complaint. 
+Most banks do not have procedures to help consumers understand how to follow the process, 
+such as explaining in plain language what documents or agreements they need to escalate a 
+complaint. Some banks have implemented procedures that instruct first-level employees to 
+only provide information about additional steps consumers can take when they explicitly state 
+their intent to escalate a complaint or specifically ask for the bank’s CHP. 
+Banks’ policies and procedures for providing consumers with information are somewhat better 
+at the second and third levels. In general, second-level employees and designated SCOs have 
+procedures instructing them to acknowledge consumers’ complaints promptly and inform 
+consumers when their complaint has been assigned to a specialist or investigator. They also 
+have reasonable standards for communicating the bank’s final response. The employees FCAC 
+interviewed from the second levels and SCO offices demonstrated a firm understanding of 
+these procedures.  
+However, FCAC found limited evidence in the complaint files analyzed during the review that 
+employees at the second level and SCO offices are providing consumers with status updates or 
+information about the banks’ CHPs. FCAC found that, despite having more knowledge and 
+access to stronger procedures than their colleagues at Level 1, employees at levels 2 and 3 
+rarely provide consumers with brochures about complaint handling. As well, once the 
+investigation is open, banks tend not to provide consumers with regular status updates. This 
+means consumers do not know what direction the investigation is taking or when to expect a 
+final recommendation. Consumers appear to initiate most of the communication with their 
+banks, requesting status and progress updates.  
+“I would just like to know the status of my complaint. I don't want to think and feel that 
+my whole complaint is just being ignored or being swept under the carpet." – Consumer, 
+complaint file review 
+The representative survey confirmed the deficiencies FCAC observed at the second and SCO 
+levels. Only 22% of consumers who escalated their complaint to the second level said banks 
+gave them information about how to escalate their complaint to the next step if it was not 
+resolved to their satisfaction. Only 19% of consumers who reached the designated SCO said 
+
+--- PAGE 23 ---
+20 
+ 
+they were provided with information about next steps. As a result, fewer than one in five 
+Canadians have heard of either of the two approved ECBs.  
+“No one knew what to do. I was asked to go higher and didn't know what to do. The 
+bureaucracy and [staff] not being trained adequately. It took too long to fix it.” – 
+Consumer, survey respondent 
+3.2.2 Complaint handling procedure brochures 
+Banks are required to provide brochures about their CHPs. These must be available in branches 
+and wherever products or services are offered in Canada. In the review, FCAC found that most 
+banks do not have sufficient controls in place to make sure frontline employees know when 
+they are required to provide consumers with these brochures. 
+In addition, FCAC found that some banks’ brochures do not provide clear and comprehensive 
+information about how to escalate complaints. For example, one bank does not identify its 
+second-level complaint resolution team.  
+In other cases, the information banks provide to consumers in complaint brochures is outdated. 
+For example, one bank has consolidated the SCO service for its subsidiary, meaning the 
+subsidiary’s customers must escalate complaints to the parent bank’s designated SCO, but this 
+change was not reflected in the subsidiary’s brochure at the time of the review.  
+3.2.3 Providing information about external complaints bodies to consumers 
+FCAC guidelines require banks to inform consumers about their right to escalate a complaint to 
+an ECB if it takes more than 90 days to resolve from the time it was escalated to the bank’s 
+second level. This means consumers do not need to wait for the bank’s SCO to complete its 
+investigation: they have the right to bypass the SCO and escalate their complaint from Level 2 
+to the ECB if the bank takes more than 90 days to resolve it from the date it is escalated. 
+However, banks generally fail to communicate this right to consumers clearly. FCAC’s review 
+found that most banks do not have reliable procedures to provide consumers with 90-day 
+letters, particularly at Level 2. In fact, some banks have misleading letter templates that suggest 
+consumers must wait until the SCO completes its investigation before they can escalate a 
+complaint to the ECB. Some banks provide consumers with misleading information over the 
+phone, suggesting they should wait for the SCO to reach a decision because the ECB will need 
+the results of the bank’s investigation to carry out its own investigation.  
+4 Timeliness 
+In Canada, the standards for timely complaint handling are relatively generous toward banks by 
+international standards. FCAC guidelines require banks to resolve the majority of complaints 
+within 90 days, which is about 50% longer than the standard in the United Kingdom and twice 
+as long as permitted by regulators in Australia. In addition, FCAC guidelines do not require 
+banks to start the 90-day clock until the complaint has been escalated to the second level, 
+
+--- PAGE 24 ---
+21 
+ 
+which means the time consumers spend going through various steps at the first level is not 
+counted. Most jurisdictions start the clock when the complaint is first submitted. 
+While banks resolve the majority of complaints brought to them within a reasonable amount of 
+time, just over a quarter (26%) of consumers surveyed feel their bank takes too long. 
+Consumers reported that two-thirds (66%) of the complaints they bring to banks are resolved in 
+less than a week, while nearly nine in 10 (88%) are resolved in less than a month. Slightly more 
+than seven in 10 (72%) consumers say their bank resolved the complaint in the right amount of 
+time.  
+However, consumers who choose to escalate a complaint often face unreasonable delays in 
+banks’ efforts to resolve them. As illustrated in Figure 3 above, four of the six banks did not 
+resolve the complaints escalated to the SCO in a manner consistent with the 90-day standard. 
+FCAC found that three of the six banks are exceeding 90 days by 50% or more, on average. In 
+the more detailed review of the sample of 150 complaint files, FCAC observed that the main 
+reasons for this are inefficient bank policies and procedures for handling escalated complaints 
+and a failure to allocate sufficient resources.  
+"I am confused what possibly could be taking so long to review. It is coming up on a 
+month almost since this issue took place. What more are [you] trying to find out?” 
+ – Consumer, complaint file review  
+   
+In keeping with international best practices, FCAC guidelines require banks to acknowledge 
+escalated complaints without delay. Banks are also required to provide consumers with a 
+timeline outlining how long it will take to resolve their issue, and to advise consumers of their 
+right to escalate their complaint to the ECB.  
+The timeliness standard of 90 days is intended to promote efficiency by giving banks an 
+opportunity to resolve complaints internally while empowering consumers with the information 
+they need to escalate their complaint if the bank cannot resolve it in a reasonable timeframe. 
+Figure 3: Timeliness of complaint resolutions by banks’ senior complaints officer 
+ 
+Bank Average number of days to resolve* 
+Bank 1 207 
+Bank 2 89 
+Bank 3 140 
+Bank 4 88 
+Bank 5 107 
+Bank 6 158 
+* The average number of days between receipt of the complaint by Level 2 and when the designated SCO sent the consumer 
+a final resolution letter. FCAC’s timeliness calculations are based on the review of a sample of 300 complaint files resolved by 
+the banks’ SCOs over the previous two years. The order and number of the banks has been randomized. 
+
+--- PAGE 25 ---
+22 
+ 
+Some complaints may take longer to investigate properly, and regulators generally require 
+banks to resolve complaints on a timeline that is reasonable and consistent with other, similar 
+complaints. 
+In most cases, the issues consumers bring to their banks’ attention are time-sensitive. For 
+example, three of the most frequent consumer complaints are about access to their money, 
+unauthorized transactions and fraudulent access to funds. The impact of these problems can 
+grow more acute with each hour that passes before the bank addresses them. In FCAC’s review 
+of complaint files, consumers who were unable to access their funds said they had difficulty 
+purchasing basic necessities and incurred fees for non-sufficient funds and late payments. They 
+also missed payments on debt obligations and suffered damage to their credit bureau reports, 
+which can affect access to affordable credit.  
+When banks take an unreasonable amount of time to resolve a complaint, it can be more 
+difficult to reach a fair resolution. Lengthy complaint resolution processes tend to generate 
+other problems, making it harder for the bank to propose resolutions that consumers will 
+ultimately find satisfactory. Consumers may feel they have no option other than to accept a 
+partial resolution, or one they feel is unfair in the circumstances, when banks take too long to 
+resolve a complaint. Banks’ inefficiencies may also lead consumers to drop complaints before 
+banks have an opportunity to resolve them. FCAC found that the length of time it takes banks 
+to resolve complaints is an important cause of attrition.  
+"I'm sorry but after months and months of having to take these matters in our own 
+hands, [a] $300.00 gift card for one person is an absolute JOKE... very tired and 
+frustrated with these endless games everyone at [the Bank] is playing.” 
+ – Consumer, complaint file review  
+ 
+"[This] was almost 3 weeks ago and I've just now got the stomach to come back and 
+continue to deal with this problem.”  
+– Consumer, complaint file review  
+4.1 Reasons for not meeting timeliness standards 
+Contrary to FCAC’s guidelines and regulatory expectations, most banks are not able to resolve 
+complaints escalated to the SCO within 90 days, and some take significantly longer, as indicated 
+in Figure 3. It is important to note that these timelines do not include the time consumers 
+spend at the banks’ first levels, taking their complaints from the frontline CSR to the branch 
+manager and, in some cases, to the regional or district vice president. 
+FCAC gathered timeliness data related to approximately 300 complaints resolved by the large 
+six banks’ designated SCOs over the past two years. The sample included sufficient 
+representation from the main types of complaints and resolution outcomes. Half of the sample 
+was analyzed more closely to determine the causes of the failure to observe the standards for 
+timeliness, as described below. 
+
+--- PAGE 26 ---
+23 
+ 
+4.1.1 Procedural delays 
+Banks are largely to blame for the unreasonable length of time it takes to resolve escalated 
+complaints. While slow responses from consumers result in delays in some cases, delays are 
+mainly attributable to inefficiencies in the banks’ policies and procedures.  
+FCAC observed evidence of delays in approximately two-thirds (67%) of the 150 designated SCO 
+complaint files it subjected to a full review. Almost three-quarters (73%) of the delays can be 
+attributed solely to the bank, while slow responses from consumers were responsible for 10%. 
+For the remainder, FCAC had insufficient information to determine whether the bank or the 
+consumer bore responsibility. More than half of the delays attributable to banks were caused 
+by the office of the SCO, while the second level caused 10%.  
+There are a number of reasons for these delays. For example, most SCOs have not implemented 
+the procedures necessary to ensure complaints are resolved in a manner consistent with FCAC’s 
+timeliness standard, which requires banks to provide consumers with a resolution 90 days from 
+the time the complaint is escalated to the second level. Most SCOs have implemented a policy 
+of resolving complaints in an average of 90 days from the time they assign it to an SCO 
+investigator. Because banks require consumers to go through Level 2 and the SCO’s intake 
+process before the SCO starts the clock, they often fail to meet FCAC’s expectations for 
+timeliness. FCAC found that SCOs routinely receive complaints that consumers had first 
+escalated to the second level two to three months previously, making it nearly impossible for 
+the SCO to resolve the complaint in less than 90 days from the time it was escalated to Level 2.  
+Some SCOs lack direct access to their bank’s records, which leaves them waiting for busy 
+branch employees or second-level specialists to retrieve contracts, agreements and other 
+documents relevant to complaints. As a result, the SCO’s intake officers frequently struggle to 
+obtain all of the documentation necessary to begin the investigation in a reasonable amount of 
+time. For example, it takes one bank’s SCO an average of more than 30 days to assemble all of 
+the material necessary to assign the complaint to an investigator. 
+4.1.2 Intake policies and complaint de-escalation 
+SCOs redirect most consumers who contact them with complaints to lower levels of the bank’s 
+CHP. Generally, they do so because consumers have not gone through the first or second level 
+before escalating their complaint to the SCO. For example, one bank opened investigations for 
+fewer than 20% of the more than 4,000 consumers who contacted the SCO; this ratio between 
+complaints received and investigations opened is typical. The SCO at another bank sent 80% of 
+the complaints it received down to Level 2.  
+Sending large numbers of complaints to lower levels may increase efficiency by reducing the 
+number of full investigations undertaken at the highest level. Furthermore, the high levels of 
+attrition suggest that most of the consumers sent down to Level 2 will never bring their 
+complaint back to the SCO. However, when consumers escalate redirected complaints back to 
+
+--- PAGE 27 ---
+24 
+ 
+the SCO a second time, banks struggle to meet FCAC’s standards for timeliness. Most banks do 
+not monitor complaints redirected from the SCO to Level 2 to prevent unreasonable delays.  
+4.1.3 Delays related to senior complaints officers’ lack of resolution authority 
+Most SCOs do not have the authority to reimburse consumers or impose settlements on 
+business units (such as branches) or lines of business (such as cards or insurance). This lack of 
+authority to compel a resolution seems to contribute to the delays in resolving some 
+complaints. 
+SCOs have mandates to operate independently from the banks’ lines of business. For example, 
+SCO employees do not hold management positions or serve as members of committees that 
+contribute to the bank’s strategic direction. In practice, this means SCOs recommend and 
+negotiate resolutions and reimbursements rather than directing the branch or business line to 
+provide consumers with redress. The SCO’s investigator gathers evidence, assembles the chain 
+of events, and establishes the degree of harm and the extent to which the bank and/or the 
+consumer are at fault. Investigators then use their judgment and experience to propose a fair 
+and reasonable settlement or resolution. However, the SCO then needs to persuade 
+management from the branch or line of business to agree to both the amount of and rationale 
+for the proposed settlement before bringing it to the consumer.  
+This process can lead to delays as the SCO negotiates with the business line. While these sums 
+are relatively small for the bank as a whole, they can be significant for the business unit 
+accountable for reimbursing the consumer. To hold the business line accountable for 
+reimbursing the consumer, the SCO needs to demonstrate that the complaint is related to a 
+more widespread issue. More commonly, FCAC observed that delays happened while SCO 
+employees and branch managers discussed reimbursement amounts, the degree of negligence, 
+sales procedures and the consumer’s behaviour and relationship with the bank. During such 
+negotiations, consumers are left waiting, and many are frustrated by how long it takes the bank 
+to resolve their complaints. This type of delay can undermine consumers’ confidence in the 
+fairness and objectivity of banks’ CHPs. 
+5 Conclusion 
+FCAC is addressing the deficiencies observed in the banks’ CHPs through ongoing supervision 
+and oversight. FCAC will use its supervision and guidance tools to require banks to make 
+improvements, including strengthening the policies and procedures for:  
+o resolving complaints in a timely manner and informing consumers of their right to 
+escalate complaints to an ECB when the bank is unable to resolve the complaint 
+internally within the required timeframe  
+o facilitating the CHP, ensuring consumers have the information and documentation they 
+need to navigate the bank’s process, and generally making it straightforward for 
+consumers to escalate complaints 
+
+--- PAGE 28 ---
+25 
+ 
+o ensuring complaints are resolved objectively and implementing comprehensive and 
+well-developed reimbursement policies 
+o assessing the adequacy of the resources designated to handle complaints 
+o training employees designated to handle complaints and improving the system for 
+monitoring the completion and effectiveness of the training  
+o reviewing the effectiveness of CHPs, including how banks solicit regular feedback from 
+complainants and improve the process for consumers  
+o overseeing and monitoring CHPs to ensure adherence to market conduct obligations, 
+including the roles and responsibilities of the three lines of defence: operational 
+management, compliance and risk management, and internal audit  
+FCAC will also provide further guidance on its expectations to banks in the coming months.  
+The Financial Consumer Protection Framework (FCPF) legislation adopted by Parliament in 2018 
+includes a more robust complaint handling regime and provides new authorities to the FCAC 
+Commissioner that will strengthen the Agency’s ability to ensure banks invest adequate 
+resources in their CHPs and make the improvements called for in this report.
+14 Among the new 
+provisions, banks will be required to establish CHPs that are satisfactory to the FCAC 
+Commissioner. 
+Industry reviews are an important element of FCAC’s supervision framework. They allow FCAC 
+to compare business practices and controls for ensuring compliance with market conduct 
+obligations across the industry. FCAC uses the findings from industry reviews to recommend 
+improvements, enhancing consumer protection moving forward.  
+                                                      
+14 The new regime for complaint handling is contained in Bill C-86, Budget Implementation Act, 2018, No. 2, which 
+received Royal Assent on December 13, 2018. It is among a number of new provisions to modernize the FCPF in 
+the Bank Act and to amend the Financial Consumer Agency of Canada Act by strengthening the Agency’s mandate 
+and tools.  

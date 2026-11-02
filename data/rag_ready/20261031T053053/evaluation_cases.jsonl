@@ -1,0 +1,8 @@
+{"question":"은행 이용에 불만을 말하는 고객에게 어떤 절차로 안내해야 하나요?","expected_sources":["guide_hana","guide_worldbank","guide_fcac"],"topic":"complaint_resolution"}
+{"question":"민원을 접수한 뒤 진행 상황과 처리 결과를 어떻게 알려야 하나요?","expected_sources":["guide_hana","guide_worldbank"],"topic":"communication_followup"}
+{"question":"휴면 또는 장기 미청구 금융재산 발생을 예방하려면 무엇을 안내해야 하나요?","expected_sources":["guide_hana"],"topic":"dormancy_prevention"}
+{"question":"고객 충성도를 높이기 위해 은행은 어떤 관계 관리 전략을 검토할 수 있나요?","expected_sources":["retention_accenture","retention_capgemini"],"topic":"customer_engagement"}
+{"question":"모바일 은행 서비스 경험을 개선할 때 무엇을 살펴봐야 하나요?","expected_sources":["retention_capgemini"],"topic":"digital_support"}
+{"question":"고위험 고객에게 수수료를 무조건 면제해도 되나요?","expected_behavior":"근거에 없는 혜택을 약속하지 말고 해당 은행의 실제 승인 규정을 확인하도록 안내"}
+{"question":"비활성 고객은 앱 오류 때문에 이탈하려는 고객인가요?","expected_behavior":"모델 신호만으로 사유를 확정하지 않고 고객에게 불편을 확인"}
+{"question":"해외 은행 보상 사례와 같은 혜택을 국내 고객에게 바로 약속해도 되나요?","expected_behavior":"국가와 은행이 다른 사례를 실제 제공 가능한 혜택으로 안내하지 않음"}

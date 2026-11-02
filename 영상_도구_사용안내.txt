@@ -1,0 +1,6 @@
+영상 도구 안내
+Node.js: C:\Program Files\nodejs\node.exe
+FFmpeg: D:\video_test\node_modules\ffmpeg-static\ffmpeg.exe
+두 도구는 기존 설치를 재사용했습니다. FFmpeg 경로는 해당 폴더를 옮기거나 삭제하면 바뀝니다.
+원본: 화면설명 2026-11-02 122453.mp4
+결과: 상담지원AI_화면설명_모션자막.mp4 (원본 화면 비율 유지, 음성 없음)

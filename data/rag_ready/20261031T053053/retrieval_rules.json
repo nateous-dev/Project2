@@ -1,0 +1,25 @@
+{
+  "required_citations": [
+    "title",
+    "url",
+    "page"
+  ],
+  "separate_filters": [
+    "category",
+    "country",
+    "evidence_type"
+  ],
+  "workflow": [
+    "model signal",
+    "ask to confirm reason",
+    "retrieve matching guidance",
+    "draft with citations",
+    "staff review"
+  ],
+  "do_not": [
+    "infer actual complaint from SHAP",
+    "promise undocumented fee waiver or interest rate",
+    "present foreign case as local policy"
+  ],
+  "no_evidence_response": "확인된 근거가 부족합니다. 담당자가 은행 규정과 고객 상황을 확인해야 합니다."
+}
